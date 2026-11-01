@@ -1,197 +1,72 @@
 | Termo | Definição |
 |---|---|
-| **Abscesso** | Coleção de pus no tecido subcutâneo (hipoderme). Pode ser bacteriano ou fúngico (ex.: nódulos da esporotricose que abscedam). O abscesso fúngico pode ter contaminação bacteriana secundária. |
-| **Ácido retinoico** | Regula a proliferação, a migração e a diferenciação do queratinócito. Inicia a divisão e a migração e freia o processo quando está acelerado. (Na transcrição, a continuação do trecho aparece como "ácido fólico [?]", provavelmente um erro de transcrição.) |
-| **Ácidos graxos (ômega-3 e ômega-6)** | Lipídios do filme hidrolipídico, produzidos pelos grânulos lamelares e presentes na secreção sebácea. A suplementação oral ou tópica busca repor esse filme. A resposta só aparece a longo prazo: mínimo de 6 meses e, muitas vezes, uso por toda a vida. O efeito anti-inflamatório foi demonstrado *in vitro*, mas não confirmado *in vivo*. |
-| **Acne felina** | Acúmulo de queratina nos folículos da região mentoniana do gato, área de glândulas sebáceas modificadas, que forma comedões (pontos pretos). Sem infecção, pode-se apenas acompanhar. A complicação é a infecção bacteriana profunda. |
-| **Adenoma de glândula perianal** | Neoplasia das glândulas perianais, frequente no cão idoso não castrado. Responde à testosterona: além da exérese, exige castração para não recidivar. |
-| **Alopecia** | Ausência de pelo. Pode ser lesão primária (ex.: sarna demodécica, por destruição do folículo) ou secundária (ex.: autotraumatismo em doença alérgica). Descrever como focal, multifocal ou generalizada. |
-| **Alopecia X** | Distúrbio do ciclo do pelo: o animal mantém ou volta à pelagem de filhote e perde pelo sem alteração detectável na produção hormonal. O folículo não está doente, está "adormecido". Mecanismo indefinido e evolução imprevisível. A hiperpigmentação é homogênea e não há espessamento da pele. |
-| **Anágena (anágeno, fase anagênica)** | Fase de crescimento do pelo. Em raças de pelagem longa (ex.: Maltês, Poodle), cerca de 98% dos pelos estão em anágena. No tricograma, a raiz é larga, "gorda", cheia. |
-| **Anexos cutâneos** | Segundo a aula, nos cães e gatos limitam-se às unhas. Unhas e leito ungueal devem ser examinados, pois também são sede de doenças dermatológicas. |
-| **Angioedema** | Edema intenso de face que pode acompanhar a urticária. Há risco de edema de glote. |
-| **Aspecto de pergaminho** | Pele fina, ressecada e finamente marcada, como se estivesse "estriando". Descrição típica do hipercortisolismo. |
-| **Atrofia cutânea (adelgaçamento)** | Afinamento da pele. Aparece primeiro onde a pele já é naturalmente mais fina (regiões ventral e abdominal). Causas citadas: hipercortisolismo e vasculite, inclusive a pós-vacinal. |
-| **Autotraumatismo** | Lesão que o próprio animal provoca ao coçar, morder ou lamber em resposta ao prurido. É a causa mais comum de lesões secundárias. |
-| **Barreira cutânea** | Função básica da pele: separar o meio externo do interno. Controla a perda de água, eletrólitos e macromoléculas e protege contra agressões físicas, químicas e microbiológicas. Tem três componentes: **física** (arranjo dos queratinócitos), **química** (secreções das glândulas sebáceas e sudoríparas e dos corpos lamelares, com peptídeos antimicrobianos) e **imunológica** (linfócitos e células de Langerhans). Analogia da aula: muro de tijolos (células) assentados com cimento (lipídios). |
-| **Biópsia de pele** | Coleta de fragmento para histopatologia. Coletar em elipse, acompanhando a inclinação dos pelos, para obter folículos inteiros. Na suspeita de doença autoimune, incluir áreas de transição (ex.: plano nasal e pele com pelo). |
-| **Bolha** | Coleção de conteúdo seroso, sem células inflamatórias, maior que a vesícula. Rara em cães e gatos, porque a epiderme é pouco espessa. |
-| **Bolsa escrotal** | Um dos quatro padrões anatômicos da pele. Pele extremamente delgada e primeiro ponto de contato do macho com o ambiente; predisposta a dermatite de contato e difícil de proteger. |
-| **Bulbo piloso** | Porção mais profunda do folículo. Contém a matriz capilar, onde o pelo é formado, e recebe a vascularização pela papila dérmica. |
-| **Carcinoma** | Neoplasia maligna citada como causa de úlcera, inclusive com destruição do plano nasal em gato. |
-| **Catágena (catágeno, fase catagênica)** | Segundo a aula, fase de repouso, que começa quando o pelo atinge o tamanho geneticamente programado. É muito prolongada em raças nórdicas (Chow Chow, Spitz, Husky Siberiano), por isso não se recomenda tosar essas raças. Difícil de identificar no tricograma. (Ver nota.) |
-| **Cauda de garanhão** | Hiperplasia e hipersecreção das glândulas da cauda por excesso de testosterona. Primeiro surgem pelos untuosos; depois, alopecia por compressão de folículos e vasos. Pode ressecar e infectar. Associada a tumor testicular e a machos criptorquidas. Era frequente em gatos. |
-| **Célula acantolítica** | Queratinócito que perdeu as ligações desmossomais (acantólise), soltou-se e ficou arredondado, com núcleo. É encontrado nas pústulas do pênfigo foliáceo. |
-| **Células de Langerhans** | Cerca de 5% das células da epiderme. Ficam acima do estrato basal e têm projeções dendríticas ("aranha"). São apresentadoras de antígeno, "sentinelas" do sistema imune, e têm papel central na dermatite atópica. |
-| **Células de Merkel** | Poucas células do estrato basal, ligadas às terminações nervosas da derme. Transmitem estímulos táteis (pressão) ao sistema nervoso central. |
-| **Celulite** | Infecção bacteriana da hipoderme. É grave porque a camada é muito vascularizada, com risco de translocação bacteriana e sepse. |
-| **Ceramidas** | Principal lipídio do filme hidrolipídico, produzido pelos grânulos lamelares e presente na secreção sebácea. Importantes para regular o TEWL e a microbiota. Os produtos tópicos costumam trazer pré-ceramidas (fitoesfingosina). |
-| **Cerúmen** | Secreção das glândulas ceruminosas do conduto auditivo externo. Protege a orelha e lubrifica a membrana timpânica. Cerúmen visível indica agressão: o aumento da produção é a primeira resposta inflamatória. |
-| **Cicatriz** | Tecido fibroso que substitui derme e hipoderme. É alopécica (sem folículos), atrófica e despigmentada, e perde elasticidade e flexibilidade. Confirmação por histopatologia. |
-| **Ciclo do pelo** | Sequência contínua de crescimento, repouso e queda, não sincronizada entre os folículos (renovação em mosaico). A duração varia com raça, clima e luminosidade. Influências: microambiente folicular (queratinócitos, fibroblastos, adipócitos, células imunes, fibras nervosas) e hormônios. Hormônios tireoidianos estimulam, cortisol inibe e hormônios sexuais podem estimular ou inibir. O próprio folículo tem regulação hormonal. |
-| **Cisto** | Segundo a aula, coleção líquida preenchida por sangue ou exsudato sanguinolento. (Ver nota.) |
-| **Cisto interdigital** | Elevação macia entre os dedos, com líquido dentro. À punção, sai material de aspecto sanguinolento; na citologia, é infiltrado inflamatório (neutrófilos, macrófagos). Origem: ruptura de folículos por trauma, seja pela conformação dos membros (ex.: Bulldog), seja por lambedura em atópicos. A queratina em contato com a derme desencadeia reação inflamatória exacerbada. (Ver nota.) |
-| **Citologia** | Exame de material de superfície ou do conteúdo de lesões. Queratinócitos nucleados ou pouco queratinizados indicam queratinização acelerada por inflamação (ex.: orelha). No cisto interdigital, mostra infiltrado inflamatório. |
-| **Clorexidina** | Antisséptico usado em xampus terapêuticos. Formulações de baixa qualidade ou com concentração inadequada levam a falha terapêutica. |
-| **Colarete epidérmico (colarinho epidérmico)** | Lesão secundária circular que surge quando a pústula se rompe, com crostas amareladas na borda. O centro é eritematoso ou hiperpigmentado, conforme a intensidade da resposta inflamatória. Mais evidente na região ventral. Em área com pelo, as crostas grudadas no pelo simulam caspa. (Ver nota.) |
-| **Comedão** | Plugue de queratina dentro do folículo piloso ("cravo"). Sugere sarna demodécica em animal jovem ou hipercortisolismo em adulto com pele fina. Também ocorre na acne felina e em raças sem pelo. |
-| **Córtex** | Camada intermediária da haste do pelo, entre medula e cutícula. Segundo a aula, é onde se veem os macromelanossomos no tricograma. |
-| **Coxim** | Pele mais espessa, com estrato lúcido, para proteger contra trauma mecânico. A derme é mais inervada (função sensorial). Única região com glândulas écrinas. O normal é liso, sem fissuras, descamação ou espessamento; essas alterações indicam doença (ex.: pênfigo foliáceo). |
-| **Crosta hemática** | Crosta escura formada pelo ressecamento de exsudato sanguinolento ou sanguinopurulento. Sugere úlcera por baixo. |
-| **Crosta melicérica** | Crosta amarelada, "cor de mel", formada pelo ressecamento de exsudato purulento (ex.: pústula rompida). Indica lesão superficial. |
-| **Cutícula** | Camada mais externa da haste do pelo; as escamas devem estar assentadas umas sobre as outras. Cutícula "arrepiada" sugere doença nutricional ou metabólica. |
-| **Densidade pilosa** | Maior no dorso e nas laterais do tronco. Menor na região ventral, na face, nos membros (sobretudo pélvicos), na face interna do pavilhão auricular e na face ventral da cauda; é nessas áreas que a alopecia generalizada aparece primeiro. |
-| **Dermatite atópica** | Doença alérgica sistêmica com manifestação cutânea. As células de Langerhans capturam antígenos (pólen, ácaros, fumaça, microrganismos) e os apresentam aos linfócitos. Lesões geralmente simétricas; as patas (lambedura) estão entre os primeiros locais acometidos. |
-| **Dermatite de contato** | Inflamação restrita à área de contato com o agente. Quadro agudo com eritema localizado, sem alopecia nem espessamento. A bolsa escrotal é local predisposto. |
-| **Dermatite pustular eosinofílica** | Doença pustular estéril, citada como diferencial de pústula. |
-| **Dermatofitose** | Citada como causa de alopecia generalizada, padrão lesional que outras doenças também produzem. |
-| **Derme** | Camada de tecido conjuntivo abaixo da epiderme, responsável pela elasticidade. Contém capilares, terminações nervosas, glândulas sebáceas e sudoríparas e os folículos pilosos. |
-| **Derme papilar** | Porção superficial da derme, com projeções (papilas) que aumentam a superfície de contato com a epiderme. Liga-se à membrana basal. |
-| **Descamação** | Eliminação visível de escamas ("caspa") porque a queratinização acelerou após uma agressão à pele. Tipos, pelo tamanho da escama: **farinácea** (fina como farinha; sugere doença folicular), **furfurácea** (intermediária) e **micácea** (escamas grandes e laminares, como a mica). |
-| **Desmossomos** | Complexos proteicos que unem os queratinócitos, sobretudo nos estratos basal e espinhoso, e mantêm a forma cuboide. Desaparecem à medida que a célula migra e se achata, e o cimento intercelular assume a união. São o alvo dos autoanticorpos no pênfigo foliáceo. |
-| **Desordens da queratinização** | Alterações da queratinização que cursam com descamação, hiperqueratose e fissuras (ex.: coxins). |
-| **Despigmentação (hipopigmentação)** | Perda de pigmento da pele. Ocorre no vitiligo e em doenças autoimunes. Despigmentação de plano nasal e junções mucocutâneas sem leucotriquia sugere doença autoimune. |
-| **Digitopressão (diascopia)** | Compressão da lesão com o dedo. O eritema clareia e volta a avermelhar ao soltar; a hemorragia (sufusão) não clareia. |
-| **Dimorfismo sexual** | Diferenças de pele e pelagem entre os sexos (ex.: gato tricolor é quase sempre fêmea; em algumas espécies, machos têm pelagem mais exuberante). |
-| **Disbiose** | Desregulação da microbiota da pele, com proliferação de agentes patogênicos e inflamação. Favorecida pela deficiência do filme hidrolipídico e pelo uso de produtos antimicrobianos. |
-| **Displasia folicular** | Folículo defeituoso associado a cores diluídas (ex.: "azul" do American Bully). O pelo nasce, mas não se mantém, e cai progressivamente nas áreas dessa cor. Macromelanossomos no tricograma direcionam, mas não fecham o diagnóstico. |
-| **Edema** | Aumento de volume do tecido por acúmulo de líquido, associado à inflamação. Confirmado à palpação. |
-| **Elasticidade cutânea** | Maior no dorso, menor nos membros, e perdida na cicatriz. A perda de elasticidade é o primeiro sinal buscado na avaliação de desidratação. |
-| **Epiderme** | Camada mais externa da pele: epitélio pavimentoso estratificado queratinizado. Estruturalmente formada por queratinócitos (85% das células); contém também melanócitos e células de Langerhans e de Merkel. Na pele com pelo de cães e gatos tem 4 estratos (basal, espinhoso, granuloso, córneo); no plano nasal e nos coxins, 5 (mais o lúcido). É mais fina no cão que no homem. |
-| **Eritema** | Vermelhidão quente da pele por vasodilatação inflamatória, que desaparece à digitopressão. Indica apenas inflamação, sem apontar a causa. Pode ser localizado ou generalizado e é graduado em intensidade. |
-| **Erosão** | Segundo a aula, perda da epiderme com exposição da derme; pode ser evolução da escoriação. Clinicamente é mais superficial, irregular e exsudativa que a úlcera, sem bordas definidas. (Ver nota.) |
-| **Escabiose** | Sarna pruriginosa; causa pápulas no abdômen, onde fica o parasita. Na aula, caso de escabiose felina com crostas, erosões e alopecia em membro torácico, ombro e pavilhão auricular. |
-| **Escoriação** | Segundo a aula, perda parcial da epiderme sem exposição da derme; sempre ligada a prurido ou trauma. (Ver nota.) |
-| **Espessura da pele** | Diminui do dorso para o ventre e do dorso para as extremidades. Cão: 0,5 a 5 mm; gato: 0,4 a 2 mm. Pele espessa onde normalmente é fina indica doença. |
-| **Esporotricose** | Micose que, no gato, começa com nódulo que abscede e fistula. Evolui para úlcera, com destruição de epiderme, derme e subcutâneo. É a primeira suspeita diante de úlcera em gato. |
-| **Estrato basal** | Camada mais profunda da epiderme: uma fileira de queratinócitos cuboides sobre a membrana basal. Única camada em que o queratinócito se divide (mitose). Abriga melanócitos e células de Merkel. |
-| **Estrato córneo** | Camada mais externa: queratinócitos totalmente queratinizados, achatados, sem núcleo e sem desmossomos, unidos pelo cimento intercelular. É onde ocorre a descamação. |
-| **Estrato espinhoso** | Várias camadas de queratinócitos ainda cuboides e com núcleo, unidos por desmossomos muito ativos. Aqui começam a diferenciação e a queratinização. |
-| **Estrato granuloso** | Queratinócitos mais alongados, com núcleo diminuindo, grânulos de querato-hialina e grânulos lamelares. A partir dele, os desmossomos perdem função. |
-| **Estrato lúcido** | Camada extra entre os estratos granuloso e córneo. Em cães e gatos, só existe no plano nasal e nos coxins, o que torna a pele dessas regiões mais espessa. |
-| **Exógena** | Segundo a aula, fase intermediária em que o folículo parece vazio: o pelo antigo já caiu e o novo ainda não despontou. É a transição para uma nova anágena. (Ver nota.) |
-| **Feromônios** | Substâncias de comunicação química liberadas com a secreção sebácea. Produzidos por glândulas sebáceas modificadas (ex.: região mentoniana do gato) para marcação. |
-| **Filme hidrolipídico (cimento intercelular, filme protetor)** | Camada formada pelos lipídios dos grânulos lamelares (ceramidas, colesterol, ácidos graxos) somados às secreções das glândulas sebáceas e sudoríparas. Dá coesão aos queratinócitos do estrato córneo, que no cão são menos coesos que no homem. Também sustenta a barreira, hidrata e contém peptídeos antimicrobianos. Alteração em quantidade ou composição compromete a barreira. |
-| **Fissura** | Segundo a aula, rachadura que atravessa toda a epiderme sem atingir a derme. Comum em coxins (ex.: desordens da queratinização) e em vasculite de ponta de orelha. (Ver nota.) |
-| **Fitoesfingosina** | Pré-ceramida presente em produtos tópicos veterinários, usada para melhorar o filme lipídico. |
-| **Foliculite** | Inflamação do folículo piloso. Citada como complicação em mestiços de raças sem pelo. |
-| **Folículo piloso** | Estrutura que origina cada pelo. É formado pela epiderme, mas fica na derme; por isso, doenças epidérmicas (ex.: piodermite superficial) também o acometem. Segmentos: infundíbulo, istmo e porção inferior (com o bulbo). Fica inclinado em relação à superfície. |
-| **Funções da pele** | Barreira (a principal); elasticidade e forma ao corpo; termorregulação; reservatório de óleos, vitaminas, gorduras e proteínas; indicador de dimorfismo sexual e de saúde (nutrição, endocrinopatias, hidratação); percepção sensorial (tato, calor, frio, dor); produção de vitamina D. |
-| **Glândula da cauda** | Agrupamento de glândulas sebáceas no terço proximal da cauda, em machos e fêmeas, mais exuberante nos machos. Serve à marcação territorial. Sua hiperplasia por testosterona causa a cauda de garanhão. |
-| **Glândulas anais (sacos anais)** | Duas estruturas laterais ao ânus, descritas na aula como glândulas sebáceas modificadas. A compressão durante a defecação libera a secreção, que lubrifica as fezes. Obstrução do ducto leva a infecção e abscesso. Predispõem: doença alérgica (fricção do períneo no chão), constipação e doenças intestinais. (Ver nota.) |
-| **Glândulas ceruminosas** | Glândulas do conduto auditivo externo que produzem o cerúmen. Descritas na aula como sebáceas modificadas e, "de fato", como uma mistura de sebáceas e sudoríparas. (Ver nota.) |
-| **Glândulas écrinas (merócrinas)** | Glândulas sudoríparas cujo ducto se abre direto na epiderme, sem relação com o folículo. Em cães e gatos, só existem nos coxins (marcação territorial). |
-| **Glândulas perianais (circum-anais)** | Glândulas ao redor do ânus, não ligadas a folículo piloso, que produzem secreção odorífera para marcação. Dão origem ao adenoma perianal. |
-| **Glândulas sebáceas** | Glândulas que desembocam no folículo piloso e produzem sebo. Funções: barreira física e hídrica (reduz o TEWL); peptídeos antimicrobianos; modulação da microbiota a favor das bactérias comensais; distribuição de fármacos *spot-on*; comunicação química (feromônios); termorregulação indireta. O músculo eretor do pelo as esvazia ao se contrair. Formas modificadas, segundo a aula: glândulas anais, da cauda, da região mentoniana do gato, perianais e ceruminosas. |
-| **Glândulas sebáceas da região mentoniana (gato)** | Glândulas sebáceas modificadas do queixo do gato. Produzem feromônio para marcação, por isso o gato se esfrega. São a sede da acne felina. |
-| **Glândulas sudoríparas apócrinas (epitriquiais)** | Glândulas sudoríparas cujo ducto desemboca no folículo piloso; é o tipo presente na pele com pelo de cães e gatos. A secreção integra o filme protetor (lubrificação e hidratação). Essas espécies não transpiram como o homem, e as glândulas pouco participam da termorregulação. |
-| **Grânulos de querato-hialina** | Grânulos que surgem no estrato granuloso; segundo a aula, produzem a queratina. (Ver nota.) |
-| **Grânulos lamelares (corpos lamelares)** | Grânulos do estrato granuloso que produzem os lipídios do cimento intercelular/filme hidrolipídico: ceramidas, ácidos graxos e colesterol. |
-| **Haste do pelo** | O pelo propriamente dito, composto de medula, córtex e cutícula. É avaliado no tricograma. |
-| **Hipercortisolismo (antigo hiperadrenocorticismo)** | Excesso de cortisol. Afina a pele (primeiro na região abdominal) e causa comedões e aspecto de pergaminho. O cortisol inibe o crescimento do pelo. |
-| **Hiperpigmentação** | Escurecimento da pele por depósito de melanina. Em cerca de 90% dos pacientes, é consequência de inflamação crônica (eritema não resolvido que evoluiu), sobretudo onde há menos pelo. Também ocorre em endocrinopatias (ex.: alopecia X, com padrão mais homogêneo e sem espessamento). |
-| **Hiperqueratose** | Espessamento do estrato córneo porque a mitose basal acelera na inflamação crônica contínua. À palpação, a pele está mais grossa. Pode progredir para liquenificação. |
-| **Hipoderme (tecido celular subcutâneo)** | Tecido conjuntivo frouxo e tecido adiposo abaixo da derme. Atualmente não é considerada camada da pele. Funciona como reserva de gordura, contém os grandes vasos que emitem os capilares para a derme e prende a pele aos tecidos subjacentes. |
-| **Hipotireoidismo** | Deficiência de hormônio tireoidiano, que estimula o crescimento do pelo. Na aula, foi exemplo de descamação micácea, achado que não ocorre em todos os casos. |
-| **Hipotricose (rarefação pilosa)** | Redução da densidade pilosa sem ausência total de pelo. É fisiológica em certas regiões nos gatos (mais visível em pelagens escuras) e em algumas raças (ex.: Dachshund e Pinscher, na região esternal e na base da orelha). Processos alopécicos primários começam com hipotricose. |
-| **Histopatologia** | Exame microscópico do tecido obtido por biópsia. É a base das classificações finas de lesão (ex.: erosão × úlcera) e localiza as alterações (ex.: derme papilar, membrana basal). |
-| **Inflamação crônica (sinais cutâneos)** | Tríade: pele espessa, hiperpigmentada e com eritema perilesional, muitas vezes com alopecia. Indica processo de longa duração, mas não a causa. |
-| **Infundíbulo** | Porção superior do folículo piloso, acima da desembocadura do ducto da glândula sebácea. |
-| **Istmo** | Segmento do folículo piloso entre a saída do ducto da glândula sebácea e a inserção do músculo eretor do pelo. |
-| **Junções mucocutâneas** | Onde a pele termina e começa a mucosa: regiões perilabial, perinasal, palpebral, perivulvar e perianal. Lesões nesses locais colocam doença autoimune entre as suspeitas. |
-| **Lambedura** | Comportamento associado a prurido, sobretudo nas patas do cão. Muda a cor dos pelos (avermelhados nos claros, aspecto "queimado" nos escuros), mantém a área úmida e causa autotraumatismo; pode romper folículos interdigitais. |
-| **Lanugem** | Pelo fino, semelhante a lã, presente no filhote e no subpelo. Faz o isolamento térmico contra frio e calor. |
-| **Leishmaniose** | Diferencial de lesões crostosas ou ulceradas em plano nasal e junções mucocutâneas. Na suspeita, pedir sorologia, com hemograma e bioquímica, antes da biópsia. |
-| **Lesão dermatológica** | Reação da pele à doença. Tem grande peso no diagnóstico, mas não o fecha: a mesma lesão ocorre em várias doenças e a mesma doença pode ter várias lesões. Toda lesão deve ser identificada, localizada e mensurada. |
-| **Lesão focal, multifocal e generalizada** | Distribuição da lesão. Focal: foco único. Multifocal: vários focos em regiões distintas. Generalizada: acometimento disseminado (ex.: toda a região ventral). |
-| **Lesão primária** | Lesão causada diretamente pela doença. Sugere o diagnóstico, mas não é patognomônica (ex.: pústula na piodermite superficial). |
-| **Lesão secundária** | Evolução da lesão primária, espontânea ou, mais comumente, por autotraumatismo (ex.: colarete epidérmico após a pústula se romper). Algumas lesões, como a alopecia, podem ser primárias ou secundárias. |
-| **Leucotriquia** | Embranquecimento de pelos que eram pigmentados. Ocorre no vitiligo e na senilidade. |
-| **Liquenificação** | Espessamento acentuado da pele, com as linhas (grafismo cutâneo) marcadas, lembrando líquen. É o estágio mais intenso da hiperqueratose na inflamação crônica. |
-| **Lúpus eritematoso discoide** | Doença autoimune com despigmentação, erosão ou úlcera e perda do padrão de calçamento do plano nasal, que é o primeiro sinal procurado. Segundo a aula, foi renomeado "lúpus mucocutâneo". (Ver nota.) |
-| **Macromelanossomos** | Melanossomos aumentados, vistos como pontos no córtex da haste ao tricograma. Direcionam para displasia folicular. |
-| **Mácula** | Alteração de cor da pele com menos de 1 cm. |
-| **Malasseziose** | Citada como causa de eritema, padrão lesional que também aparece em doença alérgica e sarna. |
-| **Mancha** | Alteração de cor da pele com mais de 1 cm. |
-| **Matriz capilar** | Região do bulbo piloso onde o pelo é produzido e cresce. |
-| **Medula (medular)** | Porção central da haste do pelo. É mais escura no pelo pigmentado e clara em animais de pelagem longa. |
-| **Melanina** | Pigmento que dá cor à pele e ao pelo. Sua principal função fisiológica é a proteção solar; também participa do dimorfismo sexual e entre espécies. |
-| **Melanócito** | Célula do estrato basal (5 a 8% das células da epiderme). Emite projeções entre os queratinócitos e lhes transfere melanossomos. |
-| **Melanossomos** | Vesículas do melanócito em que a melanina é formada a partir da tirosina. São transferidos aos queratinócitos. |
-| **Membrana basal** | Estrutura que separa epiderme e derme, na base do estrato basal. É o local da lesão histopatológica característica de um grupo de doenças autoimunes. |
-| **Microbiota cutânea** | Microrganismos residentes da pele. O sebo e o filme lipídico, com ceramidas e peptídeos antimicrobianos, favorecem as bactérias comensais. |
-| **Músculo eretor do pelo (piloeretor)** | Nasce na superfície da derme e se insere perpendicularmente ao folículo primário. Existe em toda a área com pelo e é mais espesso onde há mais pelos (ex.: dorso do pescoço). Funções: eriçar o pelo (comportamento; isolamento térmico por uma camada de ar) e esvaziar as glândulas sebáceas. |
-| **Nódulo** | Lesão sólida firme, geralmente arredondada, de 1 a 3 cm. Descrever localização, superfície, consistência, aderência e tamanho. |
-| **Padrão de calçamento** | Aspecto em mosaico ("calçada de pedra portuguesa"), normal no plano nasal de cães e gatos. Quando se perde e a superfície fica lisa, sugere doença, como o lúpus discoide. |
-| **Padrão lesional** | Conjunto de lesões observado. O mesmo padrão (ex.: eritema, alopecia, úlcera, despigmentação) pode ter causas diferentes. |
-| **Padrões anatômicos da pele** | São quatro: pele com pelo, coxim, plano nasal e bolsa escrotal. |
-| **Papila dérmica (do folículo)** | Estrutura do bulbo piloso que leva a vascularização à matriz capilar. |
-| **Pápula** | Formação sólida elevada com menos de 1 cm, de origem epidérmica, geralmente eritematosa. Associada a início de piodermite, picada de inseto e escabiose. Pápula pigmentada pode ser o início de um tumor. Pode evoluir para pústula. |
-| **Pavilhão auricular (pina)** | Orelha externa. A face interna tem poucos pelos. |
-| **Pelo primário intermediário (pelo acessório)** | Fica entre o pelo principal e o subpelo em comprimento e espessura e é menos rígido. Contribui para o isolamento e a textura: quanto mais desses pelos, mais macia a pelagem. |
-| **Pelo principal (pelo primário de proteção)** | Longo, grosso e reto, o mais visível na superfície. Protege contra atrito e define o contorno e a cor da pelagem. |
-| **Pelos secundários** | Pelos finos da unidade folicular, que formam o subpelo. |
-| **Pênfigo foliáceo** | Doença autoimune com anticorpos contra os desmossomos. Queratinócitos do estrato espinhoso se soltam (células acantolíticas) e formam pústulas estéreis. Causa lesões de coxim: descamação, fissuras e descolamento das camadas superficiais. |
-| **Peptídeos antimicrobianos** | Substâncias com ação antimicrobiana presentes no sebo e no filme hidrolipídico. Sua falta favorece disbiose. |
-| **pH cutâneo** | Faixa citada na aula para a pele do cão: 6 a 7,5. Produtos tópicos devem ter pH neutro; manter o pH fisiológico é essencial para a barreira e a microbiota. |
-| **Piodermite superficial** | Infecção bacteriana da epiderme que também atinge o folículo. Lesão primária: pústula; secundária: colarete epidérmico. |
-| **Piretroide** | Inseticida de xampus contra pulgas e carrapatos que pode causar prurido e alterações na pele. |
-| **Placa** | Lesão elevada, de superfície plana ou arredondada, maior que 1 cm, de origem epidérmica (ex.: urticária, placa eosinofílica). |
-| **Placa eosinofílica** | Reação de hipersensibilidade crônica, principalmente em gatos, na região abdominal. Placas confluentes, eritematosas e erodidas, muito pruriginosas, que não regridem sozinhas. Tratamento com corticoide e ciclosporina. |
-| **Plano nasal (trufa)** | Pele sem pelos e sem glândulas, com epiderme mais espessa (tem estrato lúcido) e padrão de calçamento. Não confundir com a ponte nasal. |
-| **Ponte nasal** | Parte do focinho sobre o osso nasal. Não confundir com o plano nasal. |
-| **Prurido** | Coceira. O animal coça, lambe e morde, o que gera autotraumatismo e lesões secundárias. |
-| **Pústula** | Coleção de pus entre camadas da epiderme ou na saída do folículo. É superficial e frágil e se rompe com facilidade, por isso é difícil encontrá-la íntegra. Geralmente bacteriana (cerca de 90%), mas há doenças pustulares estéreis (pênfigo foliáceo, dermatite pustular eosinofílica). Ao se romper, origina o colarete epidérmico. |
-| **Queratina** | Proteína sintetizada pelo queratinócito. Impermeabiliza o tegumento e sustenta a função de barreira; amolece (macera) com umidade excessiva. Na derme, age como corpo estranho e desencadeia inflamação exacerbada. |
-| **Queratinização** | Maturação do queratinócito: proliferação (estrato basal), diferenciação e queratinização (espinhoso e granuloso) e descamação (córneo). A inflamação acelera o processo. |
-| **Queratinócito** | Célula estrutural da epiderme (85% das células), que sintetiza queratina. Só se divide no estrato basal e migra até o córneo, achatando-se e perdendo desmossomos e núcleo. |
-| **Queratinócito nucleado** | Queratinócito que chega à superfície ainda com núcleo e pouca queratina, porque a queratinização acelerou (pode cair para 5 a 6 dias). Na citologia, indica inflamação. |
-| **Raças sem pelo** | Raças selecionadas sem folículos pilosos (ex.: pelado mexicano). Mestiços podem ter pele ressecada, descamação, foliculite e comedões. Gatos sem pelo são muito seborreicos. |
-| **Renovação em mosaico** | Padrão normal de troca do pelo: folículos vizinhos estão em fases diferentes do ciclo (crescimento não sincronizado), por isso não se formam falhas. |
-| **Renovação epidérmica (turnover)** | Tempo que o queratinócito leva para migrar do estrato basal ao córneo e descamar. Em média 22 dias no cão; não é perceptível a olho nu. (Ver nota.) |
-| **Sarna demodécica** | Proliferação de *Demodex* no folículo piloso, que o destrói e causa alopecia primária. Comedões em animal jovem sugerem a doença. |
-| **Sarna notoédrica** | Citada como causa de alopecia generalizada. |
-| **Sebo** | Secreção das glândulas sebáceas. Contém lipídios e peptídeos antimicrobianos e espalha feromônios e fármacos *spot-on* pela pele. |
-| **Simetria lesional** | Lesões simétricas indicam doença sistêmica com manifestação cutânea (ex.: dermatite atópica, endocrinopatias). Sozinha, a simetria não indica causa hormonal. |
-| **Sistema tegumentar** | Pele propriamente dita, pelos e anexos (nos cães e gatos, as unhas). A pele termina nas junções mucocutâneas. |
-| ***Spot-on*** | Antiparasitário aplicado em gotas no dorso e espalhado pela secreção sebácea. Alguns são contraindicados logo após o banho, porque a pele fica com menos secreção. |
-| **Subpelo** | Pelos curtos, finos, macios e densos, mais próximos da pele; são os principais no isolamento térmico. Crescem mais no frio e caem mais no calor. Queda só de subpelo é fisiológica. |
-| **Sufusão** | Hemorragia na pele. Difere do eritema porque não clareia à digitopressão. |
-| **Telógena (telógeno, fase telogênica)** | Segundo a aula, fase de queda, quando a matriz começa a produzir um novo pelo. Raças nórdicas têm telógena marcada: o pelo tosado demora muito a cair e renascer. No tricograma, a raiz tem forma de seta ou lança. Predomínio de telógenos em doença alopécica sugere falta de estímulo ao crescimento (ex.: doença sistêmica). (Ver nota.) |
-| **Termorregulação** | Feita principalmente pelos pelos, que isolam do frio e do calor ("placa de isopor"), com ajuda do músculo eretor. Em cães e gatos, as glândulas sudoríparas pouco participam. Há mais unidades foliculares no dorso; a pelagem ventral é mais rala e clara, o que favorece a perda de calor. |
-| **TEWL** | Sigla em inglês de perda de água transepidérmica (*transepidermal water loss*). Aumenta em doenças que lesam a barreira e é alvo de vários tratamentos. |
-| **Tricograma** | Exame ao microscópio de pelos arrancados, alinhados na lâmina com raiz de um lado e ápice do outro. Avalia a haste (cutícula, córtex, medula), o ápice e a raiz (anágena × telógena). Normal: proporção próxima de metade e metade, com predomínio de anágenos na pelagem longa. Direciona, mas raramente fecha o diagnóstico. |
-| **Tumor** | Termo de descrição lesional, que não significa câncer: lesão sólida firme maior que 3 cm. Descrever localização, superfície (lisa, erodida, ulcerada), consistência, aderência e tamanho em centímetros, medido com régua. |
-| **Úlcera** | Segundo a aula, perda total de epiderme e derme, com exposição do tecido subcutâneo. Bordas elevadas e definidas; pode ter crosta hemática. Ex.: esporotricose, carcinoma, úlcera indolente. A diferença em relação à erosão é sobretudo histológica. (Ver nota.) |
-| **Úlcera indolente** | Úlcera de natureza inflamatória no lábio superior do gato. |
-| **Unidade folicular** | Conjunto de um ou mais folículos pilosos, glândula sebácea, glândula sudorípara e músculo eretor do pelo, situado na derme. Funções: termorregulação, identificação de espécie e raça (cor e tipo de pelagem) e comportamento. Segundo a aula, até 25 folículos por unidade no cão e até 50 no gato. |
-| **Urticária** | Reação alérgica aguda (medicamento, picada de inseto, vacina) com placas eritematosas que mudam de lugar, às vezes com angioedema. É emergência dermatológica, tratada principalmente com corticoide, e costuma ser autolimitante. Em animal jovem, sinaliza risco de dermatite atópica no futuro. |
-| **Vasculite** | Inflamação do vaso. Na aula: depósito de complexos antígeno-anticorpo obstrui o vaso, a pele irrigada por ele fica sem sangue e atrofia. Na ponta da orelha, pode causar fissuras ou úlceras. |
-| **Vasculite pós-vacinal** | Reação individual, mais comum em cães toy e miniatura, a medicamento aplicado no subcutâneo. Descrita primeiro com a vacina antirrábica e atribuída ao adjuvante. A vascularização e o folículo morrem, com alopecia focal e atrofia no local, às vezes tardias. Confirmação por histopatologia. Não é o abscesso causado por contaminação. |
-| **Vesícula** | Coleção de conteúdo seroso, sem células inflamatórias, menor que a bolha. Rara em cães e gatos. |
-| **Vibrissas** | Pelos táteis especializados da cabeça (pálpebra superior, lábio, queixo, laterais da face). Funções: percepção espacial, detecção de movimento, proteção, orientação e navegação (gatos cegos as projetam para a frente) e comunicação. Não devem ser cortadas na tosa. |
-| **Vitiligo** | Despigmentação de pelos (leucotriquia) e pele, sobretudo borda palpebral, plano nasal e comissura labial. Rottweiler é predisposto. No cão, a alteração é só estética. |
-
-### Notas de verificação
-
-> **Nota de verificação:** **Fases do ciclo do pelo.** Na aula, catágena foi apresentada como repouso (Áudio 3, 00:08:17), telógena como queda (Áudio 3, 00:09:48) e exógena como a fase em que o folículo parece vazio (Áudio 3, 00:10:49). Na literatura, anágena é crescimento, catágena é regressão, telógena é quiescência relativa (repouso) e exógena é a eliminação do pelo em clava. O folículo que fica vazio depois da queda, antes de um novo anágeno, é chamado de quenógena ([estudo sobre o ciclo do pelo canino e alopecia X – PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655477/)). Essa fase foi descrita em cães ([The canine hair cycle – ResearchGate](https://www.researchgate.net/publication/50393955_The_canine_hair_cycle_-_a_guide_for_the_assessment_of_morphological_and_immunohistological_criteria)). Por essa nomenclatura, o repouso prolongado das raças nórdicas, que a aula também chamou de "telógena marcada" (Áudio 3, 00:12:58), corresponde à fase telógena.
-
-> **Nota de verificação:** **Cisto e "cisto interdigital".** Na aula, cisto foi definido como coleção preenchida por sangue ou exsudato sanguinolento (Áudio 5, 00:38:35). Na dermatopatologia, cisto é uma cavidade revestida por epitélio, com conteúdo líquido ou sólido ([Cornell – Dermatopathology](https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/dermatopathology)). As lesões interdigitais mostradas (Áudio 5, 00:39:08) são descritas como furúnculos interdigitais: lesões nodulares de piodermite profunda, piogranulomatosas. O nome "cisto interdigital" é considerado incorreto ([Merck Veterinary Manual – Interdigital Furunculosis](https://www.merckvetmanual.com/integumentary-system/interdigital-furunculosis/interdigital-furunculosis-in-dogs)).
-
-> **Nota de verificação:** **Colarete epidérmico.** Na aula, a borda do colarete foi descrita como formada por crostas amareladas (Áudio 6, 00:10:31). A literatura o define como um tipo especial de escama: uma borda circular de flocos de queratina soltos ou descamando ([Cornell – Dermatopathology](https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/dermatopathology); [Diagnosis in Dermatology – Edinburgh](http://www.link.vet.ed.ac.uk/clive/cal/DiagDerm/Lesions/Collarettes.htm)).
-
-> **Nota de verificação:** **Escoriação, erosão, úlcera e fissura.** Definições da aula:
-> - escoriação: perda parcial da epiderme sem exposição da derme;
-> - erosão: perda da epiderme com exposição da derme (Áudio 6, 00:14:15);
-> - úlcera: perda de epiderme e derme com exposição do subcutâneo (Áudio 6, 00:15:39);
-> - fissura: rachadura de toda a epiderme sem atingir a derme (Áudio 6, 00:24:21).
->
-> Na literatura veterinária, erosão é o defeito da epiderme que não ultrapassa a membrana basal. Úlcera é o defeito que a ultrapassa, expondo a derme. Escoriação são erosões e/ou úlceras causadas por autotraumatismo ([Zoetis – Glossary of Dermatology](https://www2.zoetis.ca/dermatology/glossary)). Fissura é uma fenda linear na epiderme ou que a atravessa até a derme ([Cornell – Dermatopathology](https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/dermatopathology)). Como na aula (Áudio 6, 00:16:20), o glossário da Zoetis ressalta que separar erosão de úlcera pode exigir histopatologia.
-
-> **Nota de verificação:** **Glândulas anais e ceruminosas.** Na aula, os sacos anais foram descritos como glândulas sebáceas modificadas (Áudio 3, 00:27:25). As ceruminosas foram descritas como sebáceas modificadas e como mistura de sebáceas e sudoríparas (Áudio 3, 00:34:16; Áudio 3, 00:34:44). Na literatura, os sacos anais são divertículos revestidos por glândulas sebáceas e apócrinas ([ScienceDirect – Anal Gland](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/anal-gland)). As glândulas ceruminosas são glândulas apócrinas modificadas, histologicamente idênticas às apócrinas do restante da pele ([Ohio State – Dermal Adnexa](https://ohiostate.pressbooks.pub/vethisto/chapter/7-dermal-adnexa-epitrichial-apocrine-glands-and-eccrine-glands/)). A secreção delas, junto com a das glândulas sebáceas e material descamado, compõe o cerúmen ([ScienceDirect – Ceruminous Gland](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/ceruminous-gland)).
-
-> **Nota de verificação:** **Grânulos de querato-hialina.** Na aula, foram apresentados como os grânulos que produzem a queratina (Áudio 2, 00:10:18). Pela literatura, seu principal componente é a profilagrina, precursora da filagrina ([Filaggrin failure – PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5053269/)). A filagrina agrega e alinha os filamentos de queratina nos corneócitos ([ScienceDirect – Lamellar Granule](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/lamellar-granule)).
-
-> **Nota de verificação:** **Lúpus discoide × lúpus mucocutâneo.** Na aula, foi dito que o lúpus discoide passou a se chamar lúpus mucocutâneo (Áudio 8, 00:00:00). Na classificação proposta por Olivry e colaboradores, são dois subtipos distintos do lúpus eritematoso cutâneo crônico canino: o lúpus discoide (facial ou generalizado) e o lúpus mucocutâneo. O lúpus cutâneo esfoliativo é outro subtipo do mesmo grupo ([Cutaneous lupus erythematosus in dogs: a comprehensive review – PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5907183/)).
-
-> **Nota de verificação:** **Renovação epidérmica.** O professor citou 22 dias e disse que ia conferir o valor (Áudio 2, 00:12:28). A fonte consultada confirma tempo de renovação epidérmica de cerca de 22 dias no cão ([Management of canine hyperkeratosis – VetCandy](https://www.myvetcandy.com/clinicalupdblog/2020/8/31/management-of-canine-hyperkeratosis)).
+| Abscesso | Coleção de pus no tecido celular subcutâneo (hipoderme); pode ser bacteriano ou fúngico, como os nódulos que abscedam na esporotricose. |
+| Alopecia | Ausência de pelo; pode ser primária (ex.: demodicose, com destruição do folículo) ou secundária ao autotraumatismo (ex.: doença alérgica). |
+| Anágena | Fase de crescimento do pelo; corresponde a cerca de 98% da pelagem em raças de pelo longo; no tricograma, a raiz é gorda e cheia. |
+| Atrofia cutânea | Adelgaçamento da pele, mais evidente onde ela já é naturalmente fina (região ventral e abdominal); ocorre, por exemplo, no hipercortisolismo e na vasculite pós-vacinal. |
+| Barreira cutânea | Função básica da pele de separar o meio externo do interno, controlando a perda de água, eletrólitos e macromoléculas; tem componentes físico, químico e imunológico. |
+| Catágena | Fase do ciclo do pelo apresentada na aula como repouso, após o pelo atingir o tamanho geneticamente programado; é muito prolongada em raças nórdicas, o que justifica não recomendar a tosa. |
+| Células acantolíticas | Queratinócitos que se soltam por destruição dos desmossomos e ficam redondos e nucleados; encontrados dentro da pústula no pênfigo foliáceo. |
+| Células de Langerhans | Cerca de 5% das células epidérmicas; células dendríticas apresentadoras de antígeno ("sentinelas"), centrais na dermatite atópica. |
+| Células de Merkel | Células do estrato basal com função sensorial tátil, ligadas às terminações nervosas da derme. |
+| Cicatriz | Tecido fibroso que substitui a derme e a hipoderme; é alopécica, atrófica e despigmentada, com perda de elasticidade e flexibilidade. |
+| Cisto interdigital | Elevação macia entre os dedos com conteúdo de aspecto sanguinolento, que corresponde a infiltrado inflamatório; resulta da ruptura profunda do folículo (trauma ou lambedura), com contato da queratina com a derme. |
+| Colarete epidérmico | Lesão secundária à ruptura da pústula: lesão circular com crostas amareladas na borda e centro eritematoso ou pigmentado; em área com pelo pode ser confundida com caspa. |
+| Comedão | Plugue de queratina dentro do folículo piloso (cravo); sugere demodicose em jovens e hipercortisolismo em adultos. |
+| Coxim | Pele mais espessa, com estrato lúcido, mais inervada e com glândulas écrinas; o coxim normal é liso, sem fissuras, descamação ou espessamento. |
+| Crosta | Exsudato ressecado; a melicérica (amarelada, "cor de mel") vem da pústula, e a hemática (escura) vem de exsudato sanguinolento ou sanguinopurulento e sugere úlcera subjacente. |
+| Derme | Tecido conjuntivo sob a epiderme, com capilares, terminações nervosas, glândulas sebáceas e sudoríparas e folículos pilosos; confere elasticidade à pele. |
+| Derme papilar | Porção superior da derme, com projeções papilares em contato com a membrana basal. |
+| Descamação | Liberação de escamas (caspa) por aceleração da queratinização; pode ser farinácea (fina, associada a doença folicular), furfurácea (intermediária) ou micácea (placas grandes). |
+| Desmossomos | Estruturas de ancoragem entre queratinócitos, ativas nos estratos basal e espinhoso e ausentes no córneo; são o alvo dos anticorpos no pênfigo foliáceo. |
+| Despigmentação | Perda de pigmento da pele, que ocorre no vitiligo e em doenças autoimunes; quando acomete plano nasal e junções mucocutâneas sem leucotriquia, levanta suspeita de doença autoimune. |
+| Epiderme | Epitélio pavimentoso estratificado queratinizado, formado por queratinócitos; tem quatro estratos na pele com pelo de cães e gatos. |
+| Eritema | Vermelhidão por vasodilatação inflamatória que clareia à digitopressão, ao contrário do derrame de sangue; indica apenas que há inflamação. |
+| Erosão | Perda da epiderme com exposição da derme. |
+| Escoriação | Perda parcial da epiderme sem exposição da derme; associada a prurido ou trauma. |
+| Estrato basal | Camada unicelular sobre a membrana basal; é o único estrato com proliferação de queratinócitos e abriga melanócitos e células de Merkel. |
+| Estrato córneo | Camada mais externa, formada por células anucleadas totalmente queratinizadas, que descamam. |
+| Estrato espinhoso | Várias camadas de queratinócitos cuboides e nucleados, unidos por desmossomos ativos; local de diferenciação. |
+| Estrato granuloso | Camada de células alongadas, com núcleo reduzido, contendo grânulos de querato-hialina (queratina) e grânulos lamelares (lipídios). |
+| Estrato lúcido | Estrato adicional entre o granuloso e o córneo, presente apenas nos coxins e no plano nasal. |
+| Filme hidrolipídico | "Cimento intercelular" formado pelos corpos lamelares e pelas secreções glandulares (cerca de 40% ceramidas, 35% colesterol e 25% ácidos graxos), rico em peptídeos antimicrobianos; é essencial no cão pela menor coesão dos corneócitos. |
+| Fissura | Rachadura que atravessa toda a epiderme sem atingir a derme; comum em coxins e na vasculite de ponta de orelha. |
+| Folículo piloso | Estrutura formada pela epiderme e localizada na derme, por isso doenças epidérmicas podem acometê-lo; divide-se em infundíbulo, istmo (entre o ducto sebáceo e a inserção do músculo eretor) e porção inferior com bulbo. |
+| Glândulas anais (sacos anais) | Glândulas sebáceas modificadas, laterais ao ânus, cuja secreção lubrifica as fezes; a obstrução do ducto leva a infecção e abscesso. |
+| Glândulas apócrinas | Glândulas sudoríparas de cães e gatos com ducto desembocando no folículo (epitriquiais); sua secreção compõe o filme protetor. |
+| Glândulas écrinas | Glândulas sudoríparas (merócrinas) com ducto direto na epiderme; em cães e gatos existem só nos coxins, com função de marcação territorial. |
+| Glândulas perianais | Glândulas circum-anais, sebáceas modificadas não ligadas ao folículo, com secreção odorífera; o adenoma dessas glândulas, comum em cães idosos, é responsivo à testosterona. |
+| Glândulas sebáceas | Glândulas que desembocam no folículo; formam barreira hídrica (reduzem a TEWL), produzem peptídeos antimicrobianos, modulam a microbiota, distribuem os produtos spot-on e liberam feromônios. |
+| Grânulos lamelares | Grânulos do estrato granuloso que produzem ceramidas, ácidos graxos e colesterol do cimento intercelular. |
+| Haste do pelo | Formada por medular (porção central, com pigmento), córtex (local dos macromelanossomos, segundo a aula) e cutícula (lâminas assentadas; quando arrepiadas, sugerem doença nutricional ou metabólica). |
+| Hiperpigmentação | Escurecimento da pele por deposição de melanina; em cerca de 90% dos casos indica inflamação crônica. |
+| Hiperqueratose | Espessamento do estrato córneo por aceleração da mitose basal na inflamação crônica. |
+| Hipoderme | Tecido conjuntivo frouxo e adiposo onde estão os grandes vasos; ancora a pele aos demais tecidos; a infecção nessa camada (celulite) pode levar a sepse; hoje não é mais considerada camada da pele. |
+| Hipotricose | Redução da densidade pilosa sem ausência total de pelo; é fisiológica no gato e em certas áreas de algumas raças; marca o início dos processos alopécicos primários. |
+| Junções mucocutâneas | Limite da pele com as mucosas (perilabial, perinasal, perivulvar, perianal); lesões nessas regiões levantam suspeita de doença autoimune. |
+| Lanugem | Subpelo curto, fino, macio e denso; é o principal isolante térmico, contra o frio e contra o calor, e se renova conforme a estação. |
+| Lesão primária | Lesão causada diretamente pela doença; sugere o diagnóstico, mas não é patognomônica. |
+| Lesão secundária | Evolução da lesão primária, sobretudo por autotraumatismo (ex.: pústula que evolui para colarete). |
+| Leucotriquia | Embranquecimento de pelos antes escuros; ocorre no vitiligo (Rottweiler é predisposto) ou na senilidade. |
+| Liquenificação | Espessamento acentuado da pele com marcação de linhas, semelhante ao líquen; indica cronicidade. |
+| Macromelanossomos | Melanossomos de tamanho aumentado vistos no pelo ao tricograma; sugerem displasia folicular (ex.: American Bully azul), que precisa ser confirmada. |
+| Mácula e mancha | Alterações de pigmento da pele: a mácula mede menos de 1 cm e a mancha, mais de 1 cm. |
+| Melanócitos | Células do estrato basal (5 a 8% da epiderme) que transferem melanossomos aos queratinócitos por meio de prolongamentos; responsáveis pela cor e pela fotoproteção. |
+| Melanossomos | Vesículas dos melanócitos com pigmento derivado da tirosina, que formam os grânulos de melanina. |
+| Membrana basal | Estrutura que separa a epiderme da derme; é lesada em algumas doenças autoimunes. |
+| Músculo eretor do pelo | Músculo que se origina na derme superficial e se insere no folículo primário; eriça o pelo (comportamento e isolamento térmico) e promove o esvaziamento das glândulas sebáceas. |
+| Nódulo | Lesão sólida firme, geralmente arredondada, de 1 a 3 cm. |
+| Pápula | Formação sólida menor que 1 cm, envolvendo a epiderme; a forma mais comum é a eritematosa (piodermite inicial, picada de inseto, escabiose). |
+| Pelo primário de proteção | Pelo principal, longo, grosso e reto, visível na superfície; protege contra o atrito e define o contorno e a cor da pelagem. |
+| Placa | Lesão elevada, de superfície plana ou arredondada, maior que 1 cm; exemplos são a urticária e a placa eosinofílica felina. |
+| Plano nasal | Região de epiderme espessa, com estrato lúcido e sem anexos; o normal é o padrão de calçamento (mosaico), cuja perda sugere doença, como o lúpus discoide (lúpus mucocutâneo). |
+| Pústula | Coleção de pus entre as camadas da epiderme ou na saída do folículo; é frágil e rompe facilmente; geralmente é bacteriana, mas existem formas estéreis, como no pênfigo foliáceo. |
+| Queratinócito | Célula estrutural da epiderme (cerca de 85%) que sintetiza queratina; migra do estrato basal ao córneo em cerca de 22 dias no cão. |
+| Telógena | Fase de queda do pelo; no tricograma, a raiz tem forma de seta ou lança; o predomínio de pelos telógenos indica falta de estímulo ao crescimento (doença sistêmica). |
+| TEWL | Sigla em inglês para perda de água transepidérmica; aumenta nas doenças que alteram a barreira cutânea e é alvo de tratamentos. |
+| Tricograma | Exame microscópico do pelo (haste, ápice e raiz) que avalia a proporção anágena/telógena e alterações estruturais; direciona o diagnóstico, mas raramente o fecha. |
+| Tumor | Termo descritivo para lesão sólida firme maior que o nódulo (exemplo da aula: maior que 3 cm); não significa câncer. |
+| Úlcera | Perda da epiderme e da derme com exposição do tecido subcutâneo; tem bordas elevadas e pode apresentar crosta hemática. |
+| Unidade folicular | Conjunto de folículos pilosos, glândulas sebácea e sudorípara e músculo eretor; tem até 25 folículos no cão e até 50 no gato; participa da termorregulação. |
+| Vesícula e bolha | Coleções líquidas de conteúdo seroso, sem células inflamatórias; a vesícula é menor e a bolha, maior; são raras em cães e gatos. |
+| Vibrissas | Pelos táteis especializados da face, usados na percepção espacial, detecção de movimento, orientação e comunicação; gatos cegos as projetam para a frente. |

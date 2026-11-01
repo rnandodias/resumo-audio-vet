@@ -1,258 +1,250 @@
-### Camadas da pele
+### Derme
 
-A transcrição registra a abertura como "a pele é dividida em 4 [?] camadas". As camadas citadas na sequência, porém, são **epiderme** e **derme**, e a **hipoderme** aparece tratada à parte (Áudio 2, 00:00:07).
+- **Tecido conjuntivo** situado abaixo da epiderme. É a camada que dá início à **elasticidade** da pele (Áudio 2, 00:31:19).
+- Estruturas presentes:
+  - **capilares dérmicos** (os grandes vasos ficam na hipoderme);
+  - **terminações nervosas** ligadas às células de Merkel da epiderme;
+  - **glândulas sudoríparas** e **glândulas sebáceas**;
+  - **folículo piloso**, principal objeto de estudo da dermatologia e alvo de várias doenças (Áudio 2, 00:30:19).
+- **Derme papilar**: porção superior da derme, em contato com a epiderme, cujo limite forma projeções semelhantes a papilas. Liga-se à **membrana basal** na sequência epiderme → membrana basal → derme. No laudo histopatológico, "lesão na derme papilar" refere-se a essa região (Áudio 2, 00:31:59).
 
-| Estrutura | Posição na aula | Papel destacado |
-|---|---|---|
-| **Epiderme** | Camada da pele | Revestimento formado por queratinócitos (ver abaixo) |
-| **Derme** | Camada da pele | Detalhada na Parte 3 |
-| **Hipoderme** (tecido celular subcutâneo, tela subcutânea) | "Hoje em dia" **não é mais considerada camada da pele** | Ancora a pele aos outros tecidos e leva a vascularização até a pele |
+### Hipoderme
 
-O professor resumiu como "epiderme, derme e hipoderme" e anunciou que trataria cada uma (Áudio 2, 00:00:07).
+- Formada por **tecido conjuntivo mais frouxo**, o que aumenta a elasticidade, e por **tecido adiposo**, que é a **reserva de gordura**. Na lâmina, é reconhecida pela gordura (Áudio 2, 00:32:56).
+- É muito vascularizada. Contém os **grandes vasos**, que emitem os capilares para a derme.
+- Une a pele aos demais tecidos (Áudio 2, 00:33:18).
+- **Celulite**: infecção bacteriana que atinge a hipoderme. Representa risco ao paciente, pois a bactéria pode chegar aos grandes vasos, fazer **translocação bacteriana** e levar à **sepse**. O tema será retomado na aula de doenças bacterianas (Áudio 2, 00:33:45).
 
-> **Nota de verificação:** a literatura não é uniforme nesse ponto. Há texto veterinário que descreve a pele com três camadas e inclui a subcútis (hipoderme) como a mais interna ([WVS Academy – Layers of the Skin](https://wvs.academy/learn/companion-animals/wound-management/introduction-to-skin-anatomy-and-physiology/skin-anatomy/layers-of-the-skin)). Outro descreve a pele canina com duas camadas bem definidas, epiderme e derme, sobre a subcútis ([Structure of canine skin – ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0007193586900862)). O "4 [?]" da transcrição não corresponde às camadas que o professor citou em seguida.
+### Unidade folicular
 
-### Queratinócito e organização da epiderme
+#### Composição e funções
 
-- O **queratinócito** é a célula que forma a epiderme, descrito como "nossa companheira eterna". O nome vem da capacidade de **sintetizar queratina** (Áudio 2, 00:00:49; 00:01:32).
-- A epiderme é um **epitélio pavimentoso estratificado queratinizado**. A **queratina** é uma das estruturas que garantem a função de barreira e de proteção da pele (Áudio 2, 00:00:49).
-- **Todos os estratos** são formados pelo mesmo tipo celular, o queratinócito. Existem outras células na epiderme, com outras funções, mas a **função estrutural** cabe só ao queratinócito (Áudio 2, 00:04:05). As demais células (melanócitos, células de Langerhans e de Merkel) ficam para a Parte 3.
-- O professor destacou que a epiderme concentra **a maioria das questões de anatomia** (Áudio 2, 00:03:18).
+A unidade folicular é o conjunto formado por **folículos pilosos** (um ou mais), **músculo piloeretor**, **glândula sebácea** e **glândula sudorípara**. Está localizada na derme (Áudio 2, 00:34:47).
 
-#### Reconhecimento no corte histológico
-
-O professor ressalvou que isso não é exatamente cobrado na rotina dermatológica, mas que é importante saber reconhecer (Áudio 2, 00:01:32; 00:02:06):
-
-| Estrutura | Aspecto no corte |
+| Função | O que foi ensinado |
 |---|---|
-| **Epiderme** | Faixa superior mais **eosinofílica** (rosada) |
-| **Derme** | Logo abaixo, com **reentrâncias** (projeções) que servem para **aumentar a superfície de contato** com a epiderme |
+| Termorregulação | Há mais unidades foliculares no dorso que no ventre. No calor, o animal deita em decúbito dorsal. O pelo ventral tende a ser mais claro, para refletir a luz (a comparação aparece como "pelo do rosto [?]") (Áudio 2, 00:36:17) |
+| Isolamento térmico | Feito pela **lanugem**, contra frio e calor (Áudio 2, 00:36:52) |
+| Identificação | Reconhecimento da espécie e da raça pela cor e pelo tipo de pelagem (Áudio 2, 00:37:26) |
+| Comportamental | Eriçamento do pelo quando o cão ou o gato se sente ameaçado ou vai agredir, por ação do músculo eretor. O pelo eriçado forma uma camada de ar que também contribui, de modo pouco perceptível, para o isolamento (Áudio 2, 00:38:03) |
 
-### Estratos da epiderme
+- **Número de folículos por unidade**: até **25 no cão** (pelagens muito densas) e até **50 no gato** (Áudio 2, 00:38:49).
+- **Queda diária fisiológica**: com essa quantidade de pelos e troca diária, a queda no cão saudável é esperada. Isso deve ser explicado ao tutor (Áudio 2, 00:39:14).
 
-- De modo geral, a epiderme tem **5 estratos**. Na **pele revestida por pelo** de cães e gatos, há apenas **4** (Áudio 2, 00:03:27).
-- De fora para dentro, os 4 estratos são: **córneo, granuloso, espinhoso e basal** (Áudio 2, 00:03:27).
-- **A maioria das dermatopatias envolve um ou mais desses estratos** (Áudio 2, 00:03:27).
+#### Tipos de pelo
 
-| Região | Nº de estratos | Estratos, de fora para dentro |
+Na unidade folicular, o professor nomeou os pelos como **principais**, **acessórios** (mais espessos, mas que "não chegam a ser secundários") e **secundários**. Na tabela da aula, a classificação ficou assim (Áudio 2, 00:39:14; 00:41:32):
+
+| Tipo | Características | Função |
 |---|---|---|
-| Pele com pelo (cão e gato) | 4 | Córneo, granuloso, espinhoso, basal |
-| Plano nasal e coxins (cão e gato) | 5 | Córneo, **lúcido**, granuloso, espinhoso, basal |
-| Pele humana ("a nossa pele") | 5 | Inclui o estrato lúcido |
+| **Pelo principal** (primário de proteção) | Longo, grosso e reto. É o primeiro que se vê na pelagem e o que se destaca | Primeiro contato com o ambiente, proteção contra o atrito. Define o contorno e a cor da pelagem |
+| **Primário intermediário** (acessório) | Comprimento e espessura intermediários, menos rígido que o principal | Transição entre o pelo de proteção e o subpelo. Contribui para o isolamento e para a textura |
+| **Subpelo / lanugem** | Curto, fino, macio e denso, mais próximo da pele. A lanugem é o "pelinho de filhote", semelhante a lã | É o que mais participa do isolamento térmico |
 
-#### Quadro-resumo dos estratos (de baixo para cima)
+- Quanto mais densa a pelagem, maior a quantidade de lanugem e de pelos intermediários.
+- A textura depende dessa proporção. O Golden tem pelagem mais macia por ter mais pelo intermediário e mais lanugem. Na raça citada como "pulpo [?]", a pelagem é mais áspera (Áudio 2, 00:42:22).
+- "Subpelo" é um termo genérico, pois existem vários tipos de subpelo (Áudio 2, 00:37:41).
+- No mesmo gato, o pelo fino corresponde ao **pelo secundário** (Áudio 3, 00:07:29).
+- **Troca sazonal**:
+  - no frio, há estímulo ao crescimento dos pelos que protegem contra o frio;
+  - no calor, há maior queda.
+  - Na escovação sai grande quantidade de pelo. Se ao pentear sai só subpelo e o pelo principal permanece, a queda é fisiológica, não doença (Áudio 2, 00:43:26).
+- Cada folículo é uma estrutura independente dentro da unidade folicular (Áudio 3, 00:07:41).
 
-| Estrato | Camadas de células | Forma do queratinócito | Núcleo | Estruturas marcantes | Processo | Correlação clínica citada |
-|---|---|---|---|---|---|---|
-| **Basal** | 1 fileira (unicelular) | Cuboide | Presente | Membrana basal; único local de mitose | Proliferação | Doenças autoimunes com lesão na membrana basal |
-| **Espinhoso** | Várias | Cuboide | Presente | Desmossomos muito ativos | Diferenciação e queratinização | Pênfigo foliáceo (anticorpos contra desmossomos) |
-| **Granuloso** | Não especificado | Alongada | Diminuindo | Grânulos de querato-hialina e grânulos lamelares; desmossomos deixam de ter função | Diferenciação e queratinização | — |
-| **Lúcido** (só plano nasal e coxins) | — | — | — | Interseção entre granuloso e córneo | — | Maior espessura dessas regiões |
-| **Córneo** | — | Achatada, "fibrosa" | Ausente | Totalmente preenchida por queratina | Descamação | Caspa como aceleração do processo |
+#### Músculo piloeretor
 
-### Estrato basal
+- Presente em **toda a área pilosa**, mesmo onde há pouco pelo.
+- É **mais espesso onde a densidade pilosa é maior**, sobretudo na região dorsal do pescoço e da "garganta [?]" (Áudio 4, 00:06:42).
+- **Origem** na superfície da derme. **Inserção perpendicular ao folículo primário** (Áudio 4, 00:07:12).
+- Funções:
+  - termorregulação;
+  - **esvaziamento das glândulas sebáceas**, por meio da sua movimentação;
+  - comportamento social (Áudio 4, 00:07:12; 00:07:56).
 
-- É uma **camada unicelular**, com uma única fileira de queratinócitos de aspecto **cuboide** (Áudio 2, 00:05:01; 00:08:00).
-- É a **única camada em que o queratinócito prolifera**. Ele só entra em mitose no estrato basal e em nenhuma outra camada (Áudio 2, 00:05:18).
-- O queratinócito gerado no basal **migra até o estrato córneo** e sofre várias mudanças no caminho (Áudio 2, 00:05:18).
+### Pelos especializados (vibrissas)
 
-#### Membrana basal
+- Pelos especializados da cabeça com **função tátil**. São fundamentais para o animal se orientar, se proteger e, no gato, caçar (Áudio 2, 00:44:24).
+- **Localização no gato**: pálpebra superior, lábio, mento e lateral da face. Estas últimas são as fundamentais para o gato. Alguns cães também têm vibrissas (Áudio 2, 00:45:09).
+- **Gatos cegos** projetam as vibrissas para a frente e passam a se guiar por elas, como um radar (Áudio 2, 00:45:25).
+- **Tosa**: o corte das vibrissas ("corta o bigode do bicho") é um problema (Áudio 2, 00:44:47).
+- Funções listadas (Áudio 2, 00:46:14):
+  - percepção espacial;
+  - detecção de movimento;
+  - proteção;
+  - orientação e navegação;
+  - comunicação entre animais.
 
-- Estrutura localizada no estrato basal (representada em azul no esquema da aula). Faz o **limite entre derme e epiderme** (Áudio 2, 00:05:57; 00:06:13).
-- Algumas doenças, entre elas **doenças autoimunes** frequentes na rotina, têm como característica histopatológica a **lesão justamente na membrana basal**. O professor pediu que se guardem as características histopatológicas dessas doenças: um grupo delas se define pela lesão nessa estrutura (Áudio 2, 00:06:13; 00:06:35).
-- No conjunto, a junção fica assim: **epiderme → membrana basal → derme** (Áudio 2, 00:32:28).
+### Folículo piloso
 
-#### Ácido retinoico
+#### Conceito e importância clínica
 
-- O exemplo dado foi o ácido retinoico usado na pele, sobretudo por quem tem acne. Ele é **importantíssimo para regular a migração e a diferenciação do queratinócito** (Áudio 2, 00:06:35).
-- Ele dá o **start** para a divisão e a migração do queratinócito e também as **regula**: se o processo estiver muito acelerado, consegue frear (Áudio 2, 00:07:13).
-- A transcrição registra um trecho sobre deficiência ("na deficiência do ácido fólico [?], o queratinócito [inaudível]"), mas o efeito não foi captado.
-- Logo depois aparece a frase "ele regula a proliferação, a migração e a diferenciação do queratinócito". Ela vem colada à menção ao estrato espinhoso, mas o contexto indica que se refere ao ácido retinoico (Áudio 2, 00:07:13).
+- Cada pelo tem o seu folículo, e os folículos ficam agrupados na unidade folicular (Áudio 2, 00:46:48).
+- O folículo é **formado pela epiderme** e **localizado na derme**. Por isso, qualquer doença que acometa a epiderme pode acometer também o folículo. Exemplo: na **piodermite superficial**, a lesão é epidérmica e há também lesão folicular (Áudio 2, 00:47:15; 00:47:48).
 
-> **Nota de verificação:** a transcrição alterna "ácido retinoico" e "ácido fólico [?]". Pelo contexto (acne, regulação do queratinócito), o assunto é o ácido retinoico. A literatura descreve a vitamina A como um grupo de retinoides essenciais à diferenciação epidérmica e à produção normal de sebo; a deficiência é incomum e pode causar descamação, pelame de má qualidade e alopecia ([Vet Times – Dietary therapy for dermatological disorders](https://www.vettimes.com/news/vets/small-animal-vets/dietary-therapy-for-dermatological-disorders-in-companion-animals)).
+#### Estrutura
 
-### Estrato espinhoso
-
-- Fica acima do basal e tem **várias camadas de queratinócitos**, ao contrário do basal (Áudio 2, 00:07:13; 00:08:00).
-- Os queratinócitos **ainda mantêm o aspecto cuboide e o núcleo** (Áudio 2, 00:08:00).
-- O achado histológico característico são os **desmossomos**, estruturas na parte externa da célula que ligam uma célula à outra (Áudio 2, 00:08:00).
-- Nesta camada os desmossomos estão **muito ativos**, e por isso o queratinócito conserva a forma cuboide (Áudio 2, 00:08:43).
-- Durante a migração, o queratinócito **vai se achatando e perdendo os desmossomos**. Isso explica por que a epiderme é **estratificada e pavimentosa** (Áudio 2, 00:08:43).
-
-#### Pênfigo foliáceo
-
-- É uma doença autoimune com **anticorpos dirigidos contra o desmossomo**, a estrutura que mantém as células ligadas e "tracionadas" (Áudio 2, 00:09:19).
-- Consequência: os queratinócitos da camada espinhosa se soltam e são **encontrados no estrato córneo** (Áudio 2, 00:09:19).
-- O professor avisou que o fenômeno "vai ter um nome especial" (Áudio 2, 00:09:54). Mais adiante, ele chamou a célula resultante de **célula acantolítica** (ver "Desmossomos e células acantolíticas").
-
-> **Nota de verificação:** na literatura, essa perda de coesão entre queratinócitos causada por anticorpos chama-se **acantólise** e leva à formação de pústulas. A citologia de pústula íntegra mostra "jangadas" de queratinócitos acantolíticos com neutrófilos não degenerados. No cão, o principal autoantígeno do pênfigo foliáceo é a **desmocolina-1** ([VIN – WSAVA 2018, Immune-Mediated Skin Diseases](https://www.vin.com/apputil/content/defaultadv1.aspx?pId=22915&catId=124654&id=8896641)).
-
-### Estrato granuloso
-
-- O nome vem dos **grânulos** que começam a aparecer nas células (Áudio 2, 00:10:00).
-- As células ficam **mais alongadas** e o **núcleo vai diminuindo** (Áudio 2, 00:10:18).
-- Surgem **dois grânulos importantíssimos** (Áudio 2, 00:10:18; 00:10:42; 00:10:58):
-
-| Grânulo | O que produz, segundo a aula | Função |
-|---|---|---|
-| **Grânulos de querato-hialina** ("grânulos de queratina") | Queratina | Impermeabilizar o tegumento |
-| **Grânulos lamelares** (corpos lamelares) | Parte lipídica: **ceramidas e ácidos graxos** (no slide seguinte, também **colesterol**) | Manter as células unidas e formar o **cimento intercelular**, que passa a conectar as células daqui para cima |
-
-- Na mesma fala, o professor disse que esses lipídios seriam fundamentais "para a formação do sebo", e emendou: "cimento intercelular" (Áudio 2, 00:10:58).
-- **Do granuloso para cima, os desmossomos deixam de ter função**, e a coesão passa a depender do cimento intercelular (Áudio 2, 00:11:32).
-
-> **Nota de verificação:** os grânulos de querato-hialina correspondem morfologicamente à **profilagrina**, precursora da **filagrina** ([ScienceDirect Topics – Lamellar Granule](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/lamellar-granule)). A função principal deles é interligar os filamentos de queratina, mais do que sintetizá-la ([Semantic Scholar – Histology, Keratohyalin Granules](https://www.semanticscholar.org/paper/Histology,-Keratohyalin-Granules-Freeman-Sonthalia/b1e6a07b2510f07541bdf39718354ffe763b2c1a)). O vídeo exibido na aula também atribui a síntese de queratina à própria célula durante a migração.
-
-> **Nota de verificação:** os lipídios dos corpos lamelares são precursores dos lipídios extracelulares do estrato córneo, isto é, do cimento intercelular ([Journal of Lipid Research – Epidermal lipids and permeability barrier](https://www.jlr.org/article/S0022-2275(20)42904-9/fulltext)). O **sebo** é a secreção das glândulas sebáceas, que a aula trata separadamente. Os dois se somam no filme hidrolipídico (ver adiante).
-
-### Estrato córneo
-
-- É o estrato mais externo (Áudio 2, 00:11:32).
-- O queratinócito chega aqui **totalmente queratinizado**, preenchido por queratina e **sem núcleo**. Na definição do professor, é uma "célula **fibrosa, anucleada e queratinizada**" (Áudio 2, 00:11:32).
-- Depois de um tempo, ele continua migrando e **descama** (Áudio 2, 00:12:12).
-- Por isso a epiderme está em **renovação constante** (Áudio 2, 00:12:12).
-
-### Renovação epidérmica e queratinização
-
-#### Etapas por estrato
-
-| Estrato | Processo |
+| Região | Descrição |
 |---|---|
-| Basal | **Proliferação** (multiplicação do queratinócito) |
-| Espinhoso e granuloso | **Diferenciação e queratinização** |
-| Córneo | **Descamação** |
+| **Bulbo** | Porção mais profunda. Contém a **matriz capilar**, onde o pelo cresce |
+| **Papila dérmica** | Formada pelos vasos e pela matriz capilar. Leva a vascularização ao bulbo |
+| **Infundíbulo** | Porção superior |
+| **Istmo** | Da saída do ducto da glândula sebácea até a inserção do músculo eretor do pelo |
+| **Porção inferior** | Abaixo da inserção do músculo eretor |
 
-(Áudio 2, 00:21:06)
+No interior do folículo fica a **haste do pelo** (Áudio 3, 00:00:00; 00:01:34; 00:02:04).
 
-#### Tempo de renovação
+#### Implicação na biópsia
 
-- No cão, o queratinócito leva **em média 22 dias** para ir da camada basal à córnea (Áudio 2, 00:12:28; 00:21:06). Ao citar o número, o professor disse que depois conferiria se estava certo (Áudio 2, 00:12:28).
-- O vídeo exibido em aula, narrado em inglês, ilustra a migração (Áudio 2, 00:22:06; 00:23:31):
-  - as células da camada basal, presa à membrana basal e ao conjuntivo subjacente, **dividem-se com frequência, talvez uma vez por dia**;
-  - depois de empurrada para fora da camada basal, a célula tem **cerca de 2 semanas de vida**;
-  - nesse período ela sintetiza grande quantidade de **queratina**, a principal proteína da pele, dos pelos e das unhas.
-- Em um animal saudável, essa troca **não é visível a olho nu** (Áudio 2, 00:12:28; 00:13:02).
+- Os esquemas mostram o folículo na vertical, mas ele fica **inclinado**, principalmente na região dorsal.
+- Na coleta para histopatologia, a incisão em **elipse** permite obter mais folículos inteiros. Um corte reto pode seccioná-los (Áudio 4, 00:05:57).
 
-> **Nota de verificação:** a literatura confirma um tempo de renovação epidérmica de cerca de **22 dias** no cão ([VetCandy – Management of canine hyperkeratosis](https://www.myvetcandy.com/clinicalupdblog/2020/8/31/management-of-canine-hyperkeratosis)). Outra fonte cita 21 dias como normal e cerca de 8 dias na seborreia primária ([ScienceDirect Topics – Seborrhea](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/seborrhea)). Em Cocker Spaniels e Setters Irlandeses seborreicos, a renovação da epiderme viável foi de aproximadamente 7 dias ([PubMed – Epidermal cell renewal in seborrheic skin of dogs](https://pubmed.ncbi.nlm.nih.gov/2954498/)).
+### Haste do pelo ao tricograma
 
-#### Aceleração da queratinização: caspa e inflamação
+- O **tricograma** é exame de rotina do dermatologista. Nele se avaliam a estrutura do pelo, o ápice e a raiz (Áudio 3, 00:02:32).
+- A haste tem três camadas, de dentro para fora: **medular** (centro, mais escura), **córtex** e **cutícula** (Áudio 3, 00:03:16).
 
-- A descamação visível, popularmente **caspa**, indica uma doença que está **acelerando** o processo (Áudio 2, 00:13:02).
-- Há doenças em que o processo de queratinização **encurta para 5 a 6 dias** (Áudio 2, 00:13:02).
-- Consequência: o queratinócito chega à superfície **sem completar a diferenciação**, ainda **com núcleo** e **pouco queratinizado** (Áudio 2, 00:13:31).
-- A causa mais comum é a **inflamação**: sempre que a pele inflama, a queratinização fica alterada (Áudio 2, 00:13:54).
-- Por isso **inflamação e descamação** costumam andar juntas. É uma resposta do organismo, que "se sente agredido e bota para fora", mas que **geralmente não é efetiva** (Áudio 2, 00:14:07; 00:14:16). Uma aluna resumiu como "uma produção mal-acabada que vai para fora", e o professor concordou (Áudio 2, 00:14:26; 00:14:28).
-
-#### Tradução na citologia
-
-| | Queratinização normal | Queratinização acelerada (inflamação) |
-|---|---|---|
-| Aspecto do queratinócito superficial | Anucleado, como uma "folhinha de papel celofane enroladinha" | **Nucleado** ("nucleozinho") |
-| Coloração | "Bem roxinho" | Células "menos roxinhas", com "pouca basofilia" |
-| Quantidade de células atípicas | Uma ou outra é fisiológica | Muitas: indicam processo de queratinização alterado |
-| Interpretação | Normal | **Inflamação** |
-
-(Áudio 2, 00:13:31; 00:14:28; 00:14:54)
-
-- Sobre a coloração, a transcrição registra que o corneócito é "bem roxinho" porque "a queratina tem muita afinidade com o corante eosinofílico" (Áudio 2, 00:14:28). Na mesma passagem, a perda dessa coloração é chamada de "pouca basofilia" (Áudio 2, 00:15:12).
-- **Exemplo da orelha**, onde o professor diz ver muito isso: o conduto está só "um pouquinho vermelho", mas a citologia mostra muitos queratinócitos, vários nucleados e com pouca basofilia. Isso indica que o paciente **já tem inflamação bem marcada** (Áudio 2, 00:14:54; 00:15:12).
-
-### Estrato lúcido
-
-- É um estrato adicional, presente no **plano nasal** ("trufinha") e nos **coxins** (Áudio 2, 00:15:42; 00:16:21).
-- Fica entre o **granuloso** e o **córneo**, na "interseção" entre os dois (Áudio 2, 00:16:21).
-- É o estrato que existe também na pele humana (Áudio 2, 00:16:21).
-- Ele explica por que essas regiões são **macroscopicamente mais espessas**: têm **5 estratos** (basal, espinhoso, granuloso, lúcido e córneo) (Áudio 2, 00:15:42; 00:16:21).
-- O aspecto macroscópico (mosaico no plano nasal, superfície lisa no coxim) está na Parte 1 (Áudio 2, 00:16:54; 00:17:02).
-
-> **Nota de verificação:** fontes veterinárias descrevem o estrato lúcido, em cães e gatos, nos coxins e no plano nasal. O mesmo compêndio traz outra definição, que o restringe aos coxins e diz que aparece só "às vezes" no plano nasal ([ScienceDirect Topics – Stratum Lucidum](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/stratum-lucidum)).
-
-### Desmossomos e células acantolíticas
-
-- No esquema da aula, os desmossomos aparecem como pontinhos verdes. Eles fazem o **ancoramento dos queratinócitos**, principalmente nos **estratos basal e espinhoso** (Áudio 2, 00:17:36).
-- O desmossomo é uma estrutura complexa, com **várias proteínas diferentes** (Áudio 2, 00:20:17).
-- **Cada doença autoimune agride uma estrutura específica** do desmossomo. Esse detalhamento ficou para a aula de doenças autoimunes (Áudio 2, 00:20:17).
-- Os desmossomos unem um queratinócito ao outro **lateral e dorsoventralmente** (Áudio 2, 00:20:46).
-- Conforme a célula migra e a epiderme fica pavimentosa, aumenta o cimento intercelular e os desmossomos desaparecem. **No estrato córneo já não há desmossomos** (Áudio 2, 00:19:04; 00:20:46).
-
-#### Da destruição do desmossomo à célula acantolítica
-
-1. Uma doença destrói o desmossomo.
-2. A célula se solta e **migra sozinha até o estrato córneo**.
-3. Esse deslocamento **desencadeia um processo inflamatório**.
-4. Dentro da **pústula** formada encontram-se **queratinócitos nucleados**.
-
-(Áudio 2, 00:17:36; 00:18:12)
-
-| | Queratinócito ancorado | Célula acantolítica |
-|---|---|---|
-| Situação | Preso por desmossomos | Desprendido |
-| Forma | **Cuboide**, porque está tracionado pelos desmossomos | **Redonda** |
-| Núcleo | Presente (basal e espinhoso) | Presente, no interior da célula arredondada |
-| Onde aparece | Estratos basal e espinhoso | Estrato córneo / interior da pústula |
-
-(Áudio 2, 00:18:12; 00:18:37)
-
-O professor apresentou o tema como antecipação ("só para já ir pegando o gostinho"). Ele será retomado nas doenças autoimunes (Áudio 2, 00:18:37).
-
-### Corpos lamelares e filme hidrolipídico
-
-#### Produção do cimento intercelular
-
-- Os **corpos lamelares** produzem a parte fosfolipídica, os lipídios que formam o cimento entre as células (Áudio 2, 00:18:37; 00:19:04).
-- No esquema da aula, à medida que a célula sobe, os desmossomos desaparecem e o espaço entre as células passa a ser ocupado por esse "cimento", produzido pelos corpos lamelares (Áudio 2, 00:19:04).
-- Os componentes são **ceramidas, ácidos graxos e colesterol**. Esse conjunto é chamado de **filme protetor** (Áudio 2, 00:19:25).
-- Por isso esses lipídios são **suplementados, por via tópica ou oral**, para tentar melhorar o filme (Áudio 2, 00:19:25).
-- As secreções dos corpos lamelares, somadas às **secreções das glândulas sebáceas**, formam o **filme hidrolipídico**, também chamado de **cimento intercelular** (Áudio 3, 00:35:52; 00:36:20).
-
-#### Impermeabilização pela queratina
-
-- Os grânulos de queratina produzem a queratina que **impermeabiliza o tegumento** (Áudio 2, 00:19:43).
-- Com umidade excessiva, a pele **encharca e macera**: a queratina amolece porque está sendo molhada demais (Áudio 2, 00:19:43).
-
-#### Coesão do estrato córneo no cão
-
-- Os queratinócitos do estrato córneo do cão **não têm coesão tão perfeita quanto os humanos**. No gato, essa diferença é menor (Áudio 3, 00:36:43).
-- Por isso o filme hidrolipídico é **essencial**: ele faz o acabamento, garante a coesão e sustenta a função de proteção e barreira (Áudio 3, 00:36:43).
-- Doenças que alteram a **quantidade** ou a **composição** do filme levam à **perda da função de barreira** (Áudio 3, 00:37:03).
-
-#### Composição citada em aula
-
-| Componente | Proporção |
+| Achado | Interpretação |
 |---|---|
-| **Ceramidas** | 40% |
-| **Colesterol** | 35% |
-| **Ácidos graxos** | 25% |
+| Medular escura e homogênea | Normal. A melanina, que dá a cor do pelo, fica na medular |
+| Cutículas assentadas umas sobre as outras | Normal |
+| Cutícula "arrepiada", sem assentamento | Em geral, doença nutricional ou metabólica afetando o pelo |
+| Vários pontos pigmentados em vez de pigmento homogêneo | **Macromelanossomos**, localizados na **córtex** (resposta do professor) |
+| Medular clara, sem pigmentação | Animais de pelagem longa |
 
-(Áudio 3, 00:38:18)
+(Áudio 3, 00:03:31–00:04:48)
 
-Ao dar os números, o professor se referiu à "constituição desse produto". No contexto, a referência é ao filme lipídico/cimento intercelular.
+### Ciclo do pelo
 
-> **Nota de verificação:** para a epiderme humana, os lipídios extracelulares do estrato córneo, derivados dos corpos lamelares, são descritos como cerca de **50% ceramidas, 25% colesterol e 15% ácidos graxos livres** ([Journal of Lipid Research – The role of epidermal lipids in cutaneous permeability barrier homeostasis](https://www.jlr.org/article/S0022-2275(20)42904-9/pdf)). Os percentuais da aula (40/35/25) são diferentes. Não localizei na busca valores específicos para o cão.
+#### Renovação em mosaico
 
-#### Reposição da barreira: suplementação e produtos
+- O tempo de troca depende da raça, do clima e da luminosidade. Não há padrão fixo (Áudio 3, 00:04:59).
+- O crescimento **não é sincronizado**: no mesmo animal normal há folículos em fases diferentes. Pelos caem e nascem no mesmo local, por isso não se veem falhas. Esse padrão é a renovação **em mosaico** (Áudio 3, 00:05:30; 00:12:17).
+- Quando uma doença impede o crescimento, o pelo cai sem reposição e aparecem as falhas (Áudio 3, 00:05:41).
 
-| Estratégia | O que foi dito |
+#### Fases
+
+| Fase | Como foi ensinada |
 |---|---|
-| **Reposição tópica ou oral** dos lipídios | Muito trabalhada hoje para manter a pele mais saudável. A **adesão do tutor é baixa**, porque o efeito só aparece **a longo prazo** (Áudio 3, 00:37:03) |
-| **Prazo** | "Não é botar hoje uma pipetinha de ácido graxo e amanhã o cachorro vai estar bom." Usar **pelo menos 6 meses**, e pode ser necessário **pelo resto da vida** (Áudio 3, 00:37:03; 00:37:40) |
-| **Ômega-6 e ômega-3** | O alvo da suplementação é melhorar o filme lipídico, que o professor apresentou como "a única função que tem". Segundo ele, a ação **anti-inflamatória** dos ácidos graxos **não é muito vista nem comprovada**: foi demonstrada **in vitro**, mas **in vivo** não teve o mesmo resultado. Também é efeito de longo prazo (Áudio 3, 00:37:40; 00:38:09) |
-| **Ceramidas tópicas** | Há poucos produtos, porque a **ceramida é muito cara**. Muitos produtos tópicos trazem, na verdade, **pré-ceramidas** (Áudio 3, 00:38:30; 00:38:36) |
-| **Fitoesfingosina** | **Pré-ceramida** presente em alguns produtos veterinários, com a função de ajudar a melhorar o filme (Áudio 3, 00:38:36; 00:38:52) |
+| **Anágena** (anágeno, fase anagênica, *anagen*) | Crescimento. É mais curta nas pelagens curtas e prolongada nas longas (Áudio 3, 00:06:18) |
+| **Catágena** (catágeno, fase catagênica, *catagen*) | Descrita como **repouso**, depois que o pelo atinge o tamanho geneticamente programado. Varia muito: é muito mais longa nas **raças nórdicas** (Chow Chow, Spitz, Husky Siberiano), com repouso de "12, 15 anos [?]" e, em outro momento, de "um ano, 6 meses" (Áudio 3, 00:08:17; 00:10:23) |
+| **Telógena** (telógeno, fase telogênica) | Queda. Começa quando a matriz passa a produzir um novo pelo (Áudio 3, 00:09:39) |
+| **Exógena [?]** | Fase intermediária: o folículo parece vazio porque o pelo antigo já caiu e o novo ainda não despontou (Áudio 3, 00:10:49; 00:11:31) |
 
-> **Nota de verificação:** quanto ao efeito clínico dos ácidos graxos, há estudos em dermatite atópica canina que sugerem que a suplementação oral com ácidos graxos poli-insaturados **reduz o prurido** e pode **diminuir as doses de ciclosporina e glicocorticoides** necessárias ao controle ([BMC Veterinary Research, 2021](https://link.springer.com/article/10.1186/s12917-021-03063-w)). Um ensaio randomizado, duplo-cego e controlado por placebo avaliou especificamente esse efeito poupador de ciclosporina ([The Veterinary Journal – ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1090023315004967)).
+- As três fases mais importantes são a anágena, a catágena e a telógena.
+- O tempo de cada fase varia por raça. A média de 22 dias se refere à renovação epidérmica, não ao ciclo do pelo (Áudio 3, 00:10:19).
+- **Tosa em raças nórdicas**:
+  - não é recomendada;
+  - o pelo tosado permanece parado e demora muito a nascer;
+  - na verdade, após a tosa ele não volta a crescer: precisa entrar na fase telogênica (Áudio 3, 00:09:09; 00:10:23).
+- **Pelagens longas**: **98% do pelo está em anágena**, em crescimento constante. Exemplos: Maltês e Poodle (Áudio 3, 00:12:30).
+- **"Telógeno marcado"**: ocorre nas raças nórdicas. Após a tosa, o animal fica como se estivesse sem pelo por muito tempo, até o pelo cair e nascer outro (Áudio 3, 00:12:58).
 
-#### Peptídeos antimicrobianos, disbiose e rumo da pesquisa
+> **Nota de verificação:** A literatura descreve a catágena como fase de **regressão** e a telógena como fase de **quiescência (repouso)**: o folículo passa por fases recorrentes de crescimento controlado (anágena), regressão (catágena) e quiescência (telógena) ([Müntener et al., Veterinary Dermatology](https://www.ovid.com/journals/vetd/abstract/10.1111/j.1365-3164.2011.00963.x~the-canine-hair-cycle-a-guide-for-the-assessment-of?redirectionsource=fulltextview)). Nas raças nórdicas, a fase prolongada citada é a telógena: acredita-se que a fase telógena possa durar anos ([Whole Dog Journal](https://www.whole-dog-journal.com/care/the-importance-of-dog-grooming-and-canine-skin-care/)). Isso é compatível com o "telógeno marcado" mencionado em aula.
 
-- O filme protetor e seus ácidos graxos são ricos em **peptídeos antimicrobianos** (Áudio 3, 00:38:57).
-- Quando o filme está deficiente, instala-se um ciclo: **disbiose → proliferação de agentes patogênicos da própria pele → inflamação**. A transcrição termina essa sequência com "e aí vem câncer [?]", trecho duvidoso (Áudio 3, 00:38:57).
-- **Disbiose** é a desregulação da microbiota da pele (Áudio 3, 00:39:38).
-- O professor criticou a conduta habitual: usar produtos para reduzir o microrganismo patogênico **pode desregular ainda mais a microbiota** (Áudio 3, 00:39:38).
-- O **foco atual dos estudos** é a **reposição** do que falta no filme: como deve ser feita e se realmente funciona. A ideia é corrigir a disbiose pela restauração da barreira, mas, nas palavras do professor, "não é tão simples assim" (Áudio 3, 00:39:22; 00:39:53).
+#### Fatores que influenciam o ciclo
 
-| Componente da barreira | Origem | Função destacada na aula |
+| Tipo | Fatores |
+|---|---|
+| **Microambientais** (os mais vistos) | Queratinócitos, fibroblastos (estímulo ao crescimento), adipócitos, células imunes e fibras nervosas |
+| **Macroambientais** (hormonais) | **Hormônio tireoidiano** estimula o crescimento. **Cortisol** inibe. **Hormônios sexuais** podem estimular ou inibir |
+
+(Áudio 3, 00:13:27; 00:14:26)
+
+- Cada folículo tem receptores para esses hormônios. O próprio folículo **se regula hormonalmente** e pode produzir andrógenos e esteroides (Áudio 3, 00:14:32; 00:14:59).
+- **Alopecia X**:
+  - o animal não tem alteração na produção hormonal e mesmo assim fica sem pelo;
+  - o folículo não está doente, e sim parado (trecho parcialmente inaudível): não libera o pelo nem deixa outro nascer;
+  - o mecanismo ainda não está definido (Áudio 3, 00:14:46; 00:16:10).
+- Hormônios sexuais podem ser dosados (testosterona, estrogênio) (Áudio 3, 00:15:32).
+
+### Tricograma: avaliação da raiz
+
+| Raiz | Aspecto |
+|---|---|
+| **Telógena** | Em forma de seta ou lança. É a mais fácil de reconhecer |
+| **Anágena** | Raiz gorda, cheia |
+| **Catágena** | Difícil de diferenciar. O essencial é distinguir telógena de anágena |
+
+(Áudio 3, 00:17:25; 00:17:37)
+
+- **Animal saudável**: não há padrão fixo. Espera-se proporção próxima de meio a meio. Em pelagem longa, a anágena deve predominar (Áudio 3, 00:18:29).
+- **Foco do exame**: verificar se há **predomínio de telógena**. Exemplo: 10 pelos telógenos para 1 anágeno em um animal com queixa de queda de pelo.
+  - Esse achado direciona para **doença sistêmica** que está deixando o pelo sem estímulo para crescer.
+  - O pelo em si é saudável. O que está doente é o sistema que faz o pelo crescer (Áudio 3, 00:18:45–00:20:19).
+- **Técnica**:
+  1. arrancar um tufo de pelos;
+  2. dispor na lâmina com as raízes para um lado e os ápices para o outro;
+  3. montar com a lâmina e o meio citado como "sorinho [?]", sem clarificar antes;
+  4. no microscópio, fazer uma visão geral das raízes (Áudio 3, 00:19:28–00:19:46).
+- O tricograma **raramente fecha diagnóstico, mas direciona** (Áudio 3, 00:18:59).
+
+### Glândulas sudoríparas
+
+| Tipo | Desembocadura | Ocorrência |
 |---|---|---|
-| Queratina | Queratinócito (grânulos de querato-hialina) | Impermeabilização |
-| Ceramidas, colesterol, ácidos graxos | Corpos lamelares (e glândulas sebáceas) | Cimento intercelular, coesão dos corneócitos |
-| Secreção sebácea | Glândulas sebáceas | Compõe o filme hidrolipídico junto com os lipídios lamelares |
-| Peptídeos antimicrobianos | Filme protetor | Controle de patógenos; a deficiência leva à disbiose |
+| **Apócrinas / epitriquiais** | Ducto no folículo piloso | Glândulas sudoríparas da pele pilosa de cães e gatos. Por isso o cão e o gato não transpiram |
+| **Écrinas / merócrinas** | Ducto direto na superfície da pele, sem associação ao folículo | Humano e cavalo. No cão, **somente no coxim**, com função de **marcação territorial** |
+
+(Áudio 3, 00:21:18–00:22:36)
+
+- O professor criticou o uso de sapatinhos no cão, que interfere na marcação feita pelo coxim.
+- **Função** da secreção sudorípara que desemboca no folículo: participar da formação do **filme protetor** (cimento intercelular), da lubrificação e da hidratação da pele (Áudio 3, 00:23:02).
+
+### Glândulas sebáceas
+
+Desembocam inteiramente no folículo. Funções (Áudio 3, 00:23:25–00:26:18):
+
+- **Barreira física e hídrica**: promovem "hipermembranização [?]" e **reduzem o TEWL** (*transepidermal water loss*, **perda de água transepidérmica**).
+  - Há doenças que aumentam o TEWL e tratamentos que visam melhorá-lo. A sigla será muito usada.
+- **Peptídeos antimicrobianos** no sebo.
+- **Modulação do microbioma**, favorecendo as bactérias comensais.
+- **Distribuição de substâncias**: produtos **spot-on** aplicados no dorso se espalham pela pele por meio da secreção sebácea, pela qual têm afinidade.
+  - Por isso alguns são contraindicados logo após o banho, quando há menos secreção ("dulzura [?]") na pele.
+- **Comunicação química**: liberação de feromônios.
+- **Termorregulação indireta**: isolamento térmico.
+- **Composição**: ceramidas (importantes para a modulação da microbiota e a regulação do TEWL), ácidos graxos e colesterol.
+  - Se a dieta não tiver níveis equilibrados de ácidos graxos e, principalmente, de colesterol, a produção da secreção fica deficiente.
+
+### Glândulas sebáceas modificadas
+
+| Glândula | Localização e função | Importância clínica |
+|---|---|---|
+| **Glândulas anais** | Duas glândulas laterais ao ânus, em posição oblíqua. Comprimidas na postura de defecação, lubrificam as fezes | Obstrução do ducto, **abscesso** e infecção. Predispõem: animais alérgicos que esfregam o períneo no chão, constipados e portadores de doenças intestinais ou dermatológicas (Áudio 3, 00:27:10–00:28:17) |
+| **Glândula da cauda** | Agrupamento de glândulas sebáceas no **terço proximal** da cauda, em machos e fêmeas, mais exuberante nos machos. Função de **marcação territorial** (o cão esfrega a cauda) | Não é visível no animal normal. A **hipersecreção de testosterona** provoca aumento da secreção e do tamanho da glândula: primeiro o pelo fica untuoso, depois a glândula comprime folículos e vasos e o pelo cai. No final a área resseca, e pode haver infecção. Associada a **tumor testicular** em animais inteiros, com frequência **criptorquidas** não tratados. Chamada **"cauda de garanhão"**, muito vista em gatos no passado. No gato, as glândulas não têm disposição circular, e sim linear (Áudio 3, 00:28:24–00:31:16) |
+| **Glândulas do mento (gato)** | Produzem feromônio para marcação. O gato se esfrega para marcar, inclusive as pessoas | **Acne felina**: acúmulo de queratina nos folículos, com comedões (cravos) e pontos pretos. Se houver só pontos pretos, às vezes apenas se acompanha. A complicação é a **infecção bacteriana profunda** (Áudio 3, 00:31:58–00:33:22) |
+| **Glândulas perianais (circum-anais)** | Ao redor do ânus, **sem ligação com o folículo piloso**. Produzem secreções odoríferas para marcação | **Adenoma de glândula perianal** no cão idoso, responsivo à testosterona. Além de retirar o tumor, é preciso **castrar** para evitar recidiva. Com a castração tardia, esses casos voltarão a aparecer (Áudio 3, 00:33:22–00:34:16) |
+| **Glândulas ceruminosas** | Orelha externa. Na verdade, mistura de glândulas sebáceas e sudoríparas. Produzem **cerúmen**, que protege a orelha e lubrifica a membrana timpânica | **Cerúmen visível** no conduto auditivo indica agressão: o aumento da produção de cerúmen é a primeira resposta inflamatória (Áudio 3, 00:34:16–00:35:14) |
+
+### Filme hidrolipídico
+
+- **Formação**: secreções dos **corpos lamelares** (estratos granuloso e córneo) somadas à secreção das glândulas sebáceas. Também é chamado de **cimento intercelular** (Áudio 3, 00:35:52).
+- **Importância no cão**: os queratinócitos da camada córnea do cão (e, em menor grau, do gato) não têm coesão tão perfeita quanto os humanos. Por isso o filme é essencial para a coesão e para a função de barreira (Áudio 3, 00:36:43).
+- **Perda da barreira**: ocorre quando há alteração na **quantidade ou na composição** do filme (Áudio 3, 00:37:03).
+- **Composição**: **40% de ceramidas, 35% de colesterol e 25% de ácidos graxos** (Áudio 3, 00:38:18).
+
+| Recurso terapêutico | O que foi ensinado |
+|---|---|
+| **Ômega 6 e ômega 3** | O objetivo da suplementação é recompor o filme. O efeito é a longo prazo: uso por **no mínimo 6 meses**, muitas vezes por toda a vida, o que gera baixa adesão do tutor. O efeito anti-inflamatório foi comprovado *in vitro*, mas não *in vivo* |
+| **Ceramidas tópicas** | São caras. Muitos produtos contêm **pré-ceramidas**, como a **fitoesfingosina**, presente em produtos veterinários |
+
+(Áudio 3, 00:37:40–00:38:52)
+
+- **Ciclo da deficiência**: o filme é rico em peptídeos antimicrobianos. Com a deficiência, instala-se a sequência **disbiose** → proliferação de patógenos da própria pele → inflamação → "câncer [?]" (Áudio 3, 00:38:57).
+- **Tendência atual**: produtos que só reduzem os patógenos podem desregular ainda mais a microbiota. Os estudos buscam a **reposição** do que falta, mas isso não é simples (Áudio 3, 00:39:22–00:39:53).
+
+### pH cutâneo e manejo de produtos
+
+- **pH da pele do cão**: faixa de **6 a 7,5**. O ideal são produtos de **pH neutro** (Áudio 4, 00:00:00).
+  - A manutenção do pH fisiológico é crucial para a integridade da barreira cutânea, a regulação da microbiota e a prevenção de disfunções epidérmicas (Áudio 4, 00:01:23).
+  - Os gatos têm menos problemas, por não haver a mesma cultura de banhos.
+- **Excesso de higiene**: "cachorro feliz é cachorro sujo". O professor contou o caso de um Shih Tzu que chegou branco e sujo, "preto", com problema de pele. Ele atribui ao manejo inadequado boa parte (cerca de 50%) dos problemas de pele e de comportamento (Áudio 4, 00:00:30–00:01:00).
+- **Queixas por erro de manejo**: o animal chega com queixa de "queimadura", odor forte ou descamação sem ter doença primária. A alteração é causada pelo produto usado (Áudio 4, 00:01:23).
+- **Produtos a evitar** (Áudio 4, 00:02:03–00:03:42):
+  - **desengordurantes**, que removem a gordura da pele;
+  - **shampoos antipulgas e anticarrapatos com piretroide**, frequentes no passado e causa de prurido;
+  - **sabão** em qualquer forma, incluindo sabão e sabonete de coco;
+  - **detergente**.
+  - Esses dados devem ser buscados na anamnese.
+- **Qualidade do produto**: os produtos tópicos devem respeitar a "biodiversidade" da pele, para evitar irritação, disbiose e falha terapêutica (Áudio 4, 00:03:58).
+  - Exemplo: há apenas dois shampoos de **clorexidina** no mercado, da Vimarque [?] e da Agener [?], ambos de preço alto. Uma clorexidina barata ("R$ 1,90") vendida no balcão como equivalente tem concentração inadequada, e o tutor conclui que o tratamento "não funciona".
+- **Produtos falsificados**: vendidos pela internet (Mercado Livre, Shopee). Não se sabe o que contêm, e "a maioria é falsificado" (Áudio 4, 00:04:51–00:05:26).

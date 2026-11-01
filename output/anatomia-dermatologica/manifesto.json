@@ -324,11 +324,155 @@
         "cache_leitura": 85438,
         "buscas_web": 0,
         "custo_usd": 1.8603
+      },
+      {
+        "quando": "2026-11-01T13:28:35-03:00",
+        "etapa": "resumo",
+        "referencia": "resumo",
+        "entrada": 503,
+        "saida": 23793,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 79467,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 1.1136
+      },
+      {
+        "quando": "2026-11-01T13:30:58-03:00",
+        "etapa": "apostila",
+        "referencia": "00-plano",
+        "entrada": 258,
+        "saida": 16635,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.3496
+      },
+      {
+        "quando": "2026-11-01T13:32:34-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-01",
+        "entrada": 9319,
+        "saida": 10825,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 85341,
+        "cache_leitura": 181043,
+        "buscas_web": 1,
+        "custo_usd": 0.9827
+      },
+      {
+        "quando": "2026-11-01T13:32:42-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-04",
+        "entrada": 9327,
+        "saida": 10740,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 266379,
+        "buscas_web": 2,
+        "custo_usd": 0.3254
+      },
+      {
+        "quando": "2026-11-01T13:32:46-03:00",
+        "etapa": "apostila",
+        "referencia": "resumo-executivo",
+        "entrada": 118,
+        "saida": 1225,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.0409
+      },
+      {
+        "quando": "2026-11-01T13:32:52-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-02",
+        "entrada": 9334,
+        "saida": 12269,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 85341,
+        "cache_leitura": 277266,
+        "buscas_web": 2,
+        "custo_usd": 1.0409
+      },
+      {
+        "quando": "2026-11-01T13:32:54-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-03",
+        "entrada": 9346,
+        "saida": 12197,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 85341,
+        "cache_leitura": 181172,
+        "buscas_web": 3,
+        "custo_usd": 1.0303
+      },
+      {
+        "quando": "2026-11-01T13:33:41-03:00",
+        "etapa": "apostila",
+        "referencia": "duvidas-em-aberto",
+        "entrada": 220,
+        "saida": 5241,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.1216
+      },
+      {
+        "quando": "2026-11-01T13:33:47-03:00",
+        "etapa": "apostila",
+        "referencia": "pontos-enfatizados",
+        "entrada": 190,
+        "saida": 7525,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.1672
+      },
+      {
+        "quando": "2026-11-01T13:35:10-03:00",
+        "etapa": "apostila",
+        "referencia": "glossario",
+        "entrada": 190,
+        "saida": 17878,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.3742
+      },
+      {
+        "quando": "2026-11-01T13:35:15-03:00",
+        "etapa": "apostila",
+        "referencia": "material-complementar",
+        "entrada": 324,
+        "saida": 6882,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 534526,
+        "buscas_web": 20,
+        "custo_usd": 0.4458
+      },
+      {
+        "quando": "2026-11-01T13:36:07-03:00",
+        "etapa": "apostila",
+        "referencia": "questoes-de-revisao",
+        "entrada": 258,
+        "saida": 22307,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 79467,
+        "buscas_web": 0,
+        "custo_usd": 0.4631
       }
     ],
-    "total_usd": 23.5986
+    "total_usd": 30.0539
   },
-  "atualizado_em": "2026-11-01T11:43:42-03:00",
+  "atualizado_em": "2026-11-01T13:40:28-03:00",
   "audios": [
     {
       "posicao": 1,
@@ -413,19 +557,56 @@
   ],
   "avisos": [],
   "word": {
-    "titulos": 297,
-    "titulos_nivel_1": [
-      "Resumo executivo",
-      "Conteúdo da aula",
-      "Pontos enfatizados pelo professor",
-      "Glossário",
-      "Dúvidas em aberto",
-      "Questões de revisão",
-      "Material complementar",
-      "Anexo — Transcrição integral limpa"
-    ],
-    "tabelas": 109,
-    "links": 127,
-    "paragrafos": 2572
+    "transcricao": {
+      "titulos": 8,
+      "titulos_nivel_1": [
+        "Áudio 1 (09:27 de gravação, 0:26:44)",
+        "Áudio 2 (10:35 de gravação, 0:48:37)",
+        "Áudio 3 (11:24 de gravação, 0:40:09)",
+        "Áudio 4 (13:34 de gravação, 0:10:35)",
+        "Áudio 5 (14:49 de gravação, 0:45:38)",
+        "Áudio 6 (15:35 de gravação, 0:26:00)",
+        "Áudio 7 (16:08 de gravação, 0:05:27)",
+        "Áudio 8 (16:15 de gravação, 0:17:21)"
+      ],
+      "tabelas": 0,
+      "links": 0,
+      "paragrafos": 889
+    },
+    "resumo": {
+      "titulos": 64,
+      "titulos_nivel_1": [
+        "Limites e componentes da pele",
+        "Variações normais da pele e do pelo",
+        "Padrões anatômicos regionais",
+        "Funções gerais da pele",
+        "Camadas da pele e epiderme",
+        "Derme e hipoderme",
+        "Unidade folicular, pelos e ciclo do pelo",
+        "Glândulas da pele e filme hidrolipídico",
+        "pH, manejo e produtos",
+        "Músculo piloeretor e barreira cutânea",
+        "Lesões dermatológicas",
+        "Padrões lesionais e descrição lesional na prática"
+      ],
+      "tabelas": 17,
+      "links": 0,
+      "paragrafos": 328
+    },
+    "apostila": {
+      "titulos": 152,
+      "titulos_nivel_1": [
+        "Resumo executivo",
+        "Conteúdo da aula",
+        "Pontos enfatizados pelo professor",
+        "Glossário",
+        "Dúvidas em aberto",
+        "Questões de revisão",
+        "Material complementar"
+      ],
+      "tabelas": 44,
+      "links": 16,
+      "paragrafos": 673
+    }
   }
 }

@@ -1,4 +1,4 @@
-"""Pipeline de uma aula: áudios em input/ -> transcrição -> limpeza -> apostila em Markdown e Word.
+"""Pipeline de uma aula: áudios em input/ -> transcrição -> limpeza -> transcrição, resumo e apostila em Word.
 
 Uso: python run.py --aula "Anatomia Dermatológica"
 """
@@ -13,11 +13,13 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from resumo.apostila import TITULOS_NIVEL_1, Apostila
+from resumo.apostila import gerar_apostila
 from resumo.audios import extrair, ordenar_e_deduplicar
 from resumo.claude import Claude
 from resumo.limpeza import limpar
+from resumo.material import Geracao, transcricao_integral
 from resumo.registro import Manifesto, configurar_log, hms
+from resumo.resumo import gerar_resumo
 from resumo.transcricao import Transcritor, keyterms, ler_glossario
 from resumo.word import converter
 
@@ -70,14 +72,22 @@ def main() -> None:
     with ThreadPoolExecutor(max_workers=4) as executor:
         limpas = list(executor.map(lambda a, b: limpar(claude, a, b, aula, glossario), audios, brutas))
 
-    log.info("Etapa 4: apostila com Opus 5.5 e busca web")
-    markdown = pasta / "apostila.md"
-    markdown.write_text(Apostila(claude, manifesto, pasta, aula, glossario, audios, limpas).gerar(), encoding="utf-8")
-    conferencia = converter(markdown, pasta / "apostila.docx", TITULOS_NIVEL_1)
-    manifesto.dados["word"] = conferencia
-    manifesto.salvar()
+    def salvar(nome: str, texto: str, sumario: bool) -> None:
+        markdown = pasta / f"{nome}.md"
+        markdown.write_text(texto, encoding="utf-8")
+        manifesto.dados.setdefault("word", {})[nome] = converter(markdown, pasta / f"{nome}.docx", sumario)
+        manifesto.salvar()
+        log.info("Pronto: %s", (pasta / f"{nome}.docx").relative_to(RAIZ))
 
-    log.info("Pronto: %s e %s", markdown.relative_to(RAIZ), (pasta / "apostila.docx").relative_to(RAIZ))
+    log.info("Etapa 4: transcrição integral limpa em Word")
+    salvar("transcricao", transcricao_integral(aula, audios, limpas), sumario=False)
+
+    geracao = Geracao(claude, manifesto, pasta / "secoes", aula, glossario, audios, limpas)
+    log.info("Etapa 5: resumo de revisão rápida com Opus 5.5")
+    salvar("resumo", gerar_resumo(geracao), sumario=False)
+    log.info("Etapa 6: apostila com Opus 5.5 (busca web no conteúdo e no material complementar)")
+    salvar("apostila", gerar_apostila(geracao), sumario=True)
+
     log.info("Custo acumulado desta aula: US$ %.2f", manifesto.dados["consumo"]["total_usd"])
 
 

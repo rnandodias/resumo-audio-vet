@@ -1,723 +1,279 @@
 ### Questões
 
 #### Questão 1
-Segundo a aula, sobre os limites da pele e sua importância no exame dermatológico, assinale a alternativa correta.
 
-A) A pele termina na transição com a tela subcutânea. As junções mucocutâneas fazem parte da mucosa e não entram no exame dermatológico.
-B) A pele termina nas junções mucocutâneas. Lesões nessas regiões colocam as doenças autoimunes entre as suspeitas, mas não permitem fechar o diagnóstico.
-C) Lesões em junções mucocutâneas são patognomônicas de doença autoimune e dispensam exames complementares.
-D) As junções mucocutâneas só precisam ser examinadas quando o tutor relata lesão nessas áreas.
-E) Lesões em junções mucocutâneas indicam, em primeiro lugar, uma endocrinopatia.
+Segundo a aula, qual alternativa descreve corretamente o limite da pele e sua importância no exame dermatológico?
+
+A) A pele termina na hipoderme, e o exame deve priorizar a palpação do tecido subcutâneo.
+B) A pele termina nas junções mucocutâneas. Lesões nessas regiões entram como suspeita de doença autoimune, mas não a confirmam.
+C) A pele termina nas junções mucocutâneas, e qualquer lesão nessas regiões confirma doença autoimune.
+D) A pele termina no plano nasal, e lesões nessa região são patognomônicas de leishmaniose.
+E) A pele termina nos coxins, cujo exame interessa sobretudo nas doenças alérgicas.
 
 #### Questão 2
-Um Dachshund de 15 anos chega à consulta porque, segundo a tutora, "está ficando careca" na região esternal e na base das orelhas. Não há eritema, descamação, crostas nem outras lesões, e o animal não tem outras queixas. Qual interpretação é mais coerente com a aula?
 
-A) Alopecia por atrito. É preciso investigar onde o cão costuma deitar.
-B) Alopecia X, porque o animal está voltando à pelagem de filhote.
-C) Dermatofitose inicial, que exige cultura fúngica antes de qualquer orientação.
-D) Rarefação pilosa fisiológica de padrão racial. Reconhecê-la evita investigação e tratamento desnecessários.
-E) Displasia folicular, que obriga a biópsia das áreas afetadas.
+Sobre a variação de espessura e de densidade pilosa da pele de cães e gatos, assinale a alternativa correta.
 
-#### Questão 3
-Sobre a espessura da pele de cães e gatos, assinale a correta.
+A) A espessura da pele aumenta no sentido dorsoventral, e a pele abdominal é a mais espessa do corpo.
+B) No gato, a espessura da pele varia de 0,5 a 5 mm.
+C) No hipercortisolismo, o adelgaçamento cutâneo tende a ser percebido primeiro na região abdominal, onde a pele já é naturalmente mais fina.
+D) A rarefação pilosa na região esternal e na base da orelha de Dachshund e Pinscher é sempre patológica e decorre de atrito.
+E) A densidade pilosa é maior na face interna do pavilhão auricular e na região ventral da cauda do que no tronco.
 
-A) A espessura diminui no sentido dorsoventral e do dorso para os membros. No hipercortisolismo, o adelgaçamento costuma aparecer primeiro na região abdominal.
-B) A espessura varia de 0,4 a 2 mm no cão e de 0,5 a 5 mm no gato.
-C) A pele da axila, da virilha e da face interna dos membros é mais espessa que a do dorso, porque sofre mais atrito.
-D) A pele dos membros é mais elástica que a do dorso.
-E) Na região ventral, uma espessura semelhante à do dorso é variação normal, sem significado clínico.
+#### Questão 3 (verdadeiro ou falso)
 
-#### Questão 4 (verdadeiro ou falso)
-Classifique cada afirmativa como verdadeira (V) ou falsa (F) e justifique.
+Julgue cada afirmativa como verdadeira (V) ou falsa (F) e justifique as falsas.
 
-a) A pelagem do filhote é diferente da do adulto. Na alopecia X, o animal mantém ou volta a ter a pelagem de filhote.
-b) Nas doenças que tendem a causar alopecia generalizada, as primeiras áreas a perder pelo costumam ser as de menor densidade pilosa natural: região ventral, face, membros (principalmente os pélvicos), face interna do pavilhão auricular e região ventral da cauda.
-c) A aula descreve quatro padrões anatômicos de pele: pele com pelo, coxim, plano nasal e bolsa escrotal.
-d) A pele da bolsa escrotal é espessa e pouco exposta, por isso a dermatite de contato é rara nesse local.
+I. A hipoderme é importante para ancorar a pele aos demais tecidos e para levar a vascularização, mas hoje não é mais considerada uma camada da pele.
+II. Nos coxins, a pele é mais fina e menos inervada, o que favorece a percepção do solo.
+III. O coxim é o único local do corpo de cães e gatos com glândulas écrinas, relacionadas à marcação territorial.
+IV. O plano nasal normal é liso; o padrão em mosaico ("calçamento") indica doença.
+V. Na pele com pelo de cães e gatos há quatro estratos epidérmicos; coxins e plano nasal têm ainda o estrato lúcido.
+VI. A pele da bolsa escrotal é espessa e pouco sujeita a dermatite de contato.
 
-#### Questão 5
-Sobre coxins e plano nasal, assinale a correta.
+#### Questão 4
 
-A) Coxins normais têm fissuras finas e leve descamação, causadas pelo atrito constante.
-B) O plano nasal tem epiderme mais fina que a pele com pelo e muitas glândulas sebáceas.
-C) Os coxins têm epiderme mais espessa, com um estrato a mais, e derme mais inervada. São a única região do corpo com glândulas écrinas, ligadas à marcação territorial.
-D) O plano nasal normal é liso. O aspecto em mosaico (calçamento) indica doença autoimune.
-E) No pênfigo foliáceo, os coxins costumam ser poupados, o que ajuda a diferenciá-lo de outras dermatoses.
+Sobre os estratos da epiderme do cão, assinale a alternativa correta.
+
+A) O queratinócito se divide em todos os estratos, principalmente no espinhoso.
+B) O estrato basal tem várias camadas de células e é separado da derme pelo estrato espinhoso.
+C) No estrato granuloso surgem os grânulos de querato-hialina e os grânulos lamelares. Os lamelares produzem ceramidas, ácidos graxos e colesterol, que formam o cimento intercelular.
+D) No estrato córneo, os desmossomos estão mais ativos, o que dá aos corneócitos o aspecto cuboide.
+E) Em condições fisiológicas, o queratinócito leva em média 5 a 6 dias para migrar da camada basal até a camada córnea.
+
+#### Questão 5 (caso clínico)
+
+Cão adulto apresenta pústulas e lesões nos coxins, com descamação, fissuras e desprendimento das camadas mais superficiais. Na citologia do conteúdo de uma pústula aparecem queratinócitos arredondados e nucleados. Qual interpretação é coerente com a aula?
+
+A) São células acantolíticas: queratinócitos do estrato espinhoso que se soltaram após agressão autoimune aos desmossomos. O achado é compatível com suspeita de pênfigo foliáceo.
+B) São corneócitos normais, sem significado clínico.
+C) São células de Langerhans ativadas, compatíveis com dermatite atópica.
+D) Indicam lesão primária da membrana basal e confirmam pênfigo foliáceo, dispensando exames complementares.
+E) São melanócitos com macromelanossomos, sugestivos de displasia folicular.
 
 #### Questão 6
-Sobre as funções da pele, assinale a alternativa **INCORRETA**.
 
-A) A função básica da pele é ser barreira entre os meios externo e interno. Quando a barreira se altera, a perda de água é uma das primeiras alterações, e a proteção contra microrganismos é a primeira a ser perdida.
-B) A cicatriz compromete a elasticidade e a flexibilidade da pele, porque o tecido original é substituído por fibrose, o que pode limitar a mobilidade.
-C) Em cães e gatos, as glândulas sudoríparas são o principal mecanismo cutâneo de termorregulação, como no cavalo.
-D) Os pelos funcionam como isolante térmico contra o frio e também contra o calor.
-E) A perda de elasticidade cutânea é o primeiro sinal buscado para identificar desidratação, e a pele participa da produção de vitamina D.
+Sobre as células da epiderme, assinale a alternativa correta.
+
+A) Os melanócitos representam cerca de 85% das células epidérmicas.
+B) As células de Langerhans ficam no estrato basal e têm função sensorial tátil.
+C) As células de Merkel são as sentinelas do sistema imune: capturam antígenos e os apresentam aos linfócitos.
+D) Os melanócitos ficam na camada basal e transferem melanossomos aos queratinócitos por meio de prolongamentos. A principal função fisiológica do pigmento é a proteção solar.
+E) O achado de macromelanossomos no tricograma fecha o diagnóstico de displasia folicular.
 
 #### Questão 7
-Sobre as camadas da pele e os estratos da epiderme no cão e no gato, assinale a correta.
 
-A) A hipoderme é o estrato mais profundo da epiderme e contém a membrana basal.
-B) Na pele com pelo, a epiderme tem cinco estratos, incluindo o lúcido.
-C) O estrato lúcido fica entre o basal e o espinhoso e está presente em toda a pele com pelo.
-D) A epiderme é um epitélio cúbico simples e não queratinizado.
-E) Na pele com pelo, a epiderme tem quatro estratos: de fora para dentro, córneo, granuloso, espinhoso e basal. O estrato lúcido aparece no plano nasal e nos coxins, entre o granuloso e o córneo.
+Sobre a derme, a hipoderme e a relação do folículo piloso com a epiderme, assinale a alternativa correta.
+
+A) Os grandes vasos da pele ficam na derme papilar, e a hipoderme contém apenas capilares.
+B) A derme papilar é a porção da derme em contato com a hipoderme.
+C) A celulite é a infecção bacteriana da hipoderme. Ela preocupa porque essa camada é muito vascularizada e tem grandes vasos, o que permite translocação bacteriana e sepse.
+D) Como o folículo piloso está localizado na derme, doenças restritas à epiderme não o acometem.
+E) A epiderme tem terminações nervosas próprias, que dispensam as células de Merkel na percepção tátil.
 
 #### Questão 8
-Sobre as características dos estratos epidérmicos, assinale a correta.
 
-A) O estrato basal tem uma única fileira de queratinócitos e é o único em que o queratinócito prolifera. No estrato espinhoso, as células ainda são cuboides, têm núcleo e estão unidas por desmossomos ativos.
-B) No estrato granuloso, as células são cuboides, com núcleo grande e sem grânulos no citoplasma.
-C) No estrato córneo, os queratinócitos mantêm núcleo e desmossomos ativos, e isso explica a coesão dessa camada.
-D) Os queratinócitos se dividem em todos os estratos, e a migração serve apenas para eliminar células mortas.
-E) A membrana basal separa o estrato granuloso do estrato córneo.
+Sobre a unidade folicular e os tipos de pelo, assinale a alternativa correta.
 
-#### Questão 9
-Um cão com otite externa tem o conduto auditivo levemente eritematoso. A citologia mostra muitos queratinócitos, vários deles nucleados e pouco queratinizados. Qual é a interpretação mais adequada?
+A) A unidade folicular corresponde apenas ao folículo piloso.
+B) No cão, a unidade folicular pode ter até 25 folículos; no gato, até 50.
+C) Os pelos primários de proteção são os que mais participam do isolamento térmico.
+D) As vibrissas têm função principalmente termorreguladora e podem ser tosadas sem prejuízo ao animal.
+E) Queda abundante de subpelo na estação quente, com o pelo principal preservado, indica doença folicular.
 
-A) É um achado normal, porque a descamação do estrato córneo sempre libera queratinócitos nucleados.
-B) São células acantolíticas, o que confirma pênfigo foliáceo.
-C) É contaminação da amostra pela membrana timpânica, sem valor diagnóstico.
-D) A inflamação acelerou a queratinização. O queratinócito, que leva em média 22 dias para ir do estrato basal ao córneo, chega à superfície sem completar a diferenciação.
-E) É sinal de neoplasia epidérmica, porque indica proliferação fora do estrato basal.
+#### Questão 9 (verdadeiro ou falso)
 
-#### Questão 10
-Sobre o pênfigo foliáceo e sua base anatômica, assinale a correta.
+Julgue cada afirmativa como V ou F e justifique as falsas.
 
-A) Os autoanticorpos atacam a membrana basal e separam a derme da epiderme.
-B) Os autoanticorpos atacam os desmossomos. Os queratinócitos da camada espinhosa se soltam, ficam arredondados e nucleados (células acantolíticas) e aparecem dentro de pústulas, na camada córnea.
-C) As células acantolíticas são corneócitos achatados e sem núcleo.
-D) Os queratinócitos que se soltam migram para a derme e formam abscessos.
-E) Por ser uma doença autoimune, o pênfigo foliáceo não forma pústulas.
+I. O istmo é a região do folículo entre a saída do ducto da glândula sebácea e a inserção do músculo eretor do pelo.
+II. Na haste do pelo, de dentro para fora, estão a medular, o córtex e a cutícula.
+III. Cutícula com escamas arrepiadas, não assentadas umas sobre as outras, sugere doença nutricional ou metabólica.
+IV. A troca de pelos é sincronizada por região, de modo que todos os folículos de uma área entram em queda ao mesmo tempo.
+V. Em raças de pelagem longa, como Maltês e Poodle, cerca de 98% dos pelos estão em anágena.
+VI. O hormônio tireoidiano inibe o crescimento do pelo, e o cortisol o estimula.
+VII. Nas raças nórdicas, como Chow Chow, Spitz e Husky Siberiano, não se recomenda a tosa, porque o pelo pode demorar muito a voltar a crescer.
+
+#### Questão 10 (caso clínico)
+
+O tutor relata que o pelo do cão "está caindo". No tricograma, para cada pelo em anágena aparecem cerca de 10 pelos em telógena. Assinale a interpretação correta.
+
+A) O predomínio de telógena indica que a haste do pelo está doente e firma o diagnóstico de displasia folicular.
+B) O achado é esperado em qualquer cão de pelagem longa.
+C) O predomínio de telógena sugere falta de estímulo ao crescimento do pelo e direciona para doença sistêmica. O tricograma orienta, mas quase nunca fecha o diagnóstico.
+D) Os pelos em telógena são reconhecidos pela raiz gorda e cheia.
+E) A leitura da raiz dispensa organizar os pelos na lâmina, pois a orientação não interfere na avaliação.
 
 #### Questão 11
-Sobre as células não queratinocíticas da epiderme, assinale a correta.
 
-A) Os melanócitos são cerca de 85% das células da epiderme e ficam no estrato córneo.
-B) As células de Langerhans ficam no estrato basal, têm função tátil e enviam sinais ao sistema nervoso central.
-C) As células de Merkel apresentam antígenos e têm papel central na dermatite atópica.
-D) Os melanócitos produzem melanina e a retêm no próprio citoplasma, sem transferi-la aos queratinócitos.
-E) Os melanócitos, no estrato basal, transferem melanossomos aos queratinócitos por meio de projeções. As células de Langerhans apresentam antígenos. As células de Merkel, também no estrato basal, têm função sensorial tátil.
+Sobre as glândulas da pele, assinale a alternativa correta.
 
-#### Questão 12
-Um American Bully de pelagem azul (cinza-clara), adulto jovem, perde pelos de forma progressiva apenas nas áreas da cor azul. No tricograma, há grumos grandes de pigmento na haste. Assinale a correta.
+A) Na pele com pelo de cães e gatos, as glândulas sudoríparas são écrinas e desembocam diretamente na superfície, o que permite transpiração termorreguladora.
+B) As glândulas perianais (circum-anais) estão ligadas ao folículo piloso e não respondem à testosterona.
+C) A glândula da cauda é um agrupamento de glândulas sebáceas no terço proximal da cauda, mais exuberante nos machos. O excesso de testosterona (tumor testicular, criptorquidismo) causa hipersecreção e aumento da glândula, com untuosidade e alopecia local.
+D) As glândulas anais (sacos anais) são glândulas sudoríparas modificadas cuja função é a marcação territorial ao esfregar a cauda.
+E) Cerúmen visível no conduto auditivo é achado normal e não indica agressão.
 
-A) Os grumos são melanossomos normais, e o quadro é alopecia X.
-B) Os grumos correspondem a esporos, o que confirma dermatofitose.
-C) Os grumos sugerem macromelanossomos, compatíveis com displasia folicular. O tricograma orienta o raciocínio, mas não fecha o diagnóstico sozinho.
-D) O tricograma basta para o diagnóstico definitivo, sem necessidade de outros exames.
-E) O folículo nessas áreas é normal, e a queda se deve ao autotraumatismo por prurido.
+#### Questão 12 (verdadeiro ou falso)
 
-#### Questão 13 (discursiva)
-Descreva a composição e a vascularização da derme e da hipoderme conforme a aula. Explique por que a celulite traz risco sistêmico e diga como a aula situa a hipoderme em relação às camadas da pele.
+Julgue cada afirmativa como V ou F e justifique as falsas.
+
+I. O filme hidrolipídico é composto por cerca de 40% de ceramidas, 35% de colesterol e 25% de ácidos graxos.
+II. Os corneócitos do cão têm coesão maior que os humanos, o que torna o filme hidrolipídico pouco relevante nessa espécie.
+III. A suplementação com ácidos graxos tem efeito anti-inflamatório comprovado *in vivo* e produz resposta em poucos dias.
+IV. O pH ideal da pele do cão saudável fica entre 6 e 7,5. Recomendam-se produtos de pH neutro e deve-se evitar sabões e produtos muito desengordurantes.
+V. Os produtos *spot-on* se espalham pela pele por meio da secreção das glândulas sebáceas; por isso, alguns são contraindicados logo após o banho.
+VI. Na biópsia, a coleta em elipse ajuda a obter folículos inteiros, porque os pelos ficam inclinados na pele.
+VII. A barreira química é formada pelas secreções das glândulas sebáceas e sudoríparas e dos corpos lamelares. A barreira imunológica inclui linfócitos e células de Langerhans.
+
+#### Questão 13
+
+Sobre os conceitos gerais de lesão dermatológica e as alterações de cor, assinale a alternativa correta.
+
+A) A lesão primária é patognomônica e basta para o diagnóstico.
+B) A alopecia é sempre lesão primária, qualquer que seja a doença.
+C) O eritema não clareia à digitopressão, ao contrário do derrame de sangue.
+D) Na maioria dos pacientes (cerca de 90%), a hiperpigmentação reflete inflamação crônica. Junto com o espessamento da pele e o eritema perilesional, indica processo de longa duração, sem definir a etiologia.
+E) Mácula é a alteração de pigmento maior que 1 cm; mancha, a menor que 1 cm.
 
 #### Questão 14
-Sobre a unidade folicular e os tipos de pelo, assinale a correta.
 
-A) Os pelos primários (principais) são longos, grossos, retos e visíveis na superfície; protegem contra atrito e definem o contorno da pelagem. O subpelo (lanugem) é curto, fino, macio e denso, e é o que mais participa do isolamento térmico.
-B) O subpelo é o pelo mais visível e o principal responsável pela proteção contra atrito.
-C) Os pelos primários intermediários são mais rígidos e mais longos que os principais.
-D) Quanto mais subpelo e pelos intermediários a raça tem, mais áspera é a pelagem.
-E) A unidade folicular é formada apenas pelos folículos; as glândulas e o músculo eretor do pelo são estruturas independentes.
+Sobre formações sólidas e coleções líquidas, assinale a alternativa correta.
 
-#### Questão 15 (verdadeiro ou falso)
-Classifique cada afirmativa como V ou F e justifique.
+A) Pápula é a formação sólida maior que 1 cm; placa, a menor que 1 cm.
+B) Na descrição lesional, o termo "tumor" equivale a neoplasia maligna.
+C) Na urticária, as placas são fixas, crônicas e de superfície erodida, e acometem principalmente gatos.
+D) Abscesso é uma coleção de pus localizada na hipoderme. Pode ser bacteriano ou fúngico, como na esporotricose.
+E) Vesículas e bolhas são lesões frequentes em cães e gatos e têm conteúdo purulento.
 
-a) Na época quente, uma queda abundante de pelos finos que saem ao pentear, com os pelos principais preservados, é compatível com troca fisiológica de subpelo.
-b) As vibrissas têm função apenas estética, e cortá-las na tosa não afeta o comportamento do gato.
-c) Como o folículo piloso é formado pela epiderme, doenças epidérmicas como a piodermite superficial podem acometê-lo, embora ele fique na derme.
-d) O músculo eretor do pelo só existe em áreas de alta densidade pilosa e tem função apenas comportamental.
-e) Como os folículos são inclinados em relação à superfície, a biópsia em elipse tende a incluir mais folículos inteiros do que um corte reto.
+#### Questão 15 (caso clínico)
 
-#### Questão 16
-Sobre a anatomia do folículo piloso e da haste, assinale a correta.
+O tutor traz o cão porque ele "está cheio de caspa". Ao abrir o pelo do dorso, você vê crostas secas e esbranquiçadas aderidas aos pelos. Na região ventral há lesões circulares, com crostas amareladas na borda e centro eritematoso ou hiperpigmentado. Assinale a alternativa correta.
 
-A) O infundíbulo é o segmento abaixo da inserção do músculo eretor do pelo.
-B) O pelo cresce a partir da papila dérmica, que não tem relação com a vascularização do folículo.
-C) Na haste normal, as cutículas ficam arrepiadas; cutículas bem assentadas indicam doença nutricional.
-D) O istmo é o segmento entre a saída do ducto da glândula sebácea e a inserção do músculo eretor do pelo. No bulbo, a matriz dá origem ao pelo, e a vascularização chega pela papila dérmica.
-E) De fora para dentro, a haste é formada por medula, córtex e cutícula.
-
-#### Questão 17
-Um Spitz Alemão foi tosado rente há vários meses e a pelagem não voltou a crescer. A pele está íntegra e não há prurido. Considerando o ciclo do pelo como apresentado na aula, assinale a correta.
-
-A) Em cães normais, todos os folículos estão na mesma fase, por isso a tosa sincroniza a queda.
-B) As raças nórdicas têm uma fase de repouso folicular prolongada (a aula fala em "telógena marcada"). Depois da tosa, o pelo pode demorar muito a voltar, e por isso a tosa não é recomendada nessas raças.
-C) Recrescimento lento após a tosa indica, obrigatoriamente, endocrinopatia.
-D) Raças de pelagem longa, como Maltês e Poodle, têm a maioria dos pelos em telógena, o que explica o crescimento lento.
-E) A falta de recrescimento mostra que a tosa destruiu os folículos.
-
-#### Questão 18
-Sobre a regulação do ciclo do pelo, assinale a correta.
-
-A) O cortisol estimula e o hormônio tireoidiano inibe o crescimento do pelo.
-B) Os hormônios sexuais apenas inibem o crescimento do pelo e não podem ser dosados.
-C) O ciclo depende só dos hormônios sistêmicos; o microambiente folicular não tem importância.
-D) Na alopecia X, o mecanismo é conhecido: há deficiência comprovada de GH em todos os casos.
-E) O hormônio tireoidiano estimula e o cortisol inibe o crescimento do pelo; os hormônios sexuais podem estimular ou inibir. O próprio folículo tem regulação hormonal local, o que ajuda a entender a alopecia X em animais sem alteração detectável na produção hormonal.
-
-#### Questão 19 (discursiva — caso clínico)
-O tutor de um cão adulto relata queda de pelo progressiva, com rarefação no tronco. No tricograma, para cada 10 raízes em telógena há cerca de 1 em anágena.
-a) Como se reconhecem, pela raiz, os pelos em telógena e em anágena?
-b) Qual proporção se espera em um animal saudável, e o que muda nas raças de pelagem longa?
-c) Como interpretar o achado deste caso?
-d) Qual é a principal limitação do exame?
-e) Que cuidados de coleta e montagem a aula destacou?
-
-#### Questão 20
-Sobre as glândulas sudoríparas de cães e gatos, assinale a correta.
-
-A) Cães e gatos têm glândulas écrinas em toda a pele com pelo, responsáveis pela termorregulação.
-B) As glândulas apócrinas desembocam direto na superfície da epiderme, sem relação com o folículo.
-C) Na pele com pelo, as glândulas sudoríparas são apócrinas (epitriquiais) e o ducto desemboca no folículo. As écrinas (merócrinas), sem relação com o folículo, ficam nos coxins.
-D) A secreção apócrina não participa da formação do filme protetor da pele.
-E) As glândulas écrinas dos coxins são glândulas sebáceas modificadas que produzem cerúmen.
-
-#### Questão 21
-Sobre a glândula sebácea e o sebo, assinale a correta.
-
-A) O sebo aumenta o TEWL, sigla para a taxa de eliminação de água pelas glândulas sudoríparas.
-B) Os antiparasitários spot-on aplicados no dorso se espalham pela pele por meio da secreção sebácea. Por isso, alguns são contraindicados logo após o banho.
-C) A glândula sebácea desemboca na superfície da epiderme, sem relação com o folículo.
-D) O sebo favorece os microrganismos patogênicos em detrimento das bactérias comensais.
-E) A dieta não interfere na secreção sebácea, porque ceramidas, ácidos graxos e colesterol são produzidos independentemente do aporte.
-
-#### Questão 22
-Um cão macho adulto, criptorquida e nunca operado, tem no terço proximal dorsal da cauda uma área com pelos untuosos que evolui para alopecia, ressecamento e episódios de infecção. Qual é a interpretação mais adequada?
-
-A) Hipersecreção e aumento da glândula da cauda (glândulas sebáceas modificadas), estimulados pela testosterona (a "cauda de garanhão"). O quadro costuma estar associado a tumor testicular, e o testículo retido deve ser investigado.
-B) Adenoma das glândulas perianais que se estendeu até a cauda.
-C) Acne, por obstrução dos folículos com queratina, típica dessa região no cão.
-D) Hipotricose fisiológica da região ventral da cauda.
-E) Inflamação dos sacos anais por obstrução do ducto.
-
-#### Questão 23
-Associe cada glândula modificada (coluna 1) à característica correspondente (coluna 2).
-
-Coluna 1:
-I. Glândulas perianais (circum-anais)
-II. Glândulas ceruminosas
-III. Glândulas sebáceas do mento do gato
-IV. Glândulas anais (sacos anais)
-
-Coluna 2:
-p) A secreção, comprimida durante a defecação, lubrifica as fezes; a obstrução do ducto pode causar abscesso.
-q) Não estão ligadas a folículo; no cão idoso, podem originar adenoma responsivo à testosterona, com indicação de castração.
-r) Produzem cerúmen, que protege a orelha; cerúmen visível indica agressão.
-s) Servem à marcação com feromônio; o acúmulo de queratina nos folículos causa acne.
-
-A) I-p, II-r, III-s, IV-q
-B) I-q, II-s, III-r, IV-p
-C) I-r, II-q, III-s, IV-p
-D) I-q, II-r, III-s, IV-p
-E) I-s, II-r, III-q, IV-p
-
-#### Questão 24 (verdadeiro ou falso)
-Classifique cada afirmativa como V ou F e justifique.
-
-a) Na camada córnea do cão, os queratinócitos têm coesão menos perfeita que no ser humano, e por isso o filme hidrolipídico é especialmente importante para a barreira.
-b) A suplementação com ômega 3 e ômega 6 tem efeito anti-inflamatório comprovado in vivo, com resposta clínica em poucos dias.
-c) A fitoesfingosina, presente em alguns produtos tópicos veterinários, é uma pré-ceramida.
-d) O filme hidrolipídico vem apenas da secreção das glândulas sebáceas, sem participação dos corpos lamelares da epiderme.
-e) A barreira cutânea tem três componentes: físico (arranjo celular), químico (secreções das glândulas e dos corpos lamelares, com peptídeos antimicrobianos) e imunológico (linfócitos e células de Langerhans).
-
-#### Questão 25 (discursiva — caso clínico)
-Um cão de pelagem longa toma banho semanal em casa com sabonete de coco e, às vezes, com shampoo "desengordurante". O tutor relata prurido, odor forte e descamação. Na consulta anterior foi prescrito shampoo de clorexidina; o tutor comprou uma versão bem mais barata e diz que "não funcionou". Com base na aula, explique o raciocínio clínico e a orientação ao tutor.
-
-#### Questão 26
-Sobre lesões primárias e secundárias, assinale a correta.
-
-A) As lesões primárias são patognomônicas e permitem fechar o diagnóstico pela inspeção.
-B) As lesões secundárias resultam apenas de infecção bacteriana secundária.
-C) O colarete epidérmico é uma lesão primária que, ao evoluir, forma a pústula.
-D) Hipotricose é a ausência total de pelos; alopecia é a redução parcial da densidade pilosa.
-E) A alopecia pode ser primária, como na demodicose, em que o *Demodex* destrói o folículo, ou secundária, como nas doenças alérgicas, em que o pelo cai por autotraumatismo.
-
-#### Questão 27
-Sobre as alterações de cor da pelagem e da pele, assinale a correta.
-
-A) O escurecimento ou avermelhamento de pelos claros nas patas indica dermatofitose e não tem relação com prurido.
-B) Despigmentação do plano nasal e das junções mucocutâneas (palpebral, perilabial) sem leucotriquia deve colocar a doença autoimune entre as suspeitas.
-C) Toda leucotriquia em cão idoso é vitiligo.
-D) No cão, o vitiligo é uma doença grave, com prurido intenso e repercussão sistêmica.
-E) A aula cita o Rottweiler como raça resistente ao vitiligo.
-
-#### Questão 28
-Sobre o eritema e a hiperpigmentação, assinale a correta.
-
-A) O eritema indica alergia e autoriza iniciar corticoide sem investigar a causa.
-B) Na digitopressão, tanto o eritema quanto a hemorragia mantêm a cor.
-C) O eritema clareia à digitopressão e volta quando se solta; o sangue extravasado não clareia. Na maioria dos pacientes, a hiperpigmentação reflete inflamação crônica, que costuma vir acompanhada de espessamento e eritema perilesional.
-D) Lesões simétricas indicam, necessariamente, endocrinopatia.
-E) Na alopecia X, a hiperpigmentação vem com pele espessada e liquenificada, como na dermatite atópica crônica.
-
-#### Questão 29
-Sobre as alterações de pigmentação e as formações sólidas, assinale a correta conforme os critérios da aula.
-
-A) Mácula (menor que 1 cm) e mancha (maior que 1 cm) são alterações de cor. Pápula é formação sólida menor que 1 cm. Placa é elevação de superfície plana maior que 1 cm. Nódulo é lesão firme de 1 a 3 cm. Tumor é um termo descritivo e não implica malignidade.
-B) Mácula é maior que 1 cm e mancha é menor que 1 cm; pápula é maior que 1 cm e placa é menor que 1 cm.
-C) Tumor é sinônimo de neoplasia maligna e só pode ser usado depois da histopatologia.
-D) A placa é uma coleção líquida de conteúdo seroso maior que 1 cm.
-E) Para descrever nódulos e tumores, basta comparar o tamanho a objetos ("do tamanho de uma laranja"), sem régua.
-
-#### Questão 30
-Caso 1: cão jovem que, logo após a aplicação de uma vacina, apresenta placas eritematosas pela cabeça, que mudam de lugar, e edema intenso no focinho.
-Caso 2: gato com placas confluentes, eritematosas e erodidas na região abdominal, prurido intenso e evolução crônica.
-Assinale a correta.
-
-A) Os dois casos são urticária; o curso do caso 2 não importa.
-B) O caso 1 é placa eosinofílica e o caso 2 é urticária.
-C) O caso 1 é autolimitante e não é emergência, porque não há risco respiratório.
-D) O caso 1 é urticária, uma emergência dermatológica com risco de angioedema e edema de glote, tratada principalmente com corticoide. O caso 2 é placa eosinofílica, um quadro alérgico crônico em que as placas persistem.
-E) No caso 2, as lesões mudam de lugar e regridem sozinhas, e a lesão elementar é diferente da do caso 1.
-
-#### Questão 31
-Sobre as coleções líquidas, assinale a correta.
-
-A) Vesículas e bolhas são frequentes em cães e gatos, porque a pele deles é mais fina que a humana.
-B) A pústula se forma entre as camadas da epiderme ou na saída do folículo, é frágil e, na maioria das vezes, é bacteriana. Existem, porém, doenças pustulares estéreis, como o pênfigo foliáceo.
-C) O abscesso é uma coleção de pus na epiderme e é sempre bacteriano.
-D) Nos "cistos" interdigitais, o líquido puncionado é sangue puro, sem células inflamatórias.
-E) A única diferença entre vesícula e pústula é o tamanho.
-
-#### Questão 32
-Um cão adulto tem muitos pontos escuros na pele da axila e do abdome. A pele abdominal está tão fina que os vasos ficam visíveis, com aspecto descrito como "pergaminho". Assinale a interpretação mais coerente com a aula.
-
-A) Demodicose juvenil, que é a primeira consideração pela idade.
-B) Vasculite pós-vacinal, que causa atrofia difusa na região ventral.
-C) Liquenificação por inflamação crônica, com comedões secundários.
-D) Hipotireoidismo, porque os pontos escuros são escamas micáceas.
-E) Hipercortisolismo. Comedões em animal adulto com pele fina sugerem o quadro, e o adelgaçamento aparece primeiro onde a pele já é mais fina, como no abdome.
-
-#### Questão 33 (discursiva — caso clínico)
-O tutor traz um cão de pelo médio porque ele "está cheio de caspa" no dorso.
-a) Como diferenciar, no exame, descamação de colaretes epidérmicos?
-b) Por que essa diferença importa?
-c) Classifique os tipos de descamação descritos na aula.
-
-#### Questão 34
-Sobre as perdas teciduais, as crostas e lesões relacionadas, assinale a correta.
-
-A) A escoriação não tem relação com prurido e decorre principalmente de doenças autoimunes.
-B) A cicatriz tem pelos, é hiperpigmentada e é mais elástica que a pele ao redor.
-C) A crosta hemática (escura) sugere úlcera ou erosão por baixo; a crosta melicérica (amarelada) é típica de lesão superficial, como a pústula rompida.
-D) A fissura é rara nos coxins e ocorre principalmente na região abdominal.
-E) A úlcera tem bordas irregulares e mal definidas e é mais superficial que a erosão.
-
-#### Questão 35 (discursiva — caso clínico)
-Um cão adulto tem despigmentação e áreas de erosão/ulceração na junção mucocutânea da narina, além de crostas melicéricas aderidas na transição entre a pele e o plano nasal. O restante do plano nasal mantém o padrão em calçamento.
-a) Escreva a descrição da lesão seguindo a sistemática da aula.
-b) Quais são os dois principais diagnósticos diferenciais citados?
-c) Qual é a sequência diagnóstica, e de onde coletar a biópsia?
-d) Por que não é possível concluir o diagnóstico só pela lesão?
-e) Diferencie plano nasal de ponte nasal.
-
----
+A) Trata-se de descamação primária por aceleração da queratinização, e a conduta é a mesma de qualquer quadro descamativo.
+B) Trata-se de colaretes epidérmicos, lesão secundária à ruptura de pústulas. A crosta amarelada é a crosta melicérica, e a conduta diagnóstica e terapêutica difere da descamação simples.
+C) São crostas hemáticas sobre úlceras, o que indica perda total da derme.
+D) São escoriações, definidas como perda da epiderme com exposição da derme.
+E) São comedões, plugues de queratina dentro do folículo piloso.
 
 ### Gabarito comentado
 
 #### Questão 1
-**Resposta: B.**
 
-A pele termina nas junções mucocutâneas: onde começa a mucosa, terminou a pele (Áudio 1, 00:00:17). As doenças autoimunes se caracterizam por lesões nessas junções. Por isso o exame deve incluir as regiões perilabial, perinasal, perivulvar e perianal (Áudio 1, 00:01:02). A lesão nessas áreas é uma das suspeitas, mas "a gente não bate o martelo" (Áudio 1, 00:00:48).
-
-- **A:** a pele termina justamente na junção mucocutânea, e essas áreas fazem parte obrigatória do exame (Áudio 1, 00:00:30).
-- **C:** a suspeita não fecha o diagnóstico. A aula reforça depois que nenhuma lesão é patognomônica (Áudio 5, 00:00:12).
-- **D:** o exame desses limites é rotina, independentemente da queixa.
-- **E:** o grupo associado na aula é o das doenças autoimunes, não o das endocrinopatias.
+**Resposta: B.** A pele termina onde começa a mucosa, nas junções mucocutâneas (perilabial, perinasal, perivulvar, perianal). Lesões nessas regiões levantam suspeita de doença autoimune, mas "a gente não bate o martelo" (Áudio 1, 00:00:17–00:01:02). A C erra por transformar suspeita em confirmação. A, D e E não correspondem ao limite ensinado.
 
 #### Questão 2
-**Resposta: D.**
 
-Dachshund e Pinscher podem ter, dentro do padrão racial, densidade pilosa menor na região esternal e na base da orelha. É fisiológico, e o tutor costuma interpretar como "ficando careca" (Áudio 1, 00:03:32). O mesmo raciocínio vale para os gatos, que têm hipotricose fisiológica, mais visível em pelagens escuras (Áudio 1, 00:04:14).
-
-- **A:** a aluna perguntou se era atrito, e o professor respondeu: "é da raça mesmo" (Áudio 1, 00:04:05).
-- **B:** na alopecia X o animal mantém a pelagem de filhote (Áudio 1, 00:08:38), o que não corresponde ao padrão descrito.
-- **C:** nada no quadro sugere infecção. A aula trata esse achado como racial.
-- **E:** a displasia folicular foi associada a cores diluídas (American Bully azul), com perda de pelo nas áreas daquela cor (Áudio 2, 00:26:59). Não tem relação com o padrão racial de rarefação.
+**Resposta: C.** A pele afina no sentido dorsoventral e é mais fina na região ventral, sobretudo no abdômen. Por isso o adelgaçamento do hipercortisolismo aparece ali primeiro (Áudio 1, 00:11:22–00:12:40; Áudio 6, 00:00:01–00:00:37).
+- A inverte o gradiente.
+- B traz o intervalo do cão (0,5 a 5 mm); no gato, a espessura vai de 0,4 a 2 mm (Áudio 1, 00:13:15–00:13:45).
+- D está errada porque essa rarefação é fisiológica e racial, sem relação com atrito (Áudio 1, 00:03:32–00:04:14).
+- E está errada porque essas regiões têm densidade pilosa reduzida (Áudio 1, 00:13:45–00:14:58).
 
 #### Questão 3
-**Resposta: A.**
 
-A espessura diminui no sentido dorsoventral (Áudio 1, 00:11:22) e também do dorso para as patas (Áudio 1, 00:12:40). O excesso de cortisol afina a pele, e isso aparece primeiro no abdome, onde a pele já é naturalmente mais fina (Áudio 1, 00:12:01).
-
-| Espécie | Espessura da pele (aula) |
-|---|---|
-| Cão | 0,5 a 5 mm |
-| Gato | 0,4 a 2 mm |
-
-- **B:** os valores estão invertidos (Áudio 1, 00:13:15) e (Áudio 1, 00:13:36).
-- **C:** a pele da região ventral, da axila, da virilha e da face interna dos membros é mais fina que a do dorso (Áudio 1, 00:11:45).
-- **D:** a elasticidade é maior no dorso; os membros perdem elasticidade (Áudio 1, 00:12:40).
-- **E:** se a pele ventral está tão espessa quanto a do dorso, "tem alguma coisa errada" (Áudio 1, 00:12:01).
+**Respostas:** I V; II F; III V; IV F; V V; VI F.
+- I: a hipoderme não é mais considerada camada da pele, mas ancora a pele e leva a vascularização (Áudio 2, 00:00:07).
+- II (F): nos coxins a pele é mais espessa, para proteção contra trauma mecânico, e mais inervada, por causa da função sensorial (Áudio 1, 00:16:34–00:17:27).
+- III: o coxim é o único local com glândulas écrinas, ligadas à marcação territorial (Áudio 1, 00:17:27–00:18:00; Áudio 3, 00:21:35–00:22:36).
+- IV (F): o plano nasal normal tem padrão de calçamento, em mosaico. Quem é liso é o coxim. A perda do padrão leva a suspeitar, por exemplo, de lúpus discoide (Áudio 1, 00:19:36–00:20:08; Áudio 2, 00:17:02). Segundo a aula, o lúpus discoide hoje se chama lúpus mucocutâneo (Áudio 8, 00:00:00).
+- V: são quatro estratos na pele com pelo; o estrato lúcido existe a mais no plano nasal e nos coxins (Áudio 2, 00:03:27; 00:16:21).
+- VI (F): a pele escrotal é extremamente delgada, é o primeiro ponto de contato do macho com o ambiente e é difícil de proteger contra dermatite de contato (Áudio 1, 00:15:52).
 
 #### Questão 4
-**Respostas:** a) V; b) V; c) V; d) F.
 
-- **a) V.** A pelagem do filhote é diferente da do adulto (Áudio 1, 00:08:07). Na alopecia X, o animal mantém a pelagem de filhote (Áudio 1, 00:08:38). A troca de pelagem tende a ocorrer em sentido craniocaudal e é pouco perceptível (Áudio 1, 00:10:29).
-- **b) V.** A densidade é maior no dorso e na lateral do tronco e menor na região ventral, na face, nos membros (principalmente os pélvicos), na face interna do pavilhão auricular e na região ventral da cauda (Áudio 1, 00:13:45) e (Áudio 1, 00:14:33). Nas doenças alopécicas, esses são os primeiros locais a perder pelo (Áudio 1, 00:14:58).
-- **c) V.** São quatro padrões: pele com pelo, coxim, plano nasal e bolsa escrotal (Áudio 1, 00:15:17).
-- **d) F.** A pele da bolsa escrotal é extremamente delgada e é o primeiro ponto de contato do macho com o ambiente. É uma região difícil de proteger e sujeita a dermatite de contato (Áudio 1, 00:15:52). Com a castração mais tardia, o professor espera voltar a ver esses problemas (Áudio 1, 00:16:11).
+**Resposta: C.** O estrato granuloso tem células alongadas, com núcleo em redução, e os grânulos de querato-hialina e lamelares. Os lamelares produzem ceramidas, ácidos graxos e colesterol, o cimento intercelular (Áudio 2, 00:10:00–00:11:32; 00:19:04–00:19:25).
+- A está errada porque a proliferação ocorre apenas na camada basal (Áudio 2, 00:05:18).
+- B está errada porque a camada basal é unicelular e está ligada à derme pela membrana basal (Áudio 2, 00:05:01; 00:06:13).
+- D está errada porque os desmossomos vão desaparecendo com a migração e não existem mais na camada córnea (Áudio 2, 00:08:43; 00:20:46).
+- E está errada porque a média citada é de 22 dias; 5 a 6 dias ocorrem em patologias que aceleram a queratinização (Áudio 2, 00:12:28–00:13:31).
 
 #### Questão 5
-**Resposta: C.**
 
-Os coxins têm pele mais espessa por terem um estrato a mais, para proteger contra traumas mecânicos (Áudio 1, 00:16:34). Esse estrato é o lúcido (Áudio 2, 00:16:21). A derme dos coxins é muito mais inervada, porque eles têm função sensorial (Áudio 1, 00:17:01). São a única região com glândulas écrinas, usadas na marcação territorial (Áudio 1, 00:17:27).
-
-- **A:** coxins normais são lisos. Rachaduras, descamação e espessamento são sinais de doença (Áudio 1, 00:18:12).
-- **B:** o plano nasal tem epiderme mais espessa e não tem anexos nem glândulas (Áudio 1, 00:19:12).
-- **D:** está invertido. O plano nasal normal tem padrão em calçamento (mosaico), e a perda desse padrão (superfície lisa) é procurada na suspeita de lúpus discoide (Áudio 1, 00:20:08). Quem é liso é o coxim (Áudio 2, 00:17:02).
-- **E:** na suspeita de pênfigo foliáceo, lesões de coxim (descamação, fissuras) são justamente o que se procura (Áudio 1, 00:18:46).
+**Resposta: A.** No pênfigo foliáceo, os anticorpos atacam os desmossomos. O queratinócito do estrato espinhoso se solta, arredonda e chega às camadas superiores: é a célula acantolítica, encontrada dentro da pústula (Áudio 2, 00:09:19; 00:17:36–00:18:37). Lesões de coxim com descamação, fissuras e desprendimento das camadas superficiais estão entre os achados procurados quando se suspeita da doença (Áudio 1, 00:18:46).
+- D erra em dois pontos: o alvo do pênfigo foliáceo é o desmossomo, e uma pústula pode ter várias causas (bacteriana, pênfigo foliáceo, dermatite pustular eosinofílica), o que exige exames (Áudio 7, 00:00:18).
+- B, C e E não correspondem ao achado descrito.
 
 #### Questão 6
-**Resposta: C** (a alternativa incorreta).
 
-Em cães e gatos, as glândulas têm pouca participação na termorregulação. Esse mecanismo é relevante no cavalo e em outras espécies. Nos cães e gatos, a termorregulação cutânea é feita principalmente pelos pelos (Áudio 1, 00:22:56) e (Áudio 1, 00:23:28).
-
-- **A (correta):** a barreira é a função básica (Áudio 1, 00:20:45). A perda de água é uma das primeiras alterações quando a barreira falha (Áudio 1, 00:21:51), e a proteção contra microrganismos é a primeira a ser perdida (Áudio 1, 00:22:05).
-- **B (correta):** na cicatriz há só fibrose, com perda de elasticidade e flexibilidade e possível prejuízo à mobilidade (Áudio 1, 00:22:23).
-- **D (correta):** o pelo funciona "como uma placa de isopor", contra o frio e contra o calor (Áudio 1, 00:22:56).
-- **E (correta):** a perda de elasticidade é o primeiro sinal buscado na desidratação (Áudio 1, 00:23:59), e a pele produz vitamina D (Áudio 1, 00:26:11).
+**Resposta: D.** O melanócito fica na camada basal e projeta prolongamentos entre os queratinócitos, depositando melanossomos. A principal função fisiológica do pigmento é a proteção solar (Áudio 2, 00:25:09–00:26:07).
+- A está errada: 85% das células são queratinócitos, e os melanócitos somam 5 a 8% (Áudio 2, 00:24:07).
+- B e C trocam as funções. A célula de Langerhans é apresentadora de antígeno; a de Merkel fica no estrato basal e tem função sensorial (Áudio 2, 00:28:38–00:29:44).
+- E está errada porque os macromelanossomos direcionam para displasia folicular, mas o diagnóstico precisa de confirmação (Áudio 2, 00:27:54–00:28:13).
 
 #### Questão 7
-**Resposta: E.**
 
-A epiderme tem cinco estratos na divisão geral, mas na pele com pelo do cão e do gato são quatro: córneo, granuloso, espinhoso e basal, de fora para dentro (Áudio 2, 00:03:27). No plano nasal e nos coxins existe também o estrato lúcido, entre o granuloso e o córneo (Áudio 2, 00:16:21).
-
-- **A:** a hipoderme não é estrato da epiderme. A aula diz que hoje ela nem é considerada camada da pele, embora ancore a pele e leve vascularização (Áudio 2, 00:00:07). A membrana basal fica no limite entre derme e epiderme (Áudio 2, 00:06:13).
-- **B:** cinco estratos é a divisão geral; na pele com pelo são quatro.
-- **C:** o estrato lúcido fica entre o granuloso e o córneo e só aparece no plano nasal e nos coxins.
-- **D:** a epiderme é um tecido pavimentoso, estratificado e queratinizado (Áudio 2, 00:00:49).
+**Resposta: C.** A hipoderme tem tecido conjuntivo frouxo, tecido adiposo e os grandes vasos. Na celulite, a bactéria pode chegar aos vasos e causar translocação bacteriana e sepse (Áudio 2, 00:33:18–00:34:47).
+- A inverte a distribuição: na derme ficam os capilares, na hipoderme os grandes vasos (Áudio 2, 00:30:46).
+- B está errada porque a derme papilar é a que faz limite com a epiderme, junto à membrana basal (Áudio 2, 00:31:59–00:32:28).
+- D está errada porque o folículo é formado pela epiderme. Na piodermite superficial, por exemplo, o folículo também é acometido (Áudio 2, 00:47:15–00:48:19).
+- E está errada porque, segundo a aula, a epiderme não tem terminação nervosa. A célula de Merkel se liga às ramificações neuronais da derme (Áudio 2, 00:29:44).
 
 #### Questão 8
-**Resposta: A.**
 
-O estrato basal tem uma única fileira de células e é o único em que há proliferação (Áudio 2, 00:05:01) e (Áudio 2, 00:05:18). No estrato espinhoso há várias camadas de células cuboides, com núcleo e com desmossomos muito ativos (Áudio 2, 00:08:00) e (Áudio 2, 00:08:43).
-
-| Estrato | Características (aula) | Processo |
-|---|---|---|
-| Basal | Uma fileira de células; única camada que prolifera; apoiado na membrana basal | Proliferação |
-| Espinhoso | Várias camadas; células cuboides, nucleadas; desmossomos ativos | Diferenciação |
-| Granuloso | Células alongadas, núcleo diminuindo; grânulos de querato-hialina (queratina) e lamelares (ceramidas, ácidos graxos, colesterol, que formam o cimento intercelular) | Diferenciação e queratinização |
-| Córneo | Células anucleadas, totalmente queratinizadas; desmossomos sem função | Descamação |
-
-- **B:** o estrato granuloso tem células mais alongadas, núcleo diminuindo e dois tipos de grânulo (Áudio 2, 00:10:18) e (Áudio 2, 00:10:42).
-- **C:** o estrato córneo é anucleado, e os desmossomos já perderam a função. A coesão vem do cimento intercelular (Áudio 2, 00:11:32) e (Áudio 2, 00:20:46).
-- **D:** só o estrato basal prolifera. Na migração ocorrem diferenciação, queratinização e, por fim, descamação (Áudio 2, 00:21:06).
-- **E:** a membrana basal separa a derme da epiderme (Áudio 2, 00:06:13).
+**Resposta: B.** O cão pode ter até 25 folículos por unidade folicular; o gato, até 50 (Áudio 2, 00:38:49).
+- A está errada porque a unidade folicular inclui folículo(s), músculo piloeretor, glândula sebácea e glândula sudorípara (Áudio 2, 00:34:47–00:35:52).
+- C está errada porque o subpelo é o que mais participa do isolamento térmico. O pelo primário protege contra o atrito e define contorno e cor (Áudio 2, 00:41:32–00:43:11).
+- D está errada porque as vibrissas têm função tátil, de percepção espacial, orientação e comunicação. Gatos cegos chegam a projetá-las para a frente, e tosá-las é um problema (Áudio 2, 00:44:24–00:46:34).
+- E está errada porque a queda de subpelo no calor, com o pelo principal preservado, é fisiológica (Áudio 2, 00:43:26–00:44:24).
 
 #### Questão 9
-**Resposta: D.**
 
-Em média, o queratinócito leva 22 dias para ir do estrato basal ao córneo (Áudio 2, 00:12:28). Algumas doenças encurtam esse processo para 5 a 6 dias (Áudio 2, 00:13:02). O queratinócito então chega à superfície ainda nucleado e pouco queratinizado, o que se vê na citologia (Áudio 2, 00:13:31). A causa mais comum é a inflamação (Áudio 2, 00:13:54). A aula dá como exemplo a citologia de orelha (Áudio 2, 00:15:12).
-
-- **A:** uma ou outra célula nucleada pode ser fisiológica, mas em grande quantidade indica inflamação (Áudio 2, 00:14:54).
-- **B:** células acantolíticas são queratinócitos que se soltaram pela destruição dos desmossomos e ficaram arredondados, dentro de pústulas (Áudio 2, 00:18:37). O quadro descrito se explica pela inflamação, sem esse contexto.
-- **C:** não há base na aula para considerar o achado contaminação.
-- **E:** a proliferação continua restrita ao estrato basal. A aceleração da queratinização é uma resposta inflamatória, não sinal de neoplasia.
+**Respostas:** I V; II V; III V; IV F; V V; VI F; VII V.
+- I: o istmo fica entre a saída do ducto sebáceo e a inserção do músculo eretor; acima está o infundíbulo, abaixo a porção inferior (Áudio 3, 00:01:34–00:02:04).
+- II: a haste tem medular, córtex e cutícula (Áudio 3, 00:03:16).
+- III: a cutícula arrepiada sugere doença nutricional ou metabólica (Áudio 3, 00:03:43).
+- IV (F): a renovação é em mosaico e o crescimento não é sincronizado. Áreas vizinhas estão em fases diferentes, e por isso não aparecem falhas no animal normal (Áudio 3, 00:05:30; 00:12:17–00:12:27).
+- V: cerca de 98% dos pelos em anágena nas raças de pelagem longa (Áudio 3, 00:12:30–00:12:58).
+- VI (F): é o inverso. O hormônio tireoidiano estimula o crescimento, o cortisol inibe, e os hormônios sexuais podem fazer as duas coisas (Áudio 3, 00:14:26–00:14:32).
+- VII: nas raças nórdicas, o pelo tosado pode levar muito tempo para voltar (Áudio 3, 00:08:40–00:10:49).
 
 #### Questão 10
-**Resposta: B.**
 
-No pênfigo foliáceo, os anticorpos atacam o desmossomo, estrutura que mantém as células unidas. Os queratinócitos da camada espinhosa se soltam e vão para a camada córnea (Áudio 2, 00:09:19). Esses queratinócitos nucleados são encontrados dentro da pústula (Áudio 2, 00:18:12). Sem a tração dos desmossomos, perdem a forma cuboide e ficam redondos, com núcleo: são as células acantolíticas (Áudio 2, 00:18:37).
-
-- **A:** a lesão na membrana basal é característica de outro grupo de doenças autoimunes (Áudio 2, 00:06:13).
-- **C:** as células acantolíticas são redondas e nucleadas.
-- **D:** as células migram para a camada córnea, não para a derme.
-- **E:** o pênfigo foliáceo é exemplo de doença pustular estéril (Áudio 5, 00:35:35) e (Áudio 7, 00:00:18).
+**Resposta: C.** O foco do tricograma é verificar se há predomínio de telógena. Esse predomínio indica que o sistema que faz o pelo crescer não está recebendo estímulo, o que aponta para doença sistêmica; o pelo em si não é o problema. O exame orienta, mas quase nunca fecha o diagnóstico (Áudio 3, 00:18:45–00:20:19).
+- A está errada porque o pelo não é doente e o exame não firma diagnóstico.
+- B está errada porque na pelagem longa deve predominar a anágena (Áudio 3, 00:18:29).
+- D descreve a raiz anágena; a telógena tem forma de seta ou lança (Áudio 3, 00:17:25–00:18:08).
+- E está errada porque os pelos devem ficar organizados na lâmina, com raiz para um lado e ápice para o outro (Áudio 3, 00:19:28–00:19:34).
 
 #### Questão 11
-**Resposta: E.**
 
-| Célula | Proporção (aula) | Localização | Função |
-|---|---|---|---|
-| Queratinócito | 85% | Todos os estratos | Estrutural; sintetiza queratina |
-| Melanócito | 5 a 8% | Estrato basal, com projeções entre os queratinócitos | Transfere melanossomos; cor; fotoproteção |
-| Célula de Langerhans | Cerca de 5% | Mais acima na epiderme; migra | Apresenta antígenos ("sentinela") |
-| Célula de Merkel | Pequena quantidade | Estrato basal | Sensorial tátil, ligada às terminações nervosas da derme |
-
-Referências: (Áudio 2, 00:24:07), (Áudio 2, 00:25:09), (Áudio 2, 00:25:46), (Áudio 2, 00:28:53) e (Áudio 2, 00:29:44).
-
-- **A:** 85% das células são queratinócitos, e os melanócitos ficam no estrato basal.
-- **B:** essa é a descrição da célula de Merkel.
-- **C:** essa é a descrição da célula de Langerhans, que a aula liga à dermatite atópica (Áudio 2, 00:28:53).
-- **D:** os melanócitos depositam os grânulos de melanina dentro dos queratinócitos por meio de projeções (Áudio 2, 00:25:46).
+**Resposta: C.** A glândula da cauda é um agrupamento de glândulas sebáceas no terço proximal, mais exuberante nos machos e ligado à marcação territorial. Sob excesso de testosterona, aparecem untuosidade e alopecia ("cauda de garanhão"), associadas a tumor testicular e a criptorquidas não tratados (Áudio 3, 00:28:24–00:30:46).
+- A está errada porque em cães e gatos as sudoríparas são apócrinas (epitriquiais) e desembocam no folículo; as écrinas existem apenas no coxim (Áudio 3, 00:21:18–00:22:36).
+- B está errada porque as perianais não se ligam a folículo, e o adenoma dessas glândulas responde à testosterona, o que exige castração (Áudio 3, 00:33:22–00:34:16).
+- D está errada porque as glândulas anais são sebáceas modificadas e lubrificam as fezes (Áudio 3, 00:27:10–00:27:47).
+- E está errada porque cerúmen visível indica agressão e é a primeira resposta inflamatória da orelha (Áudio 3, 00:35:14).
 
 #### Questão 12
-**Resposta: C.**
 
-Em alguns American Bully azuis ocorre displasia folicular: o folículo é defeituoso, o pelo nasce mas não se mantém, e a perda acontece nas áreas daquela cor (Áudio 2, 00:26:59) e (Áudio 2, 00:27:26). No tricograma aparecem melanossomos grandes, os macromelanossomos (Áudio 2, 00:27:54), localizados no córtex segundo a aula (Áudio 3, 00:04:35).
-
-- **A:** macromelanossomos não são achado normal, e a alopecia X é outra doença.
-- **B:** o achado que a aula descreve nesse quadro é o de macromelanossomos, não de esporos.
-- **D:** não é possível fechar o diagnóstico só pelo tricograma; ele precisa ser confirmado (Áudio 2, 00:28:13). O exame confirmatório citado ficou inaudível na gravação.
-- **E:** o problema está no folículo, não em autotraumatismo.
+**Respostas:** I V; II F; III F; IV V; V V; VI V; VII V.
+- I: composição citada em aula (Áudio 3, 00:38:18).
+- II (F): os queratinócitos da camada córnea do cão têm coesão menos perfeita que os humanos. Por isso o filme hidrolipídico é essencial (Áudio 3, 00:36:43).
+- III (F): o efeito anti-inflamatório foi comprovado *in vitro*, não *in vivo*. O objetivo da suplementação é a barreira, e o uso é de longo prazo, por pelo menos 6 meses (Áudio 3, 00:37:40–00:38:18).
+- IV: pH de 6 a 7,5, produtos neutros, evitar sabões e desengordurantes (Áudio 4, 00:00:00; 00:02:03–00:03:16; 00:05:29).
+- V: os *spot-on* se distribuem pela secreção sebácea (Áudio 3, 00:24:57–00:25:37).
+- VI: a coleta em elipse é indicada pela inclinação dos pelos (Áudio 4, 00:05:57–00:06:42).
+- VII: as barreiras física, química e imunológica atuam em conjunto (Áudio 4, 00:08:26–00:09:20).
 
 #### Questão 13
-**Resposta esperada:**
 
-- **Derme:** tecido conjuntivo, responsável pela elasticidade da pele (Áudio 2, 00:31:19). Contém os capilares (não os grandes vasos), as terminações nervosas ligadas às células de Merkel, as glândulas sudoríparas e sebáceas e o folículo piloso (Áudio 2, 00:30:46) e (Áudio 2, 00:31:19). A **derme papilar** é a porção com projeções em contato com a epiderme, ligada à membrana basal (Áudio 2, 00:31:59) e (Áudio 2, 00:32:28).
-- **Hipoderme:** tecido conjuntivo mais frouxo, com tecido adiposo (reserva de gordura) (Áudio 2, 00:32:56). Contém os grandes vasos, que mandam capilares para a derme. É muito vascularizada e une a pele aos demais tecidos (Áudio 2, 00:33:18).
-- **Posição em relação à pele:** hoje a hipoderme não é mais considerada camada da pele, mas continua importante para ancorar a pele e levar sua vascularização (Áudio 2, 00:00:07).
-- **Celulite:** é a infecção bacteriana da hipoderme (Áudio 2, 00:33:45). Como ali há grandes vasos, as bactérias podem passar para a circulação (translocação bacteriana) e levar à sepse (Áudio 2, 00:34:16). Já a piodermite superficial atinge a epiderme e o folículo (Áudio 2, 00:47:48).
+**Resposta: D.** Em cerca de 90% dos pacientes, a hiperpigmentação decorre de inflamação crônica. A tríade pele espessa, hiperpigmentação e eritema perilesional indica cronicidade, não etiologia (Áudio 5, 00:21:05–00:23:56).
+- A está errada porque a lesão primária sugere, mas não é patognomônica (Áudio 5, 00:03:07).
+- B está errada porque a alopecia pode ser primária, como na demodicose, ou secundária ao autotraumatismo, como nas doenças alérgicas (Áudio 5, 00:05:52–00:06:23).
+- C inverte o teste: o eritema clareia à digitopressão, e o derrame de sangue não (Áudio 5, 00:15:54–00:16:14).
+- E inverte as definições: mancha tem mais de 1 cm, mácula menos de 1 cm (Áudio 5, 00:23:56).
 
 #### Questão 14
-**Resposta: A.**
 
-| Tipo de pelo | Características | Função |
-|---|---|---|
-| Primário (principal, de proteção) | Longo, grosso, reto, visível na superfície | Protege contra atrito; define o contorno e a cor da pelagem |
-| Primário intermediário | Comprimento e espessura intermediários; menos rígido que o principal | Transição para o subpelo; isolamento e textura |
-| Subpelo (lanugem) | Curto, fino, macio, denso; mais próximo da pele | É o que mais participa do isolamento térmico |
-
-Referências: (Áudio 2, 00:41:32), (Áudio 2, 00:42:05), (Áudio 2, 00:42:22) e (Áudio 2, 00:43:11). A lanugem isola tanto do frio quanto do calor (Áudio 2, 00:36:52).
-
-- **B:** o subpelo é o mais próximo da pele; a proteção contra atrito é função do pelo principal.
-- **C:** os pelos intermediários são intermediários em comprimento e espessura e menos rígidos que o principal.
-- **D:** está invertido. Quanto mais pelos intermediários e subpelo, mais macia a pelagem; a aula compara com o Golden (Áudio 2, 00:42:54).
-- **E:** a unidade folicular inclui os folículos, o músculo eretor do pelo, a glândula sebácea e a glândula sudorípara (Áudio 2, 00:35:16) e (Áudio 2, 00:35:52).
+**Resposta: D.** O abscesso é uma coleção de pus na hipoderme e não deve ser pensado só como bacteriano. Na esporotricose formam-se nódulos que abscedam (Áudio 5, 00:37:46–00:38:35).
+- A inverte as definições: pápula tem menos de 1 cm e placa mais de 1 cm (Áudio 5, 00:26:28; 00:27:59).
+- B está errada porque "tumor" é descrição lesional e não significa câncer. O nódulo vai de 1 a 3 cm (Áudio 5, 00:33:31–00:33:50).
+- C descreve a placa eosinofílica do gato, que é crônica e tem superfície erodida. A urticária é aguda, uma emergência dermatológica, com placas que mudam de lugar (Áudio 5, 00:28:33–00:32:32).
+- E está errada porque vesículas e bolhas são raras em cães e gatos e têm conteúdo seroso, sem células inflamatórias (Áudio 5, 00:35:06–00:36:18).
 
 #### Questão 15
-**Respostas:** a) V; b) F; c) V; d) F; e) V.
 
-- **a) V.** Os pelos ligados ao isolamento térmico crescem mais na época fria e caem mais no calor (Áudio 2, 00:43:26). Ao pentear, se sai só subpelo e o pelo principal fica, não há doença: é fisiológico (Áudio 2, 00:43:56).
-- **b) F.** A função das vibrissas é tátil (Áudio 2, 00:44:24). Elas servem à percepção espacial, à detecção de movimento, à proteção, à orientação e navegação e à comunicação (Áudio 2, 00:46:14). Gatos cegos projetam as vibrissas para a frente para se guiar (Áudio 2, 00:45:25). O corte na tosa é um problema (Áudio 2, 00:44:47).
-- **c) V.** O folículo é formado pela epiderme, mas fica na derme. Por isso, na piodermite superficial, que atinge a epiderme, o folículo também é afetado (Áudio 2, 00:47:15) e (Áudio 2, 00:47:48).
-- **d) F.** O músculo eretor existe em toda área com pelo e é mais espesso onde a densidade é maior (Áudio 4, 00:06:42). Ele se origina na derme superficial e se insere no folículo primário (Áudio 4, 00:07:12). Tem várias funções: termorregulação (o pelo eriçado forma uma camada de ar isolante), comportamento diante de ameaça (Áudio 2, 00:38:10) e esvaziamento das glândulas sebáceas (Áudio 4, 00:07:12).
-- **e) V.** O pelo fica inclinado, sobretudo no dorso. A coleta em elipse pega mais folículos inteiros (Áudio 4, 00:05:57).
-
-#### Questão 16
-**Resposta: D.**
-
-O istmo vai da saída do ducto da glândula sebácea até a inserção do músculo eretor. Acima fica o infundíbulo e abaixo da inserção do músculo, a porção inferior (Áudio 3, 00:01:34) e (Áudio 3, 00:01:53). No bulbo, o pelo cresce a partir da matriz, e a vascularização chega pela papila dérmica (Áudio 3, 00:00:00).
-
-- **A:** o infundíbulo é o segmento superior. Abaixo da inserção do músculo eretor fica a porção inferior.
-- **B:** o pelo cresce a partir da matriz, e a papila dérmica é por onde chega a vascularização.
-- **C:** está invertido. As cutículas normais ficam assentadas umas sobre as outras; cutículas arrepiadas sugerem doença nutricional ou metabólica (Áudio 3, 00:03:43).
-- **E:** de fora para dentro, a haste é formada por cutícula, córtex e medula (Áudio 3, 00:03:16). O tricograma avalia a estrutura, o ápice e a raiz do pelo (Áudio 3, 00:02:39).
-
-#### Questão 17
-**Resposta: B.**
-
-Em raças nórdicas como Chow Chow, Spitz e Husky Siberiano, o período de repouso do pelo é muito mais longo. Após a tosa, o pelo pode levar muito tempo para voltar, por isso a tosa não é recomendada nessas raças (Áudio 3, 00:08:40) e (Áudio 3, 00:09:09). A aula chama isso de "telógeno marcado" (Áudio 3, 00:13:08). O pelo cortado não volta a crescer: o folículo precisa completar o ciclo e gerar um novo pelo (Áudio 3, 00:10:23).
-
-> Observação: na gravação, o nome da fase de repouso aparece de forma inconsistente. Ela é chamada de catágena (Áudio 3, 00:08:17) e, mais adiante, se fala em telógeno marcado (Áudio 3, 00:12:58). Vale conferir no material do professor.
-
-- **A:** o crescimento não é sincronizado; folículos em fases diferentes formam um padrão em mosaico, por isso não aparecem falhas (Áudio 3, 00:05:30) e (Áudio 3, 00:12:17).
-- **C:** a aula atribui o recrescimento lento a uma característica dessas raças, não obrigatoriamente a uma endocrinopatia.
-- **D:** em pelagens longas (Maltês, Poodle), cerca de 98% dos pelos estão em anágena, ou seja, em crescimento (Áudio 3, 00:12:30) e (Áudio 3, 00:12:58).
-- **E:** o folículo não é destruído pela tosa. O recrescimento depende do ciclo.
-
-#### Questão 18
-**Resposta: E.**
-
-O hormônio tireoidiano estimula o crescimento do pelo e o cortisol o inibe (Áudio 3, 00:14:26). Os hormônios sexuais podem estimular ou inibir (Áudio 3, 00:14:32). Na alopecia X, o animal não tem alteração na produção hormonal e mesmo assim fica sem pelo (Áudio 3, 00:14:46). Hoje se sabe que o próprio folículo tem regulação hormonal, com produção de andrógenos (Áudio 3, 00:14:59).
-
-- **A:** está invertido.
-- **B:** os hormônios sexuais podem estimular ou inibir, e é possível dosar testosterona e estrogênio (Áudio 3, 00:15:34).
-- **C:** o microambiente folicular também influencia: queratinócitos, fibroblastos, adipócitos, células imunes e fibras nervosas (Áudio 3, 00:13:54).
-- **D:** o mecanismo da alopecia X ainda não está definido (Áudio 3, 00:16:10). A deficiência de GH foi citada como outra causa de alteração da pelagem (Áudio 1, 00:10:15).
-
-#### Questão 19
-**Resposta esperada:**
-
-| Fase | Aspecto da raiz (aula) |
-|---|---|
-| Telógena | Em forma de seta ou lança |
-| Anágena | Raiz "gorda", cheia |
-| Catágena | Difícil de diferenciar no tricograma |
-
-- **a)** Ver a tabela (Áudio 3, 00:17:25) e (Áudio 3, 00:17:37).
-- **b)** Não há um padrão fixo, mas a proporção esperada fica perto de meio a meio. Em pelagens longas, a anágena deve predominar (Áudio 3, 00:18:29).
-- **c)** O foco do exame é ver se há predomínio de telógena (Áudio 3, 00:18:45). Uma proporção de 10 telógenas para 1 anágena indica falta de estímulo ao crescimento e orienta para uma doença sistêmica (Áudio 3, 00:18:59). O pelo em si não está doente; doente está o sistema que faz o pelo crescer (Áudio 3, 00:20:19). A investigação deve considerar os fatores que regulam o ciclo, como hormônio tireoidiano e cortisol (Áudio 3, 00:14:26).
-- **d)** O tricograma quase nunca fecha o diagnóstico; ele orienta o raciocínio (Áudio 3, 00:18:59).
-- **e)** Arrancar um tufo de pelos e arrumá-lo na lâmina com as raízes para um lado e os ápices para o outro (Áudio 3, 00:19:28) e (Áudio 3, 00:19:34). Depois, ao microscópio, fazer uma visão geral das raízes (Áudio 3, 00:19:46). A haste (cutícula, córtex, medula) e o ápice também são avaliados (Áudio 3, 00:02:39).
-
-#### Questão 20
-**Resposta: C.**
-
-| Tipo | Desembocadura | Onde ocorre em cães e gatos | Função citada |
-|---|---|---|---|
-| Apócrina (epitriquial) | Dentro do folículo | Pele com pelo | Contribui para o filme protetor, a lubrificação e a hidratação |
-| Écrina (merócrina) | Direto na superfície, sem relação com o folículo | Apenas nos coxins | Marcação territorial |
-
-Referências: (Áudio 3, 00:21:18), (Áudio 3, 00:21:55), (Áudio 3, 00:22:23) e (Áudio 1, 00:17:27).
-
-- **A:** as glândulas écrinas só existem nos coxins, e as glândulas têm pouca participação na termorregulação de cães e gatos (Áudio 1, 00:23:28).
-- **B:** as apócrinas desembocam dentro do folículo.
-- **D:** a secreção apócrina ajuda a formar o filme protetor e o cimento intercelular (Áudio 3, 00:23:02).
-- **E:** as glândulas écrinas são sudoríparas. As ceruminosas, que ficam no conduto auditivo, são uma mistura de glândulas sebáceas e sudoríparas (Áudio 3, 00:34:44).
-
-#### Questão 21
-**Resposta: B.**
-
-As gotas do spot-on aplicadas no dorso têm afinidade pela glândula sebácea e se espalham pela pele por meio da secreção sebácea. Por isso alguns produtos são contraindicados logo após o banho (Áudio 3, 00:24:57) e (Áudio 3, 00:25:18).
-
-- **A:** o sebo forma barreira hídrica e reduz o TEWL, que significa perda de água transepidérmica (Áudio 3, 00:23:25) e (Áudio 3, 00:24:14).
-- **C:** a glândula sebácea desemboca toda dentro do folículo (Áudio 3, 00:23:25).
-- **D:** o sebo tem peptídeos antimicrobianos e modula o microbioma, favorecendo as bactérias comensais (Áudio 3, 00:24:14) e (Áudio 3, 00:24:44).
-- **E:** sem colesterol e ácidos graxos equilibrados na dieta, a produção da secreção fica deficiente (Áudio 3, 00:26:18).
-
-A aula cita outras funções do sebo: liberação de feromônios e termorregulação indireta por isolamento térmico (Áudio 3, 00:25:41).
-
-#### Questão 22
-**Resposta: A.**
-
-No terço proximal da cauda há um agrupamento de glândulas sebáceas modificadas, usado na marcação territorial. Ele não é visível no animal normal (Áudio 3, 00:28:31), (Áudio 3, 00:29:10) e (Áudio 3, 00:29:23). Com excesso de testosterona, as glândulas secretam mais e aumentam de tamanho. Primeiro aparece untuosidade dos pelos; depois as glândulas comprimem o folículo e a vascularização, e o pelo cai (Áudio 3, 00:29:28) e (Áudio 3, 00:29:40). No fim a área resseca e pode infeccionar (Áudio 3, 00:30:13) e (Áudio 3, 00:30:15). O quadro costuma estar associado a tumor testicular, com frequência em machos criptorquidas não tratados (Áudio 3, 00:30:19). É a "cauda de garanhão", vista muito em gatos no passado (Áudio 3, 00:30:46).
-
-- **B:** as glândulas perianais ficam ao redor do ânus. O adenoma é típico do cão idoso (Áudio 3, 00:33:22) e (Áudio 3, 00:33:59).
-- **C:** a aula descreve a acne no mento do gato (Áudio 3, 00:32:19).
-- **D:** a hipotricose fisiológica é na região ventral da cauda (Áudio 1, 00:14:33), não envolve pelos untuosos nem evolui como no caso.
-- **E:** as glândulas anais ficam ao lado do ânus, e o problema delas é a obstrução do ducto com abscesso (Áudio 3, 00:27:47).
-
-#### Questão 23
-**Resposta: D** (I-q, II-r, III-s, IV-p).
-
-| Glândula | Localização | Função | Problema citado na aula |
-|---|---|---|---|
-| Perianais (circum-anais) | Ao redor do ânus, sem ligação com folículo | Secreção com odor para marcação | Adenoma responsivo à testosterona no cão idoso; retirar o tumor e castrar (Áudio 3, 00:33:22), (Áudio 3, 00:34:09) |
-| Ceruminosas | Orelha externa (sebáceas e sudoríparas) | Cerúmen: proteção e lubrificação da membrana timpânica | Cerúmen visível indica agressão (Áudio 3, 00:34:16), (Áudio 3, 00:35:14) |
-| Sebáceas do mento (gato) | Queixo | Feromônio de marcação ("se esfregar") | Acne felina; só pontos pretos: acompanhar; se infeccionar, infecção bacteriana profunda (Áudio 3, 00:32:19), (Áudio 3, 00:33:12) |
-| Anais (sacos anais) | Lateral ao ânus | Lubrificação das fezes | Obstrução do ducto e abscesso; maior risco em alérgicos que esfregam o períneo e em constipados (Áudio 3, 00:27:28), (Áudio 3, 00:27:47) |
-
-- **A:** as associações de I e IV estão trocadas.
-- **B:** as associações de II e III estão trocadas.
-- **C:** as associações de I e II estão trocadas.
-- **E:** as associações de I e III estão trocadas.
-
-#### Questão 24
-**Respostas:** a) V; b) F; c) V; d) F; e) V.
-
-- **a) V.** Os queratinócitos da camada córnea do cão (do gato, em menor grau) têm coesão menos perfeita que os humanos. Por isso o filme hidrolipídico é essencial para a barreira (Áudio 3, 00:36:43).
-- **b) F.** O efeito anti-inflamatório dos ácidos graxos foi comprovado in vitro, mas não se repetiu in vivo. A suplementação busca melhorar o filme protetor e exige uso por pelo menos 6 meses, às vezes pelo resto da vida (Áudio 3, 00:37:40) e (Áudio 3, 00:38:09).
-- **c) V.** A fitoesfingosina é uma pré-ceramida; alguns produtos tópicos trazem pré-ceramidas porque a ceramida é muito cara (Áudio 3, 00:38:36).
-- **d) F.** O filme é formado pelas secreções dos corpos lamelares junto com a secreção das glândulas sebáceas (Áudio 3, 00:36:20). Os corpos lamelares produzem ceramidas, ácidos graxos e colesterol (Áudio 2, 00:19:25).
-- **e) V.** A barreira tem componente físico, químico e imunológico (Áudio 4, 00:08:26) e (Áudio 4, 00:08:41). Quando um deles se desequilibra, o conjunto se desequilibra (Áudio 4, 00:09:20).
-
-#### Questão 25
-**Resposta esperada:**
-
-- **Hipótese de erro de manejo:** o animal pode chegar com prurido, odor forte e descamação sem ter uma dermatose primária. A causa pode ser um produto que altera a fisiologia da pele (Áudio 4, 00:01:23).
-- **pH:** a aula cita a faixa de 6 a 7,5 e recomenda produtos de pH neutro para a pele do cão saudável (Áudio 4, 00:00:00) e (Áudio 4, 00:05:29). O início da gravação está cortado, e a frase sobre a faixa aparece sem o contexto anterior. Manter o pH fisiológico é crucial para a barreira e para a microbiota (Áudio 4, 00:01:23).
-- **Desengordurantes:** removem a gordura e, com ela, o filme hidrolipídico (Áudio 4, 00:02:03). Isso compromete a barreira e favorece a disbiose (Áudio 3, 00:37:03) e (Áudio 3, 00:39:38). A aula também cita, no passado, problemas com shampoos de piretroide (Áudio 4, 00:02:15).
-- **Sabões:** evitar sabão, sabonete de coco e detergente (Áudio 4, 00:02:47) e (Áudio 4, 00:03:16).
-- **Falha terapêutica aparente:** clorexidina barata e de qualidade duvidosa pode ter concentração inadequada, e o tutor conclui que "não funciona" (Áudio 4, 00:04:26) e (Áudio 4, 00:04:51). Também há o risco de produtos falsificados comprados na internet (Áudio 4, 00:05:15). Os produtos tópicos devem respeitar a pele e a microbiota para evitar irritação, disbiose ou falha terapêutica (Áudio 4, 00:03:58).
-- **Conduta:** fazer uma anamnese detalhada sobre o manejo (produtos, frequência dos banhos, marca) e prescrever produtos de qualidade com pH adequado (Áudio 4, 00:02:47).
-
-#### Questão 26
-**Resposta: E.**
-
-O *Demodex* prolifera dentro do folículo, destrói o folículo e o pelo cai: a alopecia é lesão primária (Áudio 5, 00:05:52). Na doença alérgica, a inflamação não faz o pelo cair; quem faz é o autotraumatismo. Por isso a alopecia aparece como lesão que pode ser primária ou secundária (Áudio 5, 00:06:23).
-
-- **A:** a lesão primária sugere, mas não é patognomônica (Áudio 5, 00:03:07). A mesma lesão aparece em várias doenças (Áudio 5, 00:00:12) e (Áudio 7, 00:00:00).
-- **B:** lesões secundárias são a evolução da primária, e a causa mais comum é o autotraumatismo (Áudio 5, 00:03:07) e (Áudio 5, 00:03:43).
-- **C:** está invertido. A pústula (primária) se rompe e forma o colarete (secundária) (Áudio 5, 00:04:09) e (Áudio 5, 00:04:36).
-- **D:** está invertido. Hipotricose é redução da densidade pilosa e alopecia é ausência de pelo. Processos alopécicos primários começam com hipotricose (Áudio 5, 00:07:02) e (Áudio 5, 00:07:31).
-
-#### Questão 27
-**Resposta: B.**
-
-Despigmentação do plano nasal e das regiões mucocutâneas (palpebral, perilabial), sem leucotriquia e sem despigmentação do pelo, coloca a doença autoimune como suspeita. A aula mostra casos de lúpus (Áudio 5, 00:19:55) e (Áudio 5, 00:20:40).
-
-- **A:** o animal lambe porque tem prurido. As bactérias da saliva alteram a cor do pelo em contato com o ar: o pelo branco fica avermelhado e o preto, com aspecto de "queimado" (Áudio 5, 00:10:47) e (Áudio 5, 00:10:58). As patas são dos primeiros locais em que aparece a dermatite atópica. O gato faz pouco isso (Áudio 5, 00:11:22).
-- **C:** existe leucotriquia por senilidade (Áudio 5, 00:12:11).
-- **D:** no cão, o vitiligo é uma doença estética (Áudio 5, 00:13:17). Ele despigmenta a borda palpebral, o plano nasal e o canto da boca (Áudio 5, 00:12:11).
-- **E:** o Rottweiler é extremamente predisposto ao vitiligo (Áudio 5, 00:11:52).
-
-#### Questão 28
-**Resposta: C.**
-
-O eritema vem da vasodilatação causada pela inflamação. Na digitopressão ele clareia e volta ao soltar; o sangue extravasado mantém a cor (Áudio 5, 00:15:26), (Áudio 5, 00:15:54) e (Áudio 5, 00:16:14). A hiperpigmentação é, em 90% dos pacientes, resultado de inflamação crônica, porque os melanócitos passam a revestir a pele inflamada com melanina (Áudio 5, 00:21:05) e (Áudio 5, 00:21:35). A inflamação crônica dá três sinais: pele espessa, hiperpigmentação e eritema perilesional (Áudio 5, 00:23:18).
-
-- **A:** o eritema só informa que a pele está inflamada (Áudio 5, 00:17:54). O mesmo eritema aparece em doença alérgica, em sarna e em malasseziose (Áudio 7, 00:01:09) e (Áudio 7, 00:01:30).
-- **B:** a hemorragia não clareia à digitopressão.
-- **D:** lesões simétricas aparecem nas doenças sistêmicas com manifestação cutânea, e isso inclui a dermatite atópica (Áudio 5, 00:22:19).
-- **E:** na alopecia X, a hiperpigmentação é mais homogênea e a pele não fica espessa (Áudio 7, 00:03:41).
-
-O eritema também deve ser graduado, por exemplo em moderado ou severo (Áudio 5, 00:18:13).
-
-#### Questão 29
-**Resposta: A.**
-
-| Lesão | Critério da aula |
-|---|---|
-| Mácula | Alteração de pigmento menor que 1 cm |
-| Mancha | Alteração de pigmento maior que 1 cm |
-| Pápula | Formação sólida menor que 1 cm, envolvendo a epiderme |
-| Placa | Elevação de superfície plana ou arredondada, maior que 1 cm |
-| Nódulo | Lesão firme, geralmente arredondada, de 1 a 3 cm |
-| Tumor | Formação maior (no caso mostrado, mais de 3 cm); termo descritivo, não significa câncer |
-
-Referências: (Áudio 5, 00:23:56), (Áudio 5, 00:26:10), (Áudio 5, 00:27:59), (Áudio 5, 00:33:31) e (Áudio 8, 00:14:49).
-
-- **B:** os critérios estão invertidos.
-- **C:** "tumor" descreve a lesão e não indica câncer (Áudio 5, 00:33:08).
-- **D:** a placa é formação sólida. As coleções líquidas são vesícula, bolha, pústula, abscesso e cisto (Áudio 5, 00:35:35).
-- **E:** é preciso medir com régua; "do tamanho de uma laranja" não serve (Áudio 8, 00:14:59). Em nódulos e tumores também se descrevem localização, superfície (lisa, ulcerada, erodida), consistência e aderência (Áudio 5, 00:33:50) e (Áudio 5, 00:34:35).
-
-A pápula eritematosa costuma estar ligada a início de piodermite, picada de inseto ou escabiose. Uma pápula pigmentada pode ser o início de um tumor (Áudio 5, 00:27:02) e (Áudio 5, 00:27:28).
-
-#### Questão 30
-**Resposta: D.**
-
-A urticária é um quadro agudo, causado por reação a medicamento, inseto ou vacina, e é uma das poucas emergências dermatológicas (Áudio 5, 00:28:53). Pode haver angioedema (Áudio 5, 00:29:15) e edema de glote (Áudio 5, 00:30:31). O tratamento é principalmente com corticoide, e o animal jovem com urticária pode desenvolver dermatite atópica no futuro (Áudio 5, 00:29:35). Na urticária as placas mudam de lugar e o quadro tende a ser autolimitante (Áudio 5, 00:30:09). A placa eosinofílica, principalmente no gato, é crônica: as placas confluem, ficam eritematosas e erodidas e não desaparecem (Áudio 5, 00:31:57), (Áudio 5, 00:32:13) e (Áudio 5, 00:32:32).
-
-- **A:** a lesão é a mesma (placa), mas o curso diferencia os quadros.
-- **B:** os diagnósticos estão invertidos.
-- **C:** a urticária é emergência e pode causar edema de glote.
-- **E:** na placa eosinofílica, as placas persistem, e a lesão elementar é a mesma do caso 1.
-
-#### Questão 31
-**Resposta: B.**
-
-A pústula se forma entre as camadas da epiderme ou na saída do folículo e é sempre superficial (Áudio 5, 00:36:33). Em 90% dos casos o processo é infeccioso bacteriano, o que precisa ser confirmado (Áudio 5, 00:37:06). É uma lesão muito frágil (Áudio 5, 00:37:22). Existem doenças pustulares estéreis, como o pênfigo foliáceo (Áudio 7, 00:00:18).
-
-- **A:** vesículas e bolhas são raras em cães e gatos e mais comuns no ser humano, pela espessura da pele (Áudio 5, 00:35:06).
-- **C:** o abscesso fica na hipoderme e pode ser fúngico, como na esporotricose (Áudio 5, 00:37:46) e (Áudio 5, 00:38:12).
-- **D:** o líquido parece sangue, mas a citologia mostra infiltrado inflamatório (neutrófilos, macrófagos) (Áudio 5, 00:39:18). O mecanismo é a ruptura do folículo: a queratina em contato com a derme age como corpo estranho (Áudio 5, 00:39:53). A ruptura pode vir de trauma por conformação (Bulldog) (Áudio 5, 00:40:19) ou de lambedura em atópicos, que empurra o pelo para dentro (Áudio 5, 00:41:08). O primeiro exame é a citologia (Áudio 5, 00:41:37).
-- **E:** vesícula e bolha têm conteúdo seroso e diferem entre si pelo tamanho; a pústula tem pus (Áudio 5, 00:35:57) e (Áudio 5, 00:36:18).
-
-#### Questão 32
-**Resposta: E.**
-
-Doenças que causam atrofia afinam a pele primeiro onde ela já é mais fina, nas regiões ventral e abdominal, como no hipercortisolismo (Áudio 6, 00:00:01) e (Áudio 6, 00:00:26). Comedões são plugues de queratina dentro do folículo (Áudio 6, 00:21:11). Em animal adulto com pele fina, apontam para hipercortisolismo (Áudio 6, 00:21:25). A aula descreve esse aspecto da pele como "pergaminho" (Áudio 8, 00:16:49).
-
-- **A:** a demodicose é a primeira consideração para comedões em animal jovem (Áudio 6, 00:21:25).
-- **B:** a vasculite pós-vacinal causa atrofia focal no local da aplicação, geralmente no dorso, em cães toy e miniatura. É confirmada por histopatologia (Áudio 6, 00:01:43), (Áudio 6, 00:02:24) e (Áudio 6, 00:03:32). Na vasculite, o depósito de complexos antígeno-anticorpo obstrui o vaso e a pele irrigada por ele atrofia (Áudio 6, 00:01:01).
-- **C:** a liquenificação é espessamento, o oposto da atrofia (Áudio 5, 00:42:42) e (Áudio 5, 00:43:08).
-- **D:** a descamação micácea foi mostrada em um cão com hipotireoidismo, mas não é regra para essa doença (Áudio 6, 00:08:12). Os pontos escuros do caso são comedões, não escamas.
-
-#### Questão 33
-**Resposta esperada:**
-
-- **a)** É preso abrir o pelo e examinar de perto. Na descamação pura, as escamas estão soltas no pelo e a pele não tem lesão (Áudio 6, 00:12:03). O colarete é uma lesão circular com crosta amarelada na borda e centro eritematoso ou pigmentado de escuro (Áudio 6, 00:10:31). Em área com pelo, a crosta adere ao pelo, resseca e fica esbranquiçada, parecendo caspa (Áudio 6, 00:12:15). Na dúvida, examinar a região ventral, onde os colaretes são muito mais demarcados (Áudio 6, 00:12:57).
-- **b)** O colarete é a evolução de uma pústula que se rompeu (Áudio 6, 00:09:33). Descamação e colarete exigem condutas diagnósticas e tratamentos diferentes (Áudio 6, 00:11:41). A aula compara um cão com descamação por disfunção nutricional a outro com colarete (Áudio 8, 00:00:45) e (Áudio 8, 00:01:08).
-- **c)** A descamação reflete aceleração da queratinização causada por alguma agressão à pele (Áudio 6, 00:06:42). É frequente em processos inflamatórios e nas desordens da queratinização (Áudio 6, 00:08:39).
-
-| Tipo | Aspecto | Associação citada |
-|---|---|---|
-| Farinácea | Fina, como farinha | Doença que acomete o folículo piloso |
-| Furfurácea | Intermediária | — |
-| Micácea | Escamas grandes e chatas, como a pedra mica | Exemplo mostrado: cão com hipotireoidismo (não é regra) |
-
-Referências: (Áudio 6, 00:07:03), (Áudio 6, 00:07:22), (Áudio 6, 00:07:53), (Áudio 6, 00:07:59) e (Áudio 6, 00:08:12).
-
-#### Questão 34
-**Resposta: C.**
-
-O exsudato sanguinolento ou sanguinopurulento da úlcera resseca e forma crosta escura, a crosta hemática (Áudio 6, 00:17:54) e (Áudio 6, 00:18:33). Por isso, uma crosta escura sugere úlcera por baixo (Áudio 6, 00:18:41) ou, em alguns casos, erosão, como no gato com escabiose (Áudio 6, 00:20:09). A crosta amarelada que vem da pústula é a melicérica, "cor de mel", e indica lesão superficial (Áudio 6, 00:18:15) e (Áudio 6, 00:19:52).
-
-- **A:** a escoriação sempre tem relação com prurido ou trauma (Áudio 6, 00:15:23).
-- **B:** a cicatriz é tecido fibroso que substitui a derme e a hipoderme. Por isso não tem folículos nem pelos, é atrófica e despigmentada e perde elasticidade e flexibilidade (Áudio 6, 00:22:47), (Áudio 6, 00:23:41) e (Áudio 6, 00:23:55). Os pelos ao redor podem escondê-la, e a confirmação é por histopatologia (Áudio 6, 00:23:20) e (Áudio 6, 00:24:16).
-- **D:** a fissura é comum nos coxins e também aparece em vasculites de ponta de orelha (Áudio 6, 00:24:34), (Áudio 6, 00:24:49) e (Áudio 6, 00:25:03).
-- **E:** a úlcera tem bordas definidas, muitas vezes elevadas, e é mais profunda. A erosão é irregular e mais superficial (Áudio 6, 00:16:38), (Áudio 8, 00:08:50) e (Áudio 8, 00:09:20). A distinção é sobretudo histológica e pode ser difícil na clínica, daí a descrição "erosão/ulceração" (Áudio 6, 00:16:20) e (Áudio 8, 00:10:48).
-
-No gato, úlcera pode ser esporotricose, que começa como nódulo que fistula (Áudio 6, 00:18:58), mas também carcinoma ou úlcera indolente (Áudio 7, 00:04:32) e (Áudio 7, 00:04:39).
-
-#### Questão 35
-**Resposta esperada:**
-
-- **a) Descrição:** a lesão deve ser identificada, localizada e medida (Áudio 5, 00:08:42) e (Áudio 5, 00:09:06), e classificada como focal, multifocal ou generalizada (Áudio 5, 00:09:21). A aula sugere seguir sempre a mesma ordem: pelo, depois cor, depois espessura, depois perdas teciduais (Áudio 8, 00:01:51). Exemplo: "Junção mucocutânea da narina com despigmentação e erosão/ulceração; na transição entre pele e plano nasal, crostas melicéricas aderidas; plano nasal com padrão em calçamento preservado" (Áudio 8, 00:10:48) e (Áudio 8, 00:11:48). Incluir as medidas. Tudo deve ser registrado por escrito na ficha e na requisição dos exames, mesmo que haja foto (Áudio 5, 00:19:39) e (Áudio 8, 00:02:42).
-- **b) Diferenciais:** leishmaniose e doença autoimune, que pode estar no começo, já que o plano nasal ainda está preservado (Áudio 8, 00:12:04). Lesões em junções mucocutâneas e a perda do padrão em calçamento do plano nasal levantam suspeita autoimune (Áudio 1, 00:00:48) e (Áudio 1, 00:20:08).
-- **c) Sequência diagnóstica:** esse tipo de lesão precisa de biópsia, porque a citologia tende a não resolver (Áudio 8, 00:11:48). Antes da biópsia, pedir sorologia para leishmaniose. Se a sorologia vier negativa e hemograma e bioquímica estiverem normais, fazer a biópsia, mantendo a suspeita de leishmaniose com mais cautela (Áudio 8, 00:13:02). Na suspeita autoimune, coletar em áreas de transição, como entre o plano nasal e a pele com pelo (Áudio 8, 00:13:39) e (Áudio 8, 00:13:54).
-- **d) Limite da lesão:** a mesma lesão aparece em várias etiologias, e uma mesma doença pode se apresentar de formas diferentes (Áudio 5, 00:00:12) e (Áudio 7, 00:00:00). A despigmentação do plano nasal, por exemplo, ocorre em quadros diferentes (Áudio 7, 00:05:05). Por isso são necessários os exames complementares (Áudio 7, 00:04:46).
-- **e) Plano nasal e ponte nasal:** o plano nasal é a "trufa"; a ponte nasal é a região sobre o osso nasal. As lesões devem ser localizadas em um ou outro, como no gato com lesão por picada de mosquito na ponte nasal e plano nasal sem lesão (Áudio 8, 00:06:36), (Áudio 8, 00:06:49) e (Áudio 8, 00:07:35).
+**Resposta: B.** A pústula é frágil e rompe com facilidade. O exsudato resseca e forma a crosta amarelada (melicérica), que fica na borda de uma lesão circular de centro eritematoso ou pigmentado: o colarete epidérmico, lesão secundária (Áudio 5, 00:04:09–00:04:52; Áudio 6, 00:09:15–00:10:31; 00:18:15). Em área com pelo, essa crosta gruda nos pelos e imita caspa. Na dúvida, examina-se a região ventral, onde o colarete aparece mais demarcado. A conduta difere da descamação simples (Áudio 6, 00:11:17–00:13:00).
+- A ignora a lesão cutânea visível ao abrir o pelo.
+- C está errada porque a crosta hemática é escura e se forma sobre úlceras (Áudio 6, 00:17:54–00:18:41).
+- D está errada porque a escoriação é perda parcial da epiderme sem exposição da derme; a exposição da derme define a erosão (Áudio 6, 00:14:15–00:14:25).
+- E está errada porque comedões são pontos escuros, plugues de queratina no folículo, associados sobretudo a demodicose (jovem) e hipercortisolismo (adulto) (Áudio 6, 00:20:55–00:22:18).

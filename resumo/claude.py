@@ -11,6 +11,7 @@ log = logging.getLogger(__name__)
 
 MODELO = "claude-opus-5-5"
 MAX_TOKENS = 128_000
+ESFORCO = "high"
 FERRAMENTA_BUSCA = {"type": "web_search_20260209", "name": "web_search", "max_uses": 20}
 MAX_CONTINUACOES = 10
 
@@ -36,14 +37,14 @@ class Claude:
         self.cliente = anthropic.Anthropic(max_retries=6)
         self.manifesto = manifesto
 
-    def gerar(self, etapa: str, referencia: str, system: list[dict], conteudo, ferramentas: list[dict] | None = None,
-              esforco: str = "high") -> Resposta:
+    def gerar(self, etapa: str, referencia: str, system: list[dict], conteudo,
+              ferramentas: list[dict] | None = None) -> Resposta:
         mensagens = [{"role": "user", "content": conteudo}]
         extras = {"tools": ferramentas} if ferramentas else {}
         textos, urls = [], set()
         for continuacao in range(MAX_CONTINUACOES):
             with self.cliente.messages.stream(model=MODELO, max_tokens=MAX_TOKENS, system=system, messages=mensagens,
-                                              thinking={"type": "adaptive"}, output_config={"effort": esforco},
+                                              thinking={"type": "adaptive"}, output_config={"effort": ESFORCO},
                                               **extras) as stream:
                 mensagem = stream.get_final_message()
             # Cada chamada é registrada assim que termina: se uma continuação falhar, o que já foi pago fica no manifesto.

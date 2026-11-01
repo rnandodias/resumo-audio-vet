@@ -60,7 +60,7 @@ def limpar(claude: Claude, audio: Audio, bruta: Path, aula: str, glossario: list
     log.info("Áudio %d: limpando transcrição (%d palavras)", audio.posicao, palavras_brutas)
     system = [{"type": "text", "cache_control": {"type": "ephemeral"},
                "text": INSTRUCOES.format(aula=aula, glossario="\n".join(glossario))}]
-    resposta = claude.gerar("limpeza", audio.nome_base, system, texto_bruto, esforco="high")
+    resposta = claude.gerar("limpeza", audio.nome_base, system, texto_bruto)
     palavras_limpas = contar_palavras(resposta.texto)
     proporcao = palavras_limpas / palavras_brutas
     log.info("Áudio %d: %d palavras brutas -> %d limpas (%.0f%%)", audio.posicao, palavras_brutas,
