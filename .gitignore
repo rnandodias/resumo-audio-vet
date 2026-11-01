@@ -1,0 +1,12 @@
+.venv/
+.env
+input/
+__pycache__/
+.pytest_cache/
+
+# Áudios extraídos, JSON bruto das transcrições e estado temporário ficam fora do git.
+output/*/audio/
+output/*/transcricoes/*.json
+output/*/transcricoes/*.pendente
+output/*/transcricoes/*.rejeitada.md
+output/*/log.txt

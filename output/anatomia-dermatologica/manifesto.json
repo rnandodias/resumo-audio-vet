@@ -1,0 +1,431 @@
+{
+  "aula": "Anatomia Dermatológica",
+  "slug": "anatomia-dermatologica",
+  "consumo": {
+    "assemblyai": [
+      {
+        "quando": "2026-11-01T10:51:34-03:00",
+        "referencia": "07-10764e7417c1",
+        "transcript_id": "026d35c3-cf0c-4029-90b6-dafc9d9aa4a2",
+        "minutos": 5.47,
+        "custo_usd": 0.0255
+      },
+      {
+        "quando": "2026-11-01T10:51:46-03:00",
+        "referencia": "08-16fb996cfdd4",
+        "transcript_id": "733cfd48-2b3d-43fe-ac92-b83d09d70eb1",
+        "minutos": 17.37,
+        "custo_usd": 0.081
+      },
+      {
+        "quando": "2026-11-01T10:51:46-03:00",
+        "referencia": "04-ef8e229d3a31",
+        "transcript_id": "95e093de-872a-466f-ad58-59c1f7f86320",
+        "minutos": 10.58,
+        "custo_usd": 0.0494
+      },
+      {
+        "quando": "2026-11-01T10:52:17-03:00",
+        "referencia": "01-abb6d08d60f0",
+        "transcript_id": "e8189a40-b1ee-436e-87a7-fb131081af56",
+        "minutos": 26.75,
+        "custo_usd": 0.1248
+      },
+      {
+        "quando": "2026-11-01T10:52:24-03:00",
+        "referencia": "02-4aba41bcd9f9",
+        "transcript_id": "b6c8521d-7544-4f24-a35b-5590979f7acf",
+        "minutos": 48.63,
+        "custo_usd": 0.227
+      },
+      {
+        "quando": "2026-11-01T10:52:26-03:00",
+        "referencia": "03-3658526b6583",
+        "transcript_id": "860f049e-0997-4ba6-bde9-6254292c1499",
+        "minutos": 40.17,
+        "custo_usd": 0.1874
+      },
+      {
+        "quando": "2026-11-01T10:52:31-03:00",
+        "referencia": "05-cb6c7ed55ba2",
+        "transcript_id": "afefc668-f91a-4ac2-bfdd-94a620d8fccb",
+        "minutos": 45.65,
+        "custo_usd": 0.213
+      },
+      {
+        "quando": "2026-11-01T10:52:32-03:00",
+        "referencia": "06-83c28dfc1ca6",
+        "transcript_id": "ef110d87-fbc5-420d-a4f1-415121801c95",
+        "minutos": 26.02,
+        "custo_usd": 0.1214
+      }
+    ],
+    "anthropic": [
+      {
+        "quando": "2026-11-01T10:53:37-03:00",
+        "etapa": "limpeza",
+        "referencia": "04-ef8e229d3a31",
+        "entrada": 3827,
+        "saida": 8370,
+        "cache_escrita_5m": 4197,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 0.2037
+      },
+      {
+        "quando": "2026-11-01T10:55:26-03:00",
+        "etapa": "limpeza",
+        "referencia": "03-3658526b6583",
+        "entrada": 15098,
+        "saida": 23574,
+        "cache_escrita_5m": 4197,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 0.5529
+      },
+      {
+        "quando": "2026-11-01T10:55:53-03:00",
+        "etapa": "limpeza",
+        "referencia": "02-4aba41bcd9f9",
+        "entrada": 16049,
+        "saida": 26779,
+        "cache_escrita_5m": 4197,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 0.6208
+      },
+      {
+        "quando": "2026-11-01T10:56:00-03:00",
+        "etapa": "limpeza",
+        "referencia": "01-abb6d08d60f0",
+        "entrada": 10954,
+        "saida": 27710,
+        "cache_escrita_5m": 4197,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 0.619
+      },
+      {
+        "quando": "2026-11-01T10:56:43-03:00",
+        "etapa": "limpeza",
+        "referencia": "07-10764e7417c1",
+        "entrada": 2139,
+        "saida": 6231,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 4197,
+        "buscas_web": 0,
+        "custo_usd": 0.134
+      },
+      {
+        "quando": "2026-11-01T10:57:42-03:00",
+        "etapa": "limpeza",
+        "referencia": "08-16fb996cfdd4",
+        "entrada": 6879,
+        "saida": 13448,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 4197,
+        "buscas_web": 0,
+        "custo_usd": 0.2973
+      },
+      {
+        "quando": "2026-11-01T10:58:25-03:00",
+        "etapa": "limpeza",
+        "referencia": "05-cb6c7ed55ba2",
+        "entrada": 15850,
+        "saida": 39697,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 4197,
+        "buscas_web": 0,
+        "custo_usd": 0.8582
+      },
+      {
+        "quando": "2026-11-01T10:58:27-03:00",
+        "etapa": "limpeza",
+        "referencia": "06-83c28dfc1ca6",
+        "entrada": 10081,
+        "saida": 24912,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 4197,
+        "buscas_web": 0,
+        "custo_usd": 0.5394
+      },
+      {
+        "quando": "2026-11-01T11:14:25-03:00",
+        "etapa": "apostila",
+        "referencia": "00-plano",
+        "entrada": 258,
+        "saida": 80343,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 85438,
+        "cache_leitura": 0,
+        "buscas_web": 0,
+        "custo_usd": 2.2914
+      },
+      {
+        "quando": "2026-11-01T11:18:47-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-02",
+        "entrada": 13999,
+        "saida": 28089,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 512684,
+        "buscas_web": 12,
+        "custo_usd": 0.8403
+      },
+      {
+        "quando": "2026-11-01T11:19:33-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-04",
+        "entrada": 14016,
+        "saida": 33784,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1138560,
+        "buscas_web": 13,
+        "custo_usd": 1.0895
+      },
+      {
+        "quando": "2026-11-01T11:19:42-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-03",
+        "entrada": 14013,
+        "saida": 34664,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1038011,
+        "buscas_web": 17,
+        "custo_usd": 1.1269
+      },
+      {
+        "quando": "2026-11-01T11:20:29-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-01",
+        "entrada": 14009,
+        "saida": 39977,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1274720,
+        "buscas_web": 16,
+        "custo_usd": 1.2705
+      },
+      {
+        "quando": "2026-11-01T11:22:29-03:00",
+        "etapa": "apostila",
+        "referencia": "resumo-executivo",
+        "entrada": 126,
+        "saida": 13650,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 85438,
+        "buscas_web": 0,
+        "custo_usd": 0.2906
+      },
+      {
+        "quando": "2026-11-01T11:23:49-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-05",
+        "entrada": 14018,
+        "saida": 30792,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1165655,
+        "buscas_web": 14,
+        "custo_usd": 1.045
+      },
+      {
+        "quando": "2026-11-01T11:25:30-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-07",
+        "entrada": 14037,
+        "saida": 34779,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1524611,
+        "buscas_web": 12,
+        "custo_usd": 1.1767
+      },
+      {
+        "quando": "2026-11-01T11:26:39-03:00",
+        "etapa": "apostila",
+        "referencia": "conteudo-parte-06",
+        "entrada": 14040,
+        "saida": 47982,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1308851,
+        "buscas_web": 18,
+        "custo_usd": 1.4576
+      },
+      {
+        "quando": "2026-11-01T11:28:57-03:00",
+        "etapa": "apostila",
+        "referencia": "pontos-enfatizados",
+        "entrada": 179,
+        "saida": 46713,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 85438,
+        "buscas_web": 0,
+        "custo_usd": 0.9521
+      },
+      {
+        "quando": "2026-11-01T11:33:49-03:00",
+        "etapa": "apostila",
+        "referencia": "material-complementar",
+        "entrada": 413,
+        "saida": 26416,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 3219871,
+        "buscas_web": 20,
+        "custo_usd": 1.3739
+      },
+      {
+        "quando": "2026-11-01T11:35:40-03:00",
+        "etapa": "apostila",
+        "referencia": "glossario",
+        "entrada": 181,
+        "saida": 85194,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 1302347,
+        "buscas_web": 12,
+        "custo_usd": 2.0851
+      },
+      {
+        "quando": "2026-11-01T11:38:17-03:00",
+        "etapa": "apostila",
+        "referencia": "duvidas-em-aberto",
+        "entrada": 237,
+        "saida": 93294,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 85438,
+        "buscas_web": 0,
+        "custo_usd": 1.8839
+      },
+      {
+        "quando": "2026-11-01T11:39:16-03:00",
+        "etapa": "apostila",
+        "referencia": "questoes-de-revisao",
+        "entrada": 282,
+        "saida": 92104,
+        "cache_escrita_5m": 0,
+        "cache_escrita_1h": 0,
+        "cache_leitura": 85438,
+        "buscas_web": 0,
+        "custo_usd": 1.8603
+      }
+    ],
+    "total_usd": 23.5986
+  },
+  "atualizado_em": "2026-11-01T11:43:42-03:00",
+  "audios": [
+    {
+      "posicao": 1,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.01.mp4",
+      "hash_sha256_audio": "abb6d08d60f03514b5c6b5012772a6abc6a8d78668d38850674864ce01746a39",
+      "gravado_em": "2026-10-23T09:27:03-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 1604.288,
+      "duracao": "0:26:44"
+    },
+    {
+      "posicao": 2,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.04.mp4",
+      "hash_sha256_audio": "4aba41bcd9f927362497865431df9a5453a6f95bae6608bf728727bf1ea5e23b",
+      "gravado_em": "2026-10-23T10:35:47-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 2917.056,
+      "duracao": "0:48:37"
+    },
+    {
+      "posicao": 3,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.04 (1).mp4",
+      "hash_sha256_audio": "3658526b6583a876cf391254ac950eeeda6bdaa37c1dbb1d09801d3a29531971",
+      "gravado_em": "2026-10-23T11:24:26-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 2409.344,
+      "duracao": "0:40:09"
+    },
+    {
+      "posicao": 4,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.04 (2).mp4",
+      "hash_sha256_audio": "ef8e229d3a3167aea911dbd4256e0546a79b1323d6532605e7f57e2a88162f7a",
+      "gravado_em": "2026-10-23T13:34:57-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 634.859,
+      "duracao": "0:10:35"
+    },
+    {
+      "posicao": 5,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.05.mp4",
+      "hash_sha256_audio": "cb6c7ed55ba2b3c9aa5db186e0b3f1635e5bb66e762ef3f6bc94875763b70460",
+      "gravado_em": "2026-10-23T14:49:36-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 2738.197,
+      "duracao": "0:45:38"
+    },
+    {
+      "posicao": 6,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.04 (3).mp4",
+      "hash_sha256_audio": "83c28dfc1ca6584d72b5ca21c7921490df77b3cf551b8d6e8150cae4002348fd",
+      "gravado_em": "2026-10-23T15:35:16-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 1560.256,
+      "duracao": "0:26:00"
+    },
+    {
+      "posicao": 7,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.05 (1).mp4",
+      "hash_sha256_audio": "10764e7417c11c5bae7ba3ae5528f579f61600fa7090a087ff4b2bf5ea5bd0f2",
+      "gravado_em": "2026-10-23T16:08:40-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 327.125,
+      "duracao": "0:05:27"
+    },
+    {
+      "posicao": 8,
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.05 (2).mp4",
+      "hash_sha256_audio": "16fb996cfdd4ee53605b82f77f246d00373d2ddbf50e45062ff21a6572c4757a",
+      "gravado_em": "2026-10-23T16:15:15-03:00",
+      "fonte_da_data": "creation_time",
+      "duracao_s": 1041.195,
+      "duracao": "0:17:21"
+    }
+  ],
+  "duracao_total": "3:40:32",
+  "duplicatas_ignoradas": [
+    {
+      "arquivo": "WhatsApp Audio 2026-10-30 at 15.43.01 (1).mp4",
+      "duplicata_de": "WhatsApp Audio 2026-10-30 at 15.43.01.mp4",
+      "hash": "abb6d08d60f03514b5c6b5012772a6abc6a8d78668d38850674864ce01746a39"
+    }
+  ],
+  "avisos": [],
+  "word": {
+    "titulos": 297,
+    "titulos_nivel_1": [
+      "Resumo executivo",
+      "Conteúdo da aula",
+      "Pontos enfatizados pelo professor",
+      "Glossário",
+      "Dúvidas em aberto",
+      "Questões de revisão",
+      "Material complementar",
+      "Anexo — Transcrição integral limpa"
+    ],
+    "tabelas": 109,
+    "links": 127,
+    "paragrafos": 2572
+  }
+}

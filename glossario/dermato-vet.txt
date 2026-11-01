@@ -1,0 +1,468 @@
+# Glossário de dermatologia veterinária usado como keyterms na AssemblyAI e como referência na limpeza.
+# Um termo por linha. Linhas iniciadas por # são comentários. Amplie a cada aula.
+
+# Camadas e estruturas da pele
+epiderme
+derme
+hipoderme
+tela subcutânea
+panículo adiposo
+estrato basal
+estrato germinativo
+estrato espinhoso
+estrato granuloso
+estrato lúcido
+estrato córneo
+membrana basal
+junção dermoepidérmica
+lâmina lúcida
+lâmina densa
+derme papilar
+derme reticular
+papilas dérmicas
+cristas epidérmicas
+coxim plantar
+coxins digitais
+plano nasal
+espelho nasal
+unidade pilossebácea
+folículo piloso
+folículo primário
+folículo secundário
+folículos compostos
+folículos simples
+bulbo piloso
+bainha radicular interna
+bainha radicular externa
+istmo folicular
+infundíbulo folicular
+músculo eretor do pelo
+pelos primários
+pelos secundários
+pelos táteis
+vibrissas
+pelos sinusais
+ciclo do pelo
+anágena
+catágena
+telógena
+exógena
+quenógena
+glândulas sebáceas
+glândulas sudoríparas
+glândulas apócrinas
+glândulas écrinas
+glândulas epitriquiais
+glândulas atriquiais
+glândulas hepatoides
+glândulas perianais
+glândula da cauda
+órgão supracaudal
+sacos anais
+glândulas tarsais
+unhas
+garras
+dobra ungueal
+leito ungueal
+matriz ungueal
+manto lipídico
+filme hidrolipídico
+barreira cutânea
+ceramidas
+microbiota cutânea
+
+# Células e componentes
+queratinócitos
+corneócitos
+melanócitos
+melanina
+melanossomos
+células de Langerhans
+células de Merkel
+mastócitos
+fibroblastos
+fibrócitos
+histiócitos
+macrófagos
+eosinófilos
+neutrófilos
+linfócitos
+plasmócitos
+células dendríticas
+desmossomos
+hemidesmossomos
+tonofilamentos
+queratina
+filagrina
+colágeno
+fibras elásticas
+elastina
+substância fundamental
+glicosaminoglicanos
+ácido hialurônico
+mucina
+sebo
+plexo vascular superficial
+plexo vascular profundo
+anastomoses arteriovenosas
+terminações nervosas livres
+corpúsculos de Pacini
+corpúsculos de Meissner
+
+# Histologia e histopatologia
+histopatologia
+biópsia
+punch
+hematoxilina-eosina
+acantose
+hiperqueratose
+hiperqueratose ortoqueratótica
+hiperqueratose paraqueratótica
+paraqueratose
+ortoqueratose
+disqueratose
+espongiose
+acantólise
+células acantolíticas
+balonização
+exocitose
+hipergranulose
+hipogranulose
+atrofia epidérmica
+degeneração hidrópica
+dermatite de interface
+dermatite perivascular
+dermatite nodular
+dermatite difusa
+paniculite
+foliculite
+furunculose
+perifoliculite
+adenite sebácea
+vasculite
+fibrose
+edema dérmico
+incontinência pigmentar
+melanose
+hiperpigmentação
+hipopigmentação
+despigmentação
+leucotriquia
+leucodermia
+piogranuloma
+granuloma
+microabscesso
+pústula subcorneal
+fenda subepidérmica
+
+# Lesões primárias e secundárias
+lesões primárias
+lesões secundárias
+mácula
+mancha
+pápula
+placa
+nódulo
+tumor
+pústula
+bolha
+vesícula
+urtica
+eritema
+alopecia
+alopecia multifocal
+alopecia simétrica
+hipotricose
+rarefação pilosa
+colarete epidérmico
+crosta
+crosta melicérica
+escama
+descamação
+caspa
+seborreia
+seborreia seca
+seborreia oleosa
+erosão
+úlcera
+fissura
+escoriação
+liquenificação
+comedão
+comedões
+cilindros foliculares
+calo
+cicatriz
+fístula
+trajeto fistuloso
+prurido
+autotraumatismo
+lambedura
+dermatite úmida aguda
+hot spot
+piodermite
+intertrigo
+
+# Exames e diagnóstico
+anamnese
+exame dermatológico
+raspado cutâneo
+raspado superficial
+raspado profundo
+tricograma
+citologia
+citologia por imprint
+citologia aspirativa
+fita adesiva
+fita de acetato
+lâmpada de Wood
+cultura fúngica
+DTM
+cultura bacteriana
+antibiograma
+PCR
+biópsia de pele
+teste intradérmico
+sorologia alérgica
+IgE específica
+dieta de eliminação
+dieta hipoalergênica
+proteína hidrolisada
+prova terapêutica
+diascopia
+sinal de Nikolsky
+reflexo otopodal
+otoscopia
+videotoscopia
+swab otológico
+cerúmen
+T4 livre
+TSH
+cortisol
+teste de supressão com dexametasona
+estimulação com ACTH
+diagnóstico diferencial
+
+# Doenças e condições
+dermatite atópica
+dermatite atópica canina
+síndrome atópica felina
+dermatite alérgica à picada de pulga
+DAPP
+hipersensibilidade alimentar
+alergia alimentar
+reação adversa ao alimento
+dermatite de contato
+dermatite por Malassezia
+Malassezia pachydermatis
+piodermite superficial
+piodermite profunda
+foliculite bacteriana
+Staphylococcus pseudintermedius
+MRSP
+Pseudomonas aeruginosa
+dermatofitose
+Microsporum canis
+Microsporum gypseum
+Nannizzia gypsea
+Trichophyton mentagrophytes
+esporotricose
+Sporothrix brasiliensis
+criptococose
+demodicose
+demodicose juvenil
+demodicose generalizada
+Demodex canis
+Demodex cati
+Demodex gatoi
+sarna sarcóptica
+escabiose
+Sarcoptes scabiei
+sarna notoédrica
+Notoedres cati
+otocaríase
+Otodectes cynotis
+queiletielose
+Cheyletiella
+pulgas
+Ctenocephalides felis
+carrapatos
+Rhipicephalus sanguineus
+pediculose
+leishmaniose visceral canina
+Leishmania infantum
+pênfigo foliáceo
+pênfigo vulgar
+penfigoide bolhoso
+lúpus eritematoso discoide
+lúpus eritematoso sistêmico
+eritema multiforme
+necrólise epidérmica tóxica
+síndrome de Stevens-Johnson
+farmacodermia
+vasculite cutânea
+dermatomiosite
+síndrome uveodermatológica
+vitiligo
+alopecia X
+alopecia por diluição de cor
+displasia folicular
+alopecia cíclica do flanco
+alopecia psicogênica
+hiperadrenocorticismo
+síndrome de Cushing
+hipotireoidismo
+calcinose cutânea
+dermatose responsiva ao zinco
+ictiose
+otite externa
+otite média
+otohematoma
+complexo granuloma eosinofílico
+granuloma eosinofílico
+úlcera indolente
+placa eosinofílica
+acne felina
+dermatite acral por lambedura
+granuloma por lambedura
+paniculite nodular estéril
+celulite juvenil
+mastocitoma
+carcinoma de células escamosas
+carcinoma espinocelular
+melanoma
+histiocitoma
+linfoma epiteliotrópico
+micose fungoide
+lipoma
+hemangiossarcoma
+tumor venéreo transmissível
+papilomatose
+miíase
+Dermatobia hominis
+tungíase
+
+# Fármacos e classes
+antibioticoterapia
+cefalexina
+cefovecina
+amoxicilina com clavulanato
+clindamicina
+enrofloxacina
+marbofloxacina
+doxiciclina
+sulfametoxazol com trimetoprima
+rifampicina
+mupirocina
+ácido fusídico
+clorexidina
+peróxido de benzoíla
+lactato de etila
+ácido salicílico
+miconazol
+cetoconazol
+itraconazol
+fluconazol
+terbinafina
+griseofulvina
+nistatina
+clotrimazol
+anfotericina B
+iodeto de potássio
+ivermectina
+selamectina
+moxidectina
+milbemicina oxima
+doramectina
+fluralaner
+afoxolaner
+sarolaner
+lotilaner
+isoxazolinas
+fipronil
+imidacloprida
+permetrina
+amitraz
+spinosad
+nitenpiram
+lufenurona
+piriproxifeno
+glicocorticoides
+corticosteroides
+prednisolona
+prednisona
+metilprednisolona
+dexametasona
+triancinolona
+hidrocortisona
+aceponato de hidrocortisona
+betametasona
+oclacitinib
+Apoquel
+ilunocitinib
+lokivetmab
+Cytopoint
+ciclosporina
+tacrolimo
+azatioprina
+clorambucil
+micofenolato
+imunoterapia alérgeno-específica
+anti-histamínicos
+hidroxizina
+cetirizina
+clemastina
+difenidramina
+ácidos graxos essenciais
+ômega 3
+pentoxifilina
+melatonina
+trilostano
+mitotano
+levotiroxina
+isotretinoína
+acitretina
+antiparasitários
+antifúngicos
+antimicrobianos
+antissépticos
+terapia tópica
+imunomoduladores
+imunossupressores
+posologia
+intralesional
+
+# Anatomia e termos clínicos gerais
+região periocular
+região perilabial
+pina
+conduto auditivo
+região axilar
+região inguinal
+região interdigital
+pododermatite
+região lombossacra
+flanco
+períneo
+junções mucocutâneas
+termorregulação
+queratinização
+cornificação
+renovação epidérmica
+turnover epidérmico
+melanogênese
+fotoproteção
+pelame
+subpelo
+pelos de cobertura
+braquicefálicos
+raças predispostas
+Shar-pei
+Bulldog Inglês
+Golden Retriever
+West Highland White Terrier
+Pastor Alemão
+Cocker Spaniel
+Persa
+Siamês
+Sphynx
